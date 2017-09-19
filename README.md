@@ -1,3 +1,10 @@
-# My Awesome Book
+# Bitcoin para no informáticos
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Por qué este artículo
+
+El tema de la velocidad con que cambiará lo que aquí se recomienda
+
+Seguir investigando y buscar noticias ¿en donde?
+
+
+
