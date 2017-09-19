@@ -1,10 +1,10 @@
-# Bitcoin para no informáticos
+# Introducción
 
-Por qué este artículo
+## ¿Por qué este artículo?
 
-El tema de la velocidad con que cambiará lo que aquí se recomienda
+Dado este nuevo fenómenos y las criptomonedas, son muchas las personas que llegan ...
+
+## El tema de la velocidad con que cambiará lo que aquí se recomienda
 
 Seguir investigando y buscar noticias ¿en donde?
-
-
 
