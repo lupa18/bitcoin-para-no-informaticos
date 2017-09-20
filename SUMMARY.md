@@ -1,6 +1,6 @@
 # Summary
 
-* [Introducción](introduccion.md)
+* [Introducción](README.md)
 * [¿Qué son las criptomonedas?](que-son-las-criptomonedas.md)
 * [¿Hay varias criptomonedas?](hay-varias-criptomonedas.md)
 * [Pero ¿cómo funcionan?](pero-como-funcionan.md)
