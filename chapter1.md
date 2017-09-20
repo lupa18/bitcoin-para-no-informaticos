@@ -20,7 +20,7 @@ Una de las fortalezas de este sistema de confianza, es que el código fuente de 
 
 Para comprenderlo mejor, piensa en un software como un edificio, y en los planos como el código fuente. Saber si existen o no puertas secretas, saber cómo se ensamblaron sus piezas, saber qué materiales se utilizaron y la calidad de un edificio es clave para poder confiar en él. Con el software pasa algo similar.
 
-Para la criptografía, como para la mayoría de las cosas en la vida actual, el código abierto es la condición mínuma aunque no suficiente para la **confianza**. 
+Para la criptografía, como para la mayoría de las cosas en la vida actual, el código abierto es la condición mínuma aunque no suficiente para la **confianza**.
 
 ## ¿Pero qué es la criptografía?
 
@@ -34,7 +34,7 @@ Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincro
 
 ## En resumen
 
-Es una forma de registro de transacciones que utiliza software libre mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red, lo la vuelve muy confiable.
+Una criptomoneda de creación de valor, que utiliza un registro de transacciones basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red.
 
 [^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde trabajo el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 
