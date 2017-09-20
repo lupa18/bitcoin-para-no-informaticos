@@ -24,7 +24,7 @@ Para la criptografía, como para la mayoría de las cosas en la vida actual, el 
 
 ## ¿Pero qué es la criptografía?
 
-Son operaciones matemáticas que codifican algún tipo de información, y en el caso de las criptomonedas, lo que se codifica es la **transacción**. No solamente queda codificada y descirta de forma unívoca, sino que a su vez, **se replica**: significa que la transacción se va esparciendo por la red y va quedando registrada en cada nodo que corre el software criptográfico, de modo que se vuelve prácticamente imposible falsificar una transacción.
+Son operaciones matemáticas que codifican algún tipo de información, y en el caso de las criptomonedas, lo que se codifica es la **transacción**. No solamente queda codificada y descirta de forma unívoca, sino que a su vez, **se replica**: significa que la transacción se va esparciendo por la red y va quedando registrada en cada nodo que corre el software criptográfico, de modo que se vuelve prácticamente imposible falsificar una transacción[^2].
 
 ## Una red distribuida
 
@@ -37,4 +37,6 @@ Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincro
 Una criptomoneda de creación de valor, que utiliza un registro de transacciones basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red.
 
 [^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde trabajo el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
+
+[^2]: Te recomiendo ver [este video](https://www.youtube.com/watch?v=Q8K311s7EiM) sobre la criptografía \(aunque no es específico para las criptomonedas, te va a resultar de utilidad\). 
 
