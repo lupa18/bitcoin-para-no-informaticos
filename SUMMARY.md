@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * [¿Qué son las criptomonedas?](chapter1.md)
-* ¿Qué tipo de criptomonedas existen?
+* [¿Qué tipo de criptomonedas existen?](que-tipo-de-criptomonedas-existen.md)
 * [Pero ¿cómo funciona?](crea-tus-billeteras.md)
 * Crear una billetera online
 * Crear una billetera híbrida
