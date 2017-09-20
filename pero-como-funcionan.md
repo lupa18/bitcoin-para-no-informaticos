@@ -1,4 +1,4 @@
-# Pero ¿cómo funciona?
+# Pero ¿cómo funcionan?
 
 ¿Cómo puedo comenzar a utilizar el sistema? Primero entendamos los **conceptos** usando como ejemplo la criptomoneda Bitcoin, y luego podrás intentar aplicar lo aprendido en caso que quieras usar otras.
 
@@ -21,6 +21,4 @@ FIXME
 ## ¿Comisiones?
 
 FIXME
-
-
 
