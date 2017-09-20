@@ -1,14 +1,30 @@
-Bitcoin
+# ¿Hay varias criptomonedas?
 
-Zcash
+Efectivamente hay muchas. La primers y la más famosa hasta el momento es Bitcoin. Sin embargo existen muchas monedas, muchas que parecen estar funcionando correctamente y otras que han desaparecido. Aquí te presentamos un listado no exahustivo y totalmente arbitrario de las que nos resultan más interesantes. 
 
-Litecoin
+## La primera: Bitcoin
 
-Namecoin
+asdf
 
-Faircoin
+## La que promete mejorar: Litecoin
 
-Monero
+asdf
 
-Ethereum
+## La emancipación de los dominios: Namecoin
+
+asdf
+
+## Una moneda diferente y justa: Faircoin
+
+asdf
+
+## Las totalmente anónimas: Zcash y Monero
+
+asdf
+
+## Más allá de una moneda: Ethereum
+
+asdf
+
+
 
