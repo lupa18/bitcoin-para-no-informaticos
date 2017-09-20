@@ -12,7 +12,7 @@ El avance, la variedad y la velocidad de surgimiento y adopción de criptomoneda
 
 A lo largo del texto, te vamos a ir proponiendo fuentes de información que creemos veraces y que podrás revisar cada vez para cotejar lo que aparece en el texto y continuar con tus propias investigaciones.
 
-Si sos experto en criptomonedas o en economía y estás leyendo esto, probablemente tengas unas cuantas críticas y sugerencias: ya sabes, este texto está en github, ¡haz un _pull request_ con las correcciones o mejoras y listo !
+Si sos experto en criptomonedas o en economía y estás leyendo esto, probablemente tengas unas cuantas críticas y sugerencias: ya sabes, este texto está en un repositorio abierto y tiene licencia libre así que , ¡puedes hacer un _pull request_ con las correcciones o mejoras y listo!
 
 [^1]: Versión original en inglés de ["Quiero toda la tierra más el 5%"](https://drive.google.com/file/d/0B3QqufElBUZwUjVMM1ZUTVg4QmM/view)
 
