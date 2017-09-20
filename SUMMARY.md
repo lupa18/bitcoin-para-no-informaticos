@@ -9,6 +9,7 @@
 * [Usar Bitcoin desde el celular](usar-bitcoin-desde-el-celular.md)
 * [Crear un nodo completo](crear-un-nodo-completo-de-bitcoin.md)
 * [Minar o no minar, that is the cuestión](minar-o-no-minar-that-is-the-cuestion.md)
-* [¿Cómo comprar bitcoins?](como-comprar-bitcoins.md)
+* [¿Cómo conseguir bitcoins?](como-comprar-bitcoins.md)
 * [PoW vs PoS](minar-o-no-minar-that-is-the-cuestion.md)
+* [Mina o no minar, that is the cuestión](mina-o-no-minar-that-is-the-cuestion.md)
 
