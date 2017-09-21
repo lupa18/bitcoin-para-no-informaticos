@@ -28,9 +28,11 @@ Más adelante veremos varias técnicas para comprar criptomonedas en detalle.
 
 ## El precio de mercado
 
-Como no existe autoridad monetaria central, el precio de las criptomonedas, se asigna por oferta y demanda. Es cierto que los precios están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa, pero esperemos que en un futuro los precios se estabilicen y aumente la confianza en el sistema. 
+Como no existe autoridad monetaria central, el precio de las criptomonedas, se asigna por oferta y demanda. Es cierto que los precios están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa, pero esperemos que en un futuro los precios se estabilicen y aumente la confianza en el sistema.
 
- FIXME: continuar
+Veamos la explicación tomada de la [web de Bitcoin en español](https://bitcoin.org/es/faq#que-determina-el-precio-del-bitcoin): 
+
+> "El precio del bitcoin se determina por la oferta y la demanda. Cuando se incrementa la demanda de bitcoin, el precio sube, y cuando cae la demanda, cae el precio. Hay un número limitado de bitcoins en circulación y los nuevos bitcoins son creados a una velocidad predecible y decreciente, esto significa que la demanda debe seguir este nivel de inflación para mantener un precio estable. Debido a que Bitcoin es todavía un mercado relativamente pequeño comparado con lo que podrá llegar a ser, no es necesaria una significativa cantidad de dinero para mover el precio del mercado arriba o abajo, es por eso que el precio del bitcoin es todavía muy volatil"
 
 ## ¿Comisiones?
 
