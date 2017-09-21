@@ -2,7 +2,7 @@
 
 ## ¿Por qué escribir estos artículos?
 
-Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que llegan con dudas y muchas ganas de aprender este nuevo universo. Amigos, conocidos, familiares, nos reguntan todo el tiempo **¿Qué es Bitcoin?** **¿Cómo compro Bitcoin?** **¿Qué es Prueba-de trabajo? \(proof-of-work\), etc..**
+Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que llegan con dudas y muchas ganas de aprender este nuevo universo. Amigos, conocidos, familiares, nos reguntan todo el tiempo **¿Qué es Bitcoin?** **¿Cómo compro Bitcoin?** **¿Qué es el blockchain?, etc..**
 
 Entonces la motivación principal es esa: acercar a los no informáticos o "no expertos",  una serie de conceptos y prácticas que se están extendiendo cada vez más y en el futuro pueden pasar a ser parte esencial de lo cotidiano.
 
@@ -16,13 +16,11 @@ A lo largo del texto, te vamos a ir proponiendo fuentes de información que cree
 
 ## Pensado desde el Sur
 
-Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiariades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo. 
+Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiariades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo.
 
 ## Un comentario "final"
 
 Si sos experto en criptomonedas o en economía y estás leyendo esto, probablemente tengas unas cuantas críticas y sugerencias: ya sabes, este texto está en un [repositorio abierto](https://github.com/lupa18/bitcoin-para-no-informaticos) y tiene licencia libre así que , ¡puedes hacer un _pull request_ con las correcciones o mejoras y listo!
-
-
 
 **Sudamérica, Setiembre de 2017**
 
