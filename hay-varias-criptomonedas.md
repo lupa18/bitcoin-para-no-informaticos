@@ -2,7 +2,7 @@
 
 Efectivamente hay muchas. La primers y la más famosa hasta el momento es Bitcoin. Sin embargo existen muchas monedas, muchas que parecen estar funcionando correctamente y otras que han desaparecido. Aquí te presentamos un listado no exahustivo y totalmente arbitrario de las que nos resultan más interesantes.
 
-## La primera: Bitcoin 
+## La primera: Bitcoin
 
 Bitcoin fue la primer criptomoneda en ser creada y la más adoptada hasta el momento, veamos una explicación del sitio web de  [Bitcoin en Español: ](https://bitcoin.org/es/faq)
 
@@ -13,6 +13,8 @@ Esta criptomoneda tiene algunas cuantas cosas que mejorar:
 1. La cuestión de la** privacidad,** ya que los metadatos de la transacción son públicos: fecha, hora, monto y otros. 
 2. El **tamaño del blockchain**: para correr un nodo completo de bitcoin es necesario 
 3. El **consumo** de recursos informáticos y por lo tanto energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-Of-Work e implica un gran poder de cómputo. Esto lo veremos más adelante. 
+
+Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tienen desperdicios. 
 
 ## La que promete mejorar: Litecoin
 
