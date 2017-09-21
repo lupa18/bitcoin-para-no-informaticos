@@ -24,17 +24,21 @@ Otra forma es a través de los "traders" o casas de cambio. Uno coloca allí dó
 
 También podrías crear una orden de compra condicional en una casa de cambio, por ejemplo, comprar 0,1 bitcoin siempre que el precio baje a 3.000 dólares \(hoy por ejemplo está a 3.900\). De forma que si el precio baja de 3.900 a 3.000 se ejecuta la transferencia a tu billetera y habrás gastado 300 dólares más las comisiones.
 
-Más adelante veremos varias técnicas para comprar criptomonedas.
+Más adelante veremos varias técnicas para comprar criptomonedas en detalle.
 
 ## El precio de mercado
 
-FIXME
+Como no existe autoridad monetaria central, el precio de las criptomonedas, se asigna por oferta y demanda. Es cierto que los precios están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa, pero esperemos que en un futuro los precios se estabilicen y aumente la confianza en el sistema. 
+
+ FIXME: continuar
 
 ## ¿Comisiones?
 
-FIXME
+FIXME: explicación de las comisiones
+
+---
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión
 
-[^1]: En realidad la donación fue a un nodo de la red denominado [diasp.org](https://diasp.org/)
+[^1]: En realidad la donación que realicé fue a un solo nodo de la red Diaspora\* denominado [diasp.org](https://diasp.org/)
 
