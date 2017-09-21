@@ -13,12 +13,12 @@ Como ya se mencionó las criptomonedas deben ser un bien escaso, por eso existe 
 Esta criptomoneda tiene algunas cuantas cosas que mejorar:
 
 1. La cuestión de la** privacidad,** ya que los metadatos de la transacción son públicos: fecha, hora, monto y otros. 
-2. El **tamaño del blockchain**: para correr un nodo completo de bitcoin es necesario 
+2. El **tamaño del blockchain**: para correr un nodo completo de bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 133 GB[^1]. 
 3. El **consumo** de recursos informáticos y por lo tanto energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-Of-Work e implica un gran poder de cómputo. Esto lo veremos más adelante. 
 
 Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tienen desperdicios.
 
-## La que promete mejorar: Litecoin
+## La que prometió mejorar: Litecoin
 
 asdf
 
@@ -37,4 +37,6 @@ asdf
 ## Más allá de una moneda: Ethereum
 
 asdf
+
+[^1]: Aquí podrás ver el [tamaño del blockchain](https://blockchain.info/es/charts/blocks-size) en "tiempo real"
 
