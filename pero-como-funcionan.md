@@ -30,17 +30,25 @@ Más adelante veremos varias técnicas para comprar criptomonedas en detalle.
 
 Como no existe autoridad monetaria central, el precio de las criptomonedas, se asigna por oferta y demanda. Es cierto que los precios están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa, pero esperemos que en un futuro los precios se estabilicen y aumente la confianza en el sistema.
 
-Veamos la explicación tomada de la [web de Bitcoin en español](https://bitcoin.org/es/faq#que-determina-el-precio-del-bitcoin): 
+Veamos la explicación tomada de la [web de Bitcoin en español](https://bitcoin.org/es/faq#que-determina-el-precio-del-bitcoin):
 
 > "El precio del bitcoin se determina por la oferta y la demanda. Cuando se incrementa la demanda de bitcoin, el precio sube, y cuando cae la demanda, cae el precio. Hay un número limitado de bitcoins en circulación y los nuevos bitcoins son creados a una velocidad predecible y decreciente, esto significa que la demanda debe seguir este nivel de inflación para mantener un precio estable. Debido a que Bitcoin es todavía un mercado relativamente pequeño comparado con lo que podrá llegar a ser, no es necesaria una significativa cantidad de dinero para mover el precio del mercado arriba o abajo, es por eso que el precio del bitcoin es todavía muy volatil"
 
+Son muchas las plataformas de compra y venta de criptomonedas y es apartir de esas plataformas que se van colocando órdenes de compra y venta que van haciendo variar los precios. En el ejemplo de que alguna persona conocida te venda critpomonedas, pueden acordar también un precio diferente al de mercado, nada lo imprediría ¿no?
+
+Sobre las pltaformas de intercambio, alguna de las que se pueden listar son [Coinbase](https://www.coinbase.com/), [Poloniex](https://poloniex.com/), [Cex.io](https://cex.io/), [Coinmama](https://www.coinmama.com), [LocalBitcoins](https://localbitcoins.com/), [Kraken](https://www.kraken.com/), [Bitfinex](https://www.bitfinex.com/), [SatohiTango](https://satoshitango.com),  [Bisq](https://bisq.network/), etc.[^2], y cada una tiene mecanismos, precios y condiciones: no todas tienen los mismos precios o comisiones, no todas manejan todas las monedas, no todas permiten colocar fondos de la misma forma, etc.. En otro apartado veremos cómo realizar transacciones con criptomonedas de forma práctica.
+
 ## ¿Comisiones?
 
-FIXME: explicación de las comisiones
+Ya se nombró algunas veces el concepto de comisión. Efectivamente, para sostener la red, debe haber un incentivo.
+
+FIXME: continuar
 
 ---
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión
 
 [^1]: En realidad la donación que realicé fue a un solo nodo de la red Diaspora\* denominado [diasp.org](https://diasp.org/)
+
+[^2]: Aquí hay un [listado y tabla comparativa](https://www.bestbitcoinexchange.io/) que te puede ser de utilidad. 
 
