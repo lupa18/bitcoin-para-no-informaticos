@@ -14,9 +14,17 @@ El avance, la variedad y la velocidad de surgimiento y adopción de criptomoneda
 
 A lo largo del texto, te vamos a ir proponiendo fuentes de información que creemos veraces y que podrás revisar cada vez para cotejar lo que aparece en el texto y continuar con tus propias investigaciones.
 
+## Pensado desde el Sur
+
+Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiariades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo. 
+
 ## Un comentario "final"
 
 Si sos experto en criptomonedas o en economía y estás leyendo esto, probablemente tengas unas cuantas críticas y sugerencias: ya sabes, este texto está en un [repositorio abierto](https://github.com/lupa18/bitcoin-para-no-informaticos) y tiene licencia libre así que , ¡puedes hacer un _pull request_ con las correcciones o mejoras y listo!
+
+
+
+**Sudamérica, Setiembre de 2017**
 
 [^1]: Versión original en inglés de ["Quiero toda la tierra más el 5%"](https://drive.google.com/file/d/0B3QqufElBUZwUjVMM1ZUTVg4QmM/view)
 
