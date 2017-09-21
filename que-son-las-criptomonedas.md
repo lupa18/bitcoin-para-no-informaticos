@@ -1,4 +1,4 @@
-# ¿Qué son las criptomonedas o criptodivisas?
+# ¿Qué son las criptomonedas?
 
 No va a ser sencillo entender qué son las criptomonedas, pero digamos que tampoco es sencillo entender qué es el dinero en sí mismo y qué es el supuesto dinero que existe en los bancos.
 
@@ -6,13 +6,13 @@ El asunto es que estamos muy acostumbrados a utilizar ese papel o esos metales a
 
 ## ¿Qué características tienen las monedas?
 
-bien escaso, fungible, confianza, etc..
+Para que un material u objeto pueda servir como moneda, como dinero, tiene ciertas propiedades que debe cumplir: debe ser un bien escaso, divisible, duradero, fungible \(que sirva para el intercambio\) y principalmente, se debe tener confianza en ella.  
 
-FIXME: continuar
+El papel  papel o metales que estamos acostumbrados  utilizar, cumplen estas características. Bitcoin y las criptomonedas, también las cumplen: algunas de ellas de mejor forma que otras. En este caso otorgamos **confianza**  en algoritmos y programas informáticos, liderados por empresas o comunidades. Estos programas funcionan realizando cálculos criptográficos y manteniendo un libro contable, llamado blockchain \(o cadena de bloques\) con todas las transacciones del sistema.
 
-En el caso de Bitcoin, o más aún de las criptomonedas, también depositamos **confianza**, pero en algoritmos y programas informáticos, liderados por empresas o comunidades. Estos programas funcionan realizando cálculos criptográficos y manteniendo un libro contable, llamado blockchain \(o cadena de bloques\) con todas las transacciones del sistema.
+Es decir, es un libro contable descentralizado en el que los saldos no están asociados a los usuarios, sino a las direcciones públicas que ellos controlan. 
 
-Hay algunos puntos interesantes en esta forma de afrontar el problema de la confianza. Veamos algunos de ellos.
+Existen algunos elementos a la hora de afrontar el problema de la confianza y en general la adopción y uso de este tipo de tecnología monetaria. Veamos algunos de ellos.
 
 ## El código abierto
 
