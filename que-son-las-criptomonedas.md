@@ -8,9 +8,9 @@ El asunto es que estamos muy acostumbrados a utilizar ese papel o esos metales a
 
 Para que un material u objeto pueda servir como moneda, como dinero, tiene ciertas propiedades que debe cumplir: debe ser un bien escaso, divisible, duradero, fungible \(que sirva para el intercambio\) y principalmente, se debe tener confianza en ella.
 
-El papel  papel o metales que estamos acostumbrados  utilizar, cumplen estas características. Bitcoin y las criptomonedas, también las cumplen: algunas de ellas de mejor forma que otras. En este caso otorgamos **confianza**  en algoritmos y programas informáticos, liderados por empresas o comunidades. Estos programas funcionan realizando cálculos criptográficos y manteniendo un libro contable, llamado blockchain \(o cadena de bloques\) con todas las transacciones del sistema.
+El papel  papel o metales que estamos acostumbrados  utilizar, cumplen estas características. Bitcoin y las criptomonedas, también las cumplen: algunas de ellas de mejor forma que otras. En este caso otorgamos **confianza**  en algoritmos y programas informáticos, liderados por empresas o comunidades. Estos programas funcionan realizando cálculos criptográficos y manteniendo un libro contable, llamado **blockchain** \(o cadena de bloques\) con todas las transacciones del sistema.
 
-Es decir, es un libro contable descentralizado en el que los saldos no están asociados a los usuarios, sino a las direcciones públicas que ellos controlan.
+Entonces, el **blockhain **es un libro contable descentralizado en el que se registan las **transacciones** de bitcoin de forma **pública** y donde los saldos no están asociados a los usuarios, sino a las **direcciones públicas** que ellos controlan.
 
 Existen algunos elementos a la hora de afrontar el problema de la confianza y en general la adopción y uso de este tipo de tecnología monetaria. Veamos algunos de ellos.
 
@@ -34,7 +34,7 @@ Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincro
 
 ## En resumen
 
-Una criptomoneda es una forma de creación de valor, que utiliza un registro de transacciones público basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red utilizando critptografía. 
+Una criptomoneda es una forma de creación de valor, que utiliza un registro de transacciones público basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red utilizando critptografía.
 
 [^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde trabajo el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 

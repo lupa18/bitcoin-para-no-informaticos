@@ -44,6 +44,10 @@ Ya se nombró algunas veces el concepto de comisión. Efectivamente, para sosten
 
 FIXME: continuar
 
+¿Qué es la minería de criptomonedas?
+
+FIXME: continuar
+
 ---
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión
