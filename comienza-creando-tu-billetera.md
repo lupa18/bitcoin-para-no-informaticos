@@ -1,6 +1,8 @@
 # Comienza creando tu billetera
 
-# Billetera online
+Como mencionábamos en un artículo anterior, lo primero en una criptomoneda es crear una **billetera** y a partir de ella una o más **direcciones **con las que se realizarán las transacciones. 
+
+## Billetera online
 
 asdf
 
@@ -11,6 +13,4 @@ asdf
 ## Billetera móvil \(desde el celular\)
 
 asdf
-
-
 
