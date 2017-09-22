@@ -1,6 +1,6 @@
 # ¿Hay varias criptomonedas?
 
-Efectivamente hay muchas. La primers y la más famosa hasta el momento es Bitcoin. Sin embargo existen muchas monedas, muchas que parecen estar funcionando correctamente y otras que han desaparecido. Aquí te presentamos un listado no exahustivo y totalmente arbitrario de las que nos resultan más interesantes.
+Efectivamente hay muchas. La primera y la más famosa hasta el momento es Bitcoin. Sin embargo existen otras criptomonedas, muchas que parecen estar funcionando correctamente y están siendo adoptadas en diferentes grados, mientras otras no tienen usuarios o han desaparecido. Aquí te presentamos un listado no exahustivo y totalmente arbitrario de las que nos resultan más interesantes.
 
 ## La primera: Bitcoin
 
@@ -16,7 +16,7 @@ Esta criptomoneda tiene algunas cuantas cosas que mejorar:
 2. El **tamaño del blockchain**: para correr un nodo completo de bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 133 GB[^1]. 
 3. El **consumo** de recursos informáticos y por lo tanto energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-Of-Work e implica un gran poder de cómputo. Esto lo veremos más adelante. 
 
-Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tienen desperdicios.
+Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tiene desperdicios.
 
 ## La que prometió mejorar: Litecoin
 
