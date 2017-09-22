@@ -2,27 +2,35 @@
 
 ¿Cómo puedo comenzar a utilizar el sistema? Primero entendamos los **conceptos** usando como ejemplo la criptomoneda Bitcoin, y luego podrás intentar aplicar lo aprendido en caso que quieras usar otras.
 
-Para comenzar, es necesario crear una **billetera**, que puede ser online, o puede estar en tu computadora, o incluso en tu celular. Eso te va a dar una **dirección** como la que sigue: 1k9B1wWZoJLcdYMg3vTrWYNfynbSCNDfs.
+Repasemos como funciona, citando un texto del libro "Bitcoin: La moneda del futuro":
 
-Esta es la dirección de donación de la [ONG TEDIC](https://www.tedic.org), por lo que si alguien envía Bitcoins hacia allí, colaborará en el desarrollo y sostenimiento de la organización.
+> Cuando un usuario A transfiere bitcoins a un usuario B, el usuario A renuncia a su posesión de un determinado número de bitcoins, agregándoles la llave pública de B y firmando la combinación resultante con su llave privada. \(Gracias al empleo de la criptografía asimétrica, la llave privada no puede ser deducida de la firma que de ella deriva\). Esta información se transmite a toda la red P2P como una nueva transacción. Entonces, el resto de los nodos de la red verifican el número de bitcoins involucrados y la autenticidad de las firmas criptográficas, antes de aceptar la transacción como válida.
 
-Estas direcciones públicas de Bitcoin, no tienen información del usuario, aunque sí contiene ciertos **metadatos** que podrían servir para realizar algún tipo de identificación.
+Es decir, que para comenzar, es necesario crear una **billetera**, que puede ser online, o puede estar en tu computadora, o incluso en tu celular -- esto lo retomaremos en el siguiente artículo. A partir de ella, se generarán una o varias **direcciones públicas** como la siguiente: 1k9B1wWZoJLcdYMg3vTrWYNfynbSCNDfs. 
 
-Veamos el ejemplo de una transacción: sobre fines de 2016, realicé [una donación](https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e) a la red social Diaspora\*[^1] y así se ven sus metadatos:
+A partir de ella, se envía o se reciben los bitcoins. Esa dirección que se tomó como ejemplo, se generó en una billetera de la [ONG TEDIC](https://www.tedic.org) por lo que si alguien envía Bitcoins hacia allí, colaborará en el desarrollo y sostenimiento de la organización.
 
-![](/assets/Selección_081.png)En este ejemplo, se ven las **dos direcciones implicadas** en la transacción así como otra información sobre la misma.
+Como se puede apreciar las **direcciones públicas** de Bitcoin, no tienen información del usuario, sin embargo las **transacciones que también son públicas** almacenan otros **metadatos** que podrían servir para identificar a los usuarios. Es que todas las transacciones son accesibles a través de las plataformas de exploración del **blockchain**. 
 
-Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizando nuevas técnicas critpográficas para no exponer los metadatos. Por ejemplo Zcash utiliza pruebas de conocimiento-cero \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir dinero.
+Veamos el ejemplo de una transacción que realicé sobre fines de 2016 como [una donación](https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e) a la red social Diaspora\*[^1]. Se puede acceder en el siguiente enlace: [https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e](https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e) 
 
-Volviendo al tema de las direcciones, puedes generar tantas direcciones como quieas: incluso hay quienes recomiendan generar una por cada transacción. Por el momento piensa que una billetera es una dirección para simplificar.
+Y así es como se ve la información completa de la transacción y sus metadatos:
 
-Una vez que tiene billetera y direcciones, debes lograr que alguien **transfiera bitcoins** a tu billetera, enviándole tu dirección y entregándole dinero o servicios a cambio. No es necesario transferir 1 bitcoin, pues como ya mencionamos, las criptomonedas son** divisibles,** por lo que se puede subdividir en partes muy pequeñas, por ejemplo 0,01 btc sería una parte en cien de 1 bitcoin. En el caso de esta moneda, se puede dividir hasta 0.00000001 btc, lo que se denomina 1 Satoshi \(en honor a su creador\).
+![](/assets/Selección_081.png)En este ejemplo, se ven las **dos direcciones implicadas** en la transacción así como otra información sobre la misma: monto, comisión, fecha y hora, etc..
 
-Una posibilidad para lograr tener bitcoins, es que un amigo pueda venderte algunos bitcoins, por lo que tu le entregarías algunos dólares o quizás algún servicio \(una limpieza de dormitorio, el corte de césped de su casa, un corte de pelo, etc..\). Entonces una vez entregado el dinero o realizado el servicio, esta persona te enviaría los bitcoins a tu billetera.
+Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas critpográficas para no exponer la información sobre la transacción y por tanto tampoco los metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir dinero.
 
-Otra forma es a través de los "traders" o casas de cambio. Uno coloca allí dólares u otra moneda, y la casa de cambio te envía los bitcoins a tu dirección, según la cotización **"de mercado"**.
+Volviendo al tema de las **direcciones**, decíamos que puedes generar tantas direcciones como quieas: incluso hay quienes recomiendan generar una por cada transacción. Por el momento piensa que una billetera es una dirección para simplificar.
 
-También podrías crear una orden de compra condicional en una casa de cambio, por ejemplo, comprar 0,1 bitcoin siempre que el precio baje a 3.000 dólares \(hoy por ejemplo está a 3.900\). De forma que si el precio baja de 3.900 a 3.000 se ejecuta la transferencia a tu billetera y habrás gastado 300 dólares más las comisiones.
+Una vez que tienes la billetera y las direcciones, debes lograr que alguien **transfiera bitcoins** a tu billetera, enviándole tu dirección -- como por ejemplo la de TEDIC -- y entregándole dinero o servicios a cambio, o simplemente pidiéndole una donación. 
+
+No es necesario transferir 1 bitcoin, pues como ya mencionamos, las criptomonedas son** divisibles,** por lo que se puede trabajar con fracciones, por ejemplo 0,01 btc sería una parte en cien de 1 bitcoin. En el caso de esta moneda, se puede dividir hasta 0.00000001 btc, lo que se denomina 1 Satoshi \(en honor a su creador [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto)\).
+
+Por ejemplo, podrías lograr tener bitcoins, pidiéndole a amigo que transfiera algunos bitcoins, por los que tu le entregarías algunos billetes de curso legal \(dólares, pesos, soles o lo que fuere\). Incluso podrías intercambiar algún servicio como la  limpieza de un dormitorio, el cuidado de su hija, un corte de césped o un corte de cabello. Entonces una vez entregado el dinero o realizado el servicio, esta persona te enviaría los bitcoins a tu billetera.
+
+Otra forma es a través de las casas de cambio: se colocan allí los dólares u otra moneda, y la casa de cambio envía los bitcoins a tu dirección, según la cotización **"de mercado"**. Además existen otras formas como máquinas automáticas que funcionan por el momento en algunos países de Europa. 
+
+También podrías crear una **orden de compra** condicional en una casa de cambio, por ejemplo, comprar 0,1 bitcoin siempre que el precio baje a 3.000 dólares \(hoy por ejemplo está a 3.900\). De forma que si el precio baja de 3.900 a 3.000 se ejecuta la transferencia a tu billetera y habrás gastado 300 dólares más las comisiones.
 
 Más adelante veremos varias técnicas para comprar criptomonedas en detalle.
 
