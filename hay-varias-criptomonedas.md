@@ -10,9 +10,9 @@ Bitcoin fue la primer criptomoneda en ser creada y la más adoptada hasta el mom
 
 Como ya se mencionó las criptomonedas deben ser un bien escaso, por eso existe un número limitado de bitcoins, que se ha fijado de forma arbitraria en FIXME
 
-En el libro "Bitcoin: La moneda del futuro" lo plantean de la siguiente forma: 
+En ese mismo libro, plantean de la resumen de la siguiente forma esta característica:
 
-> "A diferencia del dinero de curso forzoso, Bitcoin no puede ser controlado por ninguna autoridad debido a su naturaleza descentralizada. La expansión de la base monetaria está predeterminada por el software de Bitcoin y es conocida por todos, de modo que no es posible afectar el poder adquisitivo de los usuarios manipulando la cantidad de bitcoins en circulación".
+> "A diferencia del dinero de curso forzoso, Bitcoin no puede ser controlado por ninguna autoridad debido a su naturaleza descentralizada. La expansión de la base monetaria está predeterminada por el software de Bitcoin y es conocida por todos, de modo que no es posible afectar el poder adquisitivo de los usuarios manipulando la cantidad de bitcoins en circulación".
 
 Esta criptomoneda tiene algunas cuantas cosas que mejorar:
 
