@@ -9,4 +9,5 @@
 * [Minar o no minar, that is the cuestión](minar-o-no-minar-that-is-the-cuestion.md)
 * [¿Cómo conseguir bitcoins?](como-conseguir-bitcoins.md)
 * [PoW vs PoS](pow-vs-pos.md)
+* [Otros usos del Blockchain](otros-usos-del-blockchain.md)
 
