@@ -6,3 +6,7 @@ FIXME: la idea de este capítulo es presentar los usos más innovadores del Bloc
 
 [Blockchain y salud](https://futurism.com/blockchain-ready-completely-transform-healthcare-industry/)
 
+FIXME: verificar https://21.co/
+
+
+
