@@ -1,2 +1,6 @@
-Crear un nodo completo
+# Crear un nodo completo
+
+FIXME: capítulo en desarrollo
+
+
 

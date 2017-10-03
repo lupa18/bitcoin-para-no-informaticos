@@ -1,6 +1,8 @@
 # Comienza creando tu billetera
 
-Como mencionábamos en un artículo anterior, lo primero en una criptomoneda es crear una **billetera** y a partir de ella una o más **direcciones **con las que se realizarán las transacciones. 
+FIXME: capítulo en desarrollo
+
+Como mencionábamos en un artículo anterior, lo primero en una criptomoneda es crear una **billetera** y a partir de ella una o más **direcciones **con las que se realizarán las transacciones.
 
 ## Billetera online
 
