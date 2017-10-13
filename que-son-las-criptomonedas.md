@@ -28,7 +28,7 @@ Son operaciones matemáticas que codifican algún tipo de información, y en el 
 
 ## Una red distribuida
 
-Otra de las fortalezas de este tipo de sistema, es que se conforman como** redes distribuidas**, es decir, como nodos intecronectados, sin un centro o servidor. Todo funciona entre pares, o peer-to-peer y esto hace que le red sea muy fuerte, pues la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
+Otra de las fortalezas de este tipo de sistema, es que se conforman como** redes distribuidas**, es decir, como nodos intecronectados, sin un centro o servidor. Todo funciona entre pares, o **peer-to-peer ** \(p2p\) y esto hace que le red sea "muy fuerte", pues la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
 
 Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincronizando con el resto y en cada momento va teniendo una copia de cada transacción válida.
 

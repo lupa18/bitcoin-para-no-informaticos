@@ -1,6 +1,8 @@
 # ¿Hay varias criptomonedas?
 
-Efectivamente hay muchas. La primera y la más famosa hasta el momento es Bitcoin. Sin embargo existen otras criptomonedas, muchas que parecen estar funcionando correctamente y están siendo adoptadas en diferentes grados, mientras otras no tienen usuarios o han desaparecido. Aquí te presentamos un listado no exahustivo y totalmente arbitrario de las que nos resultan más interesantes.
+Efectivamente hay muchas y todas \(las que veremos\) tienen las características que te presentamos en el capítulo anterior: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.  
+
+La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/). Sin embargo existen otras criptomonedas, muchas que parecen estar funcionando correctamente y están siendo adoptadas en diferentes grados, mientras otras no tienen prácticamente usuarios o han desaparecido. Aquí te presentamos un listado **no exahustivo y totalmente arbitrario** de las que nos resultan más interesantes.
 
 ## La primera: Bitcoin
 
@@ -26,9 +28,11 @@ Te recomendamos que leas todas las [preguntas frecuentes en español](https://bi
 
 Está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el procesamiento de bloques de forma más rápida, **ii\)** el total de unidades en la red será 4 veces mayor que Bitcoin y iii\) usa la función "scrypt" en su mecanismo de proof-of-work que hace el minado más sencillo.
 
-Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain:** mientras en Bitcoin ya pasó los 133GB en Litecoin está en torno a los 10GB. 
+Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain:** mientras en Bitcoin ya pasó los 133GB en Litecoin está en torno a los 10GB.
 
 Sin embargo hasta el momento, su adopción y su valorización no se han popularizado: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
+
+Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org/)
 
 ## La emancipación de los dominios: Namecoin
 
@@ -40,13 +44,19 @@ asdf
 
 FIXME: revisar: [https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin)
 
-## Las totalmente anónimas: Zcash y Monero
+## La búsqueda del anonimato: Zcash
+
+asdf
+
+##  Otra totalmente anónima: Monero
 
 asdf
 
 ## Más allá de una moneda: Ethereum
 
 asdf
+
+En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pero-como-funcionan.html) presentamos una sección "Herramientas" donde encontrarás varias formas de comparar todas estas criptomonedas
 
 [^1]: Aquí podrás ver el [tamaño del blockchain](https://blockchain.info/es/charts/blocks-size) en "tiempo real"
 
