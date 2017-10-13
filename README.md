@@ -10,7 +10,7 @@ Las explicaciones de por qué las criptomonedas están teniendo tanto éxito pue
 
 ## La velocidad del cambio
 
-El avance, la variedad y la velocidad de surgimiento y adopción de criptomonedas te va a obligar a verificar la fecha de estos artículos e ir con cautela tratando de ver que lo que aquí está escrito aún se corresponda con la realidad.
+El avance, la variedad y la velocidad de surgimiento y adopción de criptomonedas te va a obligar a verificar la fecha de estos artículos e ir con cautela tratando de ver que lo que aquí está escrito aún se corresponda con la realidad \(si es que alguna vez lo hizo\).
 
 A lo largo del texto, te vamos a ir proponiendo fuentes de información que creemos veraces y que podrás revisar cada vez para cotejar lo que aparece en el texto y continuar con tus propias investigaciones.
 
@@ -21,6 +21,29 @@ Estos artículos, si bien pueden servir para cualquier persona en el mundo, tien
 ## Un comentario "final"
 
 Si sos experto en criptomonedas o en economía y estás leyendo esto, probablemente tengas unas cuantas críticas y sugerencias: ya sabes, este texto está en un [repositorio abierto](https://github.com/lupa18/bitcoin-para-no-informaticos) y tiene licencia libre así que , ¡puedes hacer un _pull request_ con las correcciones o mejoras y listo!
+
+## Licencia
+
+Estos artículos que forman parte este ["libro" de gitbook](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/) llamado "Bitcoin para no informáticos" tienen una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/):
+
+![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+Eres libre de:
+
+* **Compartir — copiar y redistribuir el material en cualquier medio o formato**
+* **Adaptar — remezclar, transformar y crear a partir del material**
+* **Para cualquier propósito, incluso comercialmente**
+
+**El licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia**
+
+Bajo los siguientes términos:
+
+* **Atribución** — Debes darle crédito a esta obra [de manera adecuada](https://creativecommons.org/licenses/by-sa/4.0/deed.es#), proporcionando un enlace a la licencia, e [indicando si se han realizado cambios](https://creativecommons.org/licenses/by-sa/4.0/deed.es#). Puedes hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que vos o su uso tienen el apoyo del licenciante.
+
+* **CompartirIgual** — Si mezclas, transformas o creas nuevo material a partir de esta obra, podrás distribuir su contribución siempre que utilice la [misma licencia](https://creativecommons.org/licenses/by-sa/4.0/deed.es#) que la obra original.
+
+* **No hay restricciones adicionales**
+   — Usted no puede aplicar términos legales ni [medidas tecnológicas que restrinjan legalmente a otros hacer cualquier uso permitido por la licencia.](https://creativecommons.org/licenses/by-sa/4.0/deed.es#)
 
 **Sudamérica, Setiembre de 2017**
 
