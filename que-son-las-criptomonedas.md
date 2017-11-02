@@ -40,7 +40,7 @@ Estatista
 
 Lavado
 
-Medio ambiente
+Medio ambiente: Descripción e ir a capítulo POW
 
 ## En resumen
 
