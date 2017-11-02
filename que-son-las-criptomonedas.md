@@ -32,6 +32,16 @@ Otra de las fortalezas de este tipo de sistema, es que se conforman como** redes
 
 Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincronizando con el resto y en cada momento va teniendo una copia de cada transacción válida.
 
+## Las críticas
+
+FIXME: sección en construcción
+
+Estatista
+
+Lavado
+
+Medio ambiente
+
 ## En resumen
 
 Una criptomoneda es una forma de creación de valor, que utiliza un registro de transacciones público basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red utilizando critptografía.
