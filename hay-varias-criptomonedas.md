@@ -22,7 +22,7 @@ Finalmente, esta criptomoneda tiene algunas cuantas cosas que mejorar:
 2. El **tamaño del blockchain**: para correr un nodo completo de bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 133 GB[^1]. 
 3. El **consumo** de recursos informáticos y por lo tanto energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-Of-Work e implica un gran poder de cómputo. Esto lo veremos más adelante. 
 
-Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una FIXME y veremos cómo instalarlo en los siguientes artíclos. 
+Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una FIXME y veremos cómo instalarlo en los siguientes artíclos.
 
 Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tiene desperdicios.
 
@@ -32,9 +32,9 @@ Está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias p
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain:** mientras en Bitcoin ya pasó los 133GB en Litecoin está en torno a los 10GB.
 
-Sin embargo hasta el momento, su adopción y su valorización no se han popularizado: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.  
+Sin embargo hasta el momento, su adopción y su valorización no se han popularizado: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
-En el artículo ["What is the Difference Between Litecoin and Bitcoin?"](https://www.coindesk.com/information/comparing-litecoin-bitcoin/) ofrecen una tabla comparativa entre ambas monedas, así como las diferencias en los algoritmos de minado y otros detalles técnicos. 
+En el artículo ["What is the Difference Between Litecoin and Bitcoin?"](https://www.coindesk.com/information/comparing-litecoin-bitcoin/) ofrecen una tabla comparativa entre ambas monedas, así como las diferencias en los algoritmos de minado y otros detalles técnicos.
 
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT/X11](https://es.wikipedia.org/wiki/Licencia_MIT).
 
@@ -57,6 +57,10 @@ asdf
 ## Otra totalmente anónima: Monero
 
 asdf
+
+## Mejora ambiental: Chia
+
+https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/
 
 ## Más allá de una moneda: Ethereum
 
