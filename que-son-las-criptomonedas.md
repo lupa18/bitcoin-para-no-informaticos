@@ -34,13 +34,15 @@ Cada nodo en esta red de nodos, tiene una copia del blockchain, que se va sincro
 
 ## Las críticas
 
-FIXME: sección en construcción
+Las críticas al sistema son numerosaspero en el presente artículo veremos algunas que nos resultan más destacables. 
 
-Estatista
+Una crítica bastante común pero poco contundente, es la que decía _"Bitcoin no es buena porque sirve para comprar armas y drogas y habría que prohibirla"_. De la misma forma se deberían prohibir los dólares y cualquier otra moneda, pues también sirven para comprar cosas ilegales. La crítica no resiste al primer análisis, vamos con la siguiente. 
 
-Lavado
+Están quienes afirman que estos sistemas que suelen ser muy **complejos de regularizar** y les preocupa fuertemente la incapacidad del Estado para captar impuestos que luego son revertirlos en la sociedad. Los que tienen esta preocupación, suelen ver al Estado como un agente re-distribuidor de riquezas y las criptomonedas, como un debilitador de esta función estatal. Más allá de la posible pertinencia de la preocupación, sería más fructífero pensar en las posibles futuras formas de recaudación y re-distribución de las riquezas en un escenario de generalización del uso de las TIC y de profundización de la globalización, incluso más allá de los Estados-Nación.
 
-Medio ambiente: Descripción e ir a capítulo POW
+Existe otra crícita similar a la anterior, que afirma que este tipo de tecnología facilitaría el lavado de dinero. Lo que puede decirse contra esta, es que problema de la criminalidad y sobre todo la de cuello blanco, ha existido por décadas y siempre se a adaptado a diferentes formas de almacenamiento y "lavado" de riquezas. Estas prácticas de transformación de dinero proveniente de **actividades delictivas** en "activos" o dinero "limpios", se han vuelto cada vez más depresadoras, en la medida de que unos pocos acumulan cantidades descomunales de dinero y el factor humano, la avaricia y la corrupción se vuelven foco central del problema. En tiempos de "Panama papers" y "Paradise papers" que simplemente son punta de iceberg, podríamos decir que son prácticas intrínsecas al capitalismo, es decir que son propias de la organización sistémica de producción de bienes y servicios que está implementando gran parte de la humanidad en los últimos tiempos. Las criptomonedas son un medio más en ese sistema. Creemos que son mayores los beneficios sociales futuros de las criptomonedas, que el uso malicioso que unos pocos puedan hacer de ellas. 
+
+La crítica que resulta más acertada es la ambiental. Tomemos el caso de Bitcoin: habíamos dicho que cada **cada transacción** queda registrada en el **blockchain** y cada nodo de la red tiene una copia del blockchain, además la red funciona mejor **cuanto más nodos** o computadoras están en funcionamiento y todas estas computadoras a su vez están contínuamente **realizando cálculos algorítmicos**, exigiendo **mayor potencia de cómputo**. Todos esos elementos provocan que la red bitcoin, sea gran consumidora de energía eléctrica. Existen enfoques de otras criptomonedas que realizan cambios en sus "pruebas" algorítmicas, haciendo que el poder de cómputo no sea el elemento de prueba, sino otros como la cantidad de monedas que se posee o el espacio en disco duro disponible. Alguno de esos enfoques se discutirán en el artículo _"Las diferentes pruebas"_.
 
 ## En resumen
 
