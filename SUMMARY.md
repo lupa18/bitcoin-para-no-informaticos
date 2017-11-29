@@ -10,4 +10,5 @@
 * [¿Cómo conseguir bitcoins?](como-conseguir-bitcoins.md)
 * [Las diferentes pruebas](pow-vs-pos.md)
 * [Otros usos del Blockchain](otros-usos-del-blockchain.md)
+* [Bibliografía](bibliografia.md)
 

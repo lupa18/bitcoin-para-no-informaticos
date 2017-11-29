@@ -4,6 +4,10 @@ FIXME: capítulo en desarrollo
 
 FIXME: la idea de este capítulo es presentar los usos más innovadores del Blockchain
 
+## La emancipación de los dominios: Namecoin
+
+Existe una moneda cuya función principal no es el intercambio de valor por sí mismo, sino asdf
+
 [Blockchain y salud](https://futurism.com/blockchain-ready-completely-transform-healthcare-industry/)
 
 FIXME: verificar [https://21.co/](https://21.co/)

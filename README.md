@@ -8,6 +8,8 @@ Entonces la motivación principal es esa: acercar a los no informáticos o "no e
 
 Las explicaciones de por qué las criptomonedas están teniendo tanto éxito pueden ser múltiples: a mí me gustaría rescatar el hecho de que de ser adoptadas de forma masiva, pondría en cuestionamiento el sistema bancario actual, que desde mi punto de vista, es una forma absolutamente nefasta de manejar y utilizar el dinero de las personas. Hay un brillante ensayo que se llama "Quiero toda la tierra más el 5%" que expone de forma fenomenal este fraudulento esquema de manejo de los ahorros y finanzas de las personas por parte de los bancos[^1] [^2].
 
+Existen quienes afirman que Bitcoin comenzó un cambio tan drástico como la invención de las computadoras personales, o la creación de internet, Marc Andreessen, co fundador de Netscape plantea estos 3 hitos: "Computadoras personales en 1975,  Internet en 1993, y –creo que– Bitcoin en 2014"[^3]. A lo largo de estos artículos veremos algunos elementos que pueden apoyar esta tesis.
+
 ## La velocidad del cambio
 
 El avance, la variedad y la velocidad de surgimiento y adopción de criptomonedas te va a obligar a verificar la fecha de estos artículos e ir con cautela tratando de ver que lo que aquí está escrito aún se corresponda con la realidad \(si es que alguna vez lo hizo\).
@@ -42,7 +44,7 @@ Bajo los siguientes términos:
 
 * **CompartirIgual** — Si mezclas, transformas o creas nuevo material a partir de esta obra, podrás distribuir su contribución siempre que utilice la [misma licencia](https://creativecommons.org/licenses/by-sa/4.0/deed.es#) que la obra original.
 
-* **No hay restricciones adicionales**
+* **No hay restricciones adicionales**  
    — Usted no puede aplicar términos legales ni [medidas tecnológicas que restrinjan legalmente a otros hacer cualquier uso permitido por la licencia.](https://creativecommons.org/licenses/by-sa/4.0/deed.es#)
 
 **Sudamérica, Setiembre de 2017**
@@ -50,4 +52,6 @@ Bajo los siguientes términos:
 [^1]: Versión original en inglés de ["Quiero toda la tierra más el 5%"](https://drive.google.com/file/d/0B3QqufElBUZwUjVMM1ZUTVg4QmM/view)
 
 [^2]: Versión en español de ["Quiero toda la tierra más el 5%"](http://asambleademajaras.com/articulos/2010/07/quiero_la_tierra_mas_el_cinco_por_ciento.html)
+
+[^3]: Andreessen, M. \(1390323270\). Why Bitcoin Matters. Recuperado 25 de noviembre de 2017, a partir de [https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/](https://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)
 
