@@ -12,9 +12,13 @@ PoW
 
 PoS
 
+## Prueba de Copperación
+
+PoC
+
 ## Prueba de Espacio
 
 ?
 
-Ver: https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/ \(ya referenciado en capítulo 3\)
+Ver: [https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/) \(ya referenciado en capítulo 3\)
 

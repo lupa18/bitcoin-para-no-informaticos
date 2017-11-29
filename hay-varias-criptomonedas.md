@@ -40,23 +40,27 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 ## Faircoin, una forma "justa" de intercambio de valor
 
-asdf
-
 FIXME: revisar: [https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin)
+
+En su web oficial, se plantea como una alternativa a las criptomonedas, que funciona a través de la cooperación en vez de la competencia, utilizan entonces una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
+
+Puedes leer un poco más en [su página web](https://fair-coin.org).
 
 ## El anonimato como problema: Zcash y Monero
 
-asdf
+FIXME
 
 ## Chia, un abordaje para proteger al ambiente
 
 [https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/)
 
-## Ethereum, más allá de las monedas 
+## Ethereum, más allá de las monedas
 
 asdf
 
 En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pero-como-funcionan.html) presentamos una sección "Herramientas" donde encontrarás varias formas de comparar todas estas criptomonedas
 
 [^1]: "Nodo completo" significa tener funcionando en tu propia computadora la versión oficial del software de bitcoin y la billetera bajo tu completo control. No es necesario que esto sea así para tener tus bitcoin, pero es la forma más soberana de tenerlo. Lo seguiremos desarrollando en futuros artículos. Puedes ver el [tamaño del blockchain aquí](https://blockchain.info/es/charts/blocks-size) en "tiempo real".
+
+[^2]: Esto será retomado en el artículo ["Las diferentes pruebas".](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pow-vs-pos.html)
 
