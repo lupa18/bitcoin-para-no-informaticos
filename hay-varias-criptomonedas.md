@@ -40,11 +40,13 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 ## Faircoin, una forma "justa" de intercambio de valor
 
-FIXME: revisar: [https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin)
+FIXME: revisar: 
 
 En su web oficial, se plantea como una alternativa a las criptomonedas, que funciona a través de la cooperación en vez de la competencia, utilizan entonces una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
 
-Puedes leer un poco más en [su página web](https://fair-coin.org).
+FIXME: continuar
+
+Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin) y además puedes profundizar en [su página web](https://fair-coin.org).
 
 ## El anonimato como problema: Zcash y Monero
 
