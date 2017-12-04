@@ -40,9 +40,9 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 ## Faircoin, una forma "justa" de intercambio de valor
 
-FIXME: revisar:
+En su web oficial, se plantea como una **alternativa a las criptomonedas**, que funciona a través de la cooperación en vez de la competencia y que utiliza una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
 
-En su web oficial, se plantea como una alternativa a las criptomonedas, que funciona a través de la cooperación en vez de la competencia, utilizan entonces una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
+
 
 FIXME: continuar
 
