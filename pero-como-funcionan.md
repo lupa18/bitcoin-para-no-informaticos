@@ -30,7 +30,7 @@ Por ejemplo, podrías lograr tener bitcoins, pidiéndole a amigo que transfiera 
 
 Otra forma es a través de las casas de cambio: se colocan allí los dólares u otra moneda, y la casa de cambio envía los bitcoins a tu dirección, según la cotización **"de mercado"**. Además existen otras formas como máquinas automáticas que funcionan por el momento en algunos países de Europa.
 
-También podrías crear una **orden de compra** condicional en una casa de cambio, por ejemplo, comprar 0,1 bitcoin siempre que el precio baje a 3.000 dólares \(hoy por ejemplo está a 3.900\). De forma que si el precio baja de 3.900 a 3.000 se ejecuta la transferencia a tu billetera y habrás gastado 300 dólares más las comisiones.
+También podrías crear una **orden de compra** condicional en una casa de cambio, por ejemplo, comprar 0,1 bitcoin siempre que el precio baje a 9.000 dólares[^3]. De forma que si el precio baja de 9.600 a 9.000 se ejecuta la transferencia a tu billetera y habrás gastado 9000 dólares \(más las comisiones\).
 
 Más adelante veremos varias técnicas para comprar criptomonedas en detalle.
 
@@ -58,7 +58,7 @@ FIXME: continuar
 
 ## Herramientas
 
-Aquí presentamos algunas herramientas que te pueden resultar de gran utilidad. 
+Aquí presentamos algunas herramientas que te pueden resultar de gran utilidad.
 
 * [https://bitinfocharts.com](https://bitinfocharts.com) - Una comparativa de diferentes aspectos de las criptomonedas: precio, capitalización de mercado, cantidad de transacciones, tamaño del blockhain, etc.. 
 
@@ -69,4 +69,6 @@ Aquí presentamos algunas herramientas que te pueden resultar de gran utilidad.
 [^1]: En realidad la donación que realicé fue a un solo nodo de la red Diaspora\* denominado [diasp.org](https://diasp.org/)
 
 [^2]: Aquí hay un [listado y tabla comparativa](https://www.bestbitcoinexchange.io/) que te puede ser de utilidad. 
+
+[^3]: Al momento de escribir estos artículos el precio de mercado de Bitcoin había superado los 10 mil dólares por unidad.
 
