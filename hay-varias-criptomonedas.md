@@ -1,6 +1,6 @@
 # ¿Hay varias criptomonedas?
 
-Efectivamente hay muchas y todas \(las que veremos\) tienen las características que te presentamos en el capítulo anterior: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
+Efectivamente hay varias centenas de ellas[^3] y en estos artículos nos centraremos solo en algunas de ellas. Elegimos las más famosas o las que nos parece que revisten mayor interés. En particular, tienen las características que te presentamos en el capítulo anterior: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
 La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/). Sin embargo debemos tener presente las otras criptomonedas, y sus diferentes propuestas tecnológicas o políticas; cada una con diferente grado de éxito o adpoción, pero hasta el momento de escribir estos artículo, todas a la sombre de Bitcoin. Aquí te presentamos un listado **no exahustivo y totalmente arbitrario** de las que nos resultan más interesantes.
 
@@ -40,7 +40,7 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 ## Faircoin, una forma "justa" de intercambio de valor
 
-FIXME: revisar: 
+FIXME: revisar:
 
 En su web oficial, se plantea como una alternativa a las criptomonedas, que funciona a través de la cooperación en vez de la competencia, utilizan entonces una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
 
@@ -65,4 +65,6 @@ En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-
 [^1]: "Nodo completo" significa tener funcionando en tu propia computadora la versión oficial del software de bitcoin y la billetera bajo tu completo control. No es necesario que esto sea así para tener tus bitcoin, pero es la forma más soberana de tenerlo. Lo seguiremos desarrollando en futuros artículos. Puedes ver el [tamaño del blockchain aquí](https://blockchain.info/es/charts/blocks-size) en "tiempo real".
 
 [^2]: Esto será retomado en el artículo ["Las diferentes pruebas".](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pow-vs-pos.html)
+
+[^3]: Aquí podrás acceder a un listado de más de mil criptomonedas: [https://coinmarketcap.com/all/views/all/](https://coinmarketcap.com/all/views/all/)
 
