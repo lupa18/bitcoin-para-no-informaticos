@@ -6,7 +6,11 @@ FIXME: la idea de este capítulo es presentar los usos más innovadores del Bloc
 
 ## La emancipación de los dominios: Namecoin
 
-Existe una moneda cuya función principal no es el intercambio de valor por sí mismo, sino asdf
+Existe una moneda cuya función principal no es el intercambio de valor por sí mismo, sino..
+
+FIXME: continuar
+
+Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 ## Otras
 
