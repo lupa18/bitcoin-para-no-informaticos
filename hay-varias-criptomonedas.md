@@ -42,7 +42,7 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 En su web oficial, se plantea como una **alternativa a las criptomonedas**, que funciona a través de la cooperación en vez de la competencia y que utiliza una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
 
-Su versión 2 fue lanzada en diciembre de 2016 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques. 
+Su versión 2 fue lanzada en diciembre de 2016 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques.
 
 Para compensar el esfuerzo de correr un Nodo Colaborativo y Validado \(CVN\) se utiliza una pequeña comisión por cada transacción que se efectiviza en la creación de un bloque. El consumo de un CVN es tan bajo que puede correr en una RaspberryPi.
 
@@ -52,11 +52,17 @@ Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomoneda
 
 ## El anonimato como problema: Zcash y Monero
 
-Hay dos monedas que se disputan mejorar el sistema en cuanto a privacidad. Es que bitcoin ha demostrado no proteger la identidad de quienes intercambian valor. 
+Hay dos monedas que se disputan mejorar el sistema en cuanto a privacidad. Es que bitcoin ha demostrado no proteger la identidad de quienes intercambian valor.
 
-Para ello aparecen Monero en 2014 y Zcash en 2016. La primera surge en 2014 como y utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote). 
+Para ello aparecen Monero en 2014 y Zcash en 2016. La primera surge en 2014 como y utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote).
 
 FIXME: continuar
+
+Por su parte, Zcash... 
+
+[Web de Monero](https://getmonero.org/)
+
+[Web de Zcash](https://z.cash/)
 
 ## Chia, un abordaje para proteger al ambiente
 
