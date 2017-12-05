@@ -8,6 +8,8 @@ FIXME: la idea de este capítulo es presentar los usos más innovadores del Bloc
 
 Existe una moneda cuya función principal no es el intercambio de valor por sí mismo, sino asdf
 
+## Otras
+
 [Blockchain y salud](https://futurism.com/blockchain-ready-completely-transform-healthcare-industry/)
 
 FIXME: verificar [https://21.co/](https://21.co/)

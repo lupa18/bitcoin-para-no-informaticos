@@ -61,6 +61,7 @@ FIXME: continuar
 Aquí presentamos algunas herramientas que te pueden resultar de gran utilidad.
 
 * [https://bitinfocharts.com](https://bitinfocharts.com) - Una comparativa de diferentes aspectos de las criptomonedas: precio, capitalización de mercado, cantidad de transacciones, tamaño del blockhain, etc.. 
+* https://cryptowat.ch/
 
 ---
 
