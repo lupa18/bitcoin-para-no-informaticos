@@ -50,17 +50,19 @@ Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [l
 
 Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin) y además puedes profundizar en [su página web](https://fair-coin.org).
 
-## El anonimato como problema: Zcash y Monero
+## La privacidad por diseño: Zcash y Monero
 
-Hay dos monedas que se disputan mejorar el sistema en cuanto a privacidad. Es que bitcoin ha demostrado no proteger la identidad de quienes intercambian valor.
+Hay dos monedas que se disputan mejorar la privacidad del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** En este sentido, buscan "mejorar" bitcoin en la cual dirección de origen, destino y montos śon públios y por lo tanto podrían poner en riesgo la identidad de los usuarios.
 
-Para ello aparecen Monero en 2014 y Zcash en 2016. La primera surge en 2014 como y utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote).
+Es así que aparecen Monero en 2014 y Zcash en 2016. La primera utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote) y un algoritmo de minado llamado _CryptoNight._ Tiene 3 componentes tecnológicos que permiten mantener las transacciones confidenciales:_ ring signatures, _ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta: todas las transacciones de la red son privadas "por mandato": no hay forma de hacer una transacción transparente.  
 
-FIXME: continuar
+En cuanto a las existencias durante los próximos 7 años, se producirán unas **18 millones **de monedas y luego tendrá una inflación de 1% anual reduciéndose paulatínamente.    
 
-Por su parte, Zcash... 
+Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/). 
 
-[Web de Monero](https://getmonero.org/)
+**FIXME:** continuar con zcash
+
+Por su parte, Zcash...
 
 [Web de Zcash](https://z.cash/)
 
