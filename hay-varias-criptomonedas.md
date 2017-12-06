@@ -52,17 +52,17 @@ Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomoneda
 
 ## La privacidad por diseño: Zcash y Monero
 
-Hay dos monedas que se disputan mejorar la privacidad del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** En este sentido, buscan "mejorar" bitcoin en la cual dirección de origen, destino y montos śon públios y por lo tanto podrían poner en riesgo la identidad de los usuarios.
+Hay 2 monedas que se disputan mejorar la privacidad del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** En este sentido, buscan "mejorar" bitcoin en la cual dirección de origen, destino y montos śon públios y por lo tanto podrían poner en riesgo la identidad de los usuarios.
 
-Es así que aparecen Monero en 2014 y Zcash en 2016. La primera utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote) y un algoritmo de minado llamado _CryptoNight._ Tiene 3 componentes tecnológicos que permiten mantener las transacciones confidenciales:_ ring signatures, _ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta: todas las transacciones de la red son privadas "por mandato": no hay forma de hacer una transacción transparente.
+La primera que aparece, en 2014, es Monero en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ Además tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
-**FIXME:** continuar con zcash
+La segunda moneda que nos interesa es Zcash que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". 
 
-Por su parte, Zcash...
+**FIXME:** continuar con zcash
 
 [Web de Zcash](https://z.cash/)
 
