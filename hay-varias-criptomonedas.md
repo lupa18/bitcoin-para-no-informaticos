@@ -54,11 +54,11 @@ Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomoneda
 
 Hay dos monedas que se disputan mejorar la privacidad del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** En este sentido, buscan "mejorar" bitcoin en la cual dirección de origen, destino y montos śon públios y por lo tanto podrían poner en riesgo la identidad de los usuarios.
 
-Es así que aparecen Monero en 2014 y Zcash en 2016. La primera utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote) y un algoritmo de minado llamado _CryptoNight._ Tiene 3 componentes tecnológicos que permiten mantener las transacciones confidenciales:_ ring signatures, _ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta: todas las transacciones de la red son privadas "por mandato": no hay forma de hacer una transacción transparente.  
+Es así que aparecen Monero en 2014 y Zcash en 2016. La primera utiliza un protocolo diferente al de Bitcoin llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote) y un algoritmo de minado llamado _CryptoNight._ Tiene 3 componentes tecnológicos que permiten mantener las transacciones confidenciales:_ ring signatures, _ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta: todas las transacciones de la red son privadas "por mandato": no hay forma de hacer una transacción transparente.
 
-En cuanto a las existencias durante los próximos 7 años, se producirán unas **18 millones **de monedas y luego tendrá una inflación de 1% anual reduciéndose paulatínamente.    
+En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
-Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/). 
+Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
 **FIXME:** continuar con zcash
 
@@ -81,4 +81,6 @@ En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-
 [^2]: Esto será retomado en el artículo ["Las diferentes pruebas".](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pow-vs-pos.html)
 
 [^3]: Aquí podrás acceder a un listado de más de mil criptomonedas: [https://coinmarketcap.com/all/views/all/](https://coinmarketcap.com/all/views/all/)
+
+[^4]: Aquí puedes ver un [cuadro comparativo](https://docs.google.com/spreadsheets/d/1qXi7zUSIh7F6UuSuhOryyFbHEy_LJuym3I3neAga_2s/edit?pli=1#gid=239466694) de las existencias, porcentaje de minado y otros guarismos entre bitcoin y monero. 
 
