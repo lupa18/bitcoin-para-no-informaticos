@@ -18,5 +18,7 @@ Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 FIXME: verificar [https://21.co/](https://21.co/)
 
+Obras creativas: https://www.creativechain.org
+
 Video y Blockchain: [Flixxo](http://www.flixxo.com/) \| [Artículo](https://torrentfreak.com/popcorn-time-creator-readies-bittorrent-blockchain-powered-youtube-competitor-171012/)
 
