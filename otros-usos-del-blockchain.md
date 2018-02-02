@@ -14,17 +14,23 @@ Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 ## Otras
 
+### Variadas
+
 [Blockchain y salud](https://futurism.com/blockchain-ready-completely-transform-healthcare-industry/)
 
-FIXME: verificar [https://21.co/](https://21.co/)
+[Blockstat](https://blockstack.org): "nueva Internet para aplicaciones descentralizadas"
+
+[Safecoin](https://maidsafe.net/safecoin.html) \(MaidSafe\): Safecoin is a digital token. It can be thought of as the oil in the engine of the SAFE Network, a built in way of ensuring that all users of the network are compensated for the value they provide. Let’s ﬁnd out how it works...
+
+### Publicación de contenidos
 
 [Creative Chain](https://www.creativechain.org): Obras creativas
 
 [Flixxo](http://www.flixxo.com/): Video y Blockchain \| [Artículo](https://torrentfreak.com/popcorn-time-creator-readies-bittorrent-blockchain-powered-youtube-competitor-171012/)
 
-[Blockstat](https://blockstack.org): "nueva Internet para aplicaciones descentralizadas"
+### Redes Sociales
 
-[Safecoin](https://maidsafe.net/safecoin.html) \(MaidSafe\): Safecoin is a digital token. It can be thought of as the oil in the engine of the SAFE Network, a built in way of ensuring that all users of the network are compensated for the value they provide. Let’s ﬁnd out how it works...
+[Earn.com](https://earn.com/): "Microtasks, micropayments, blockchains, and decentralization."
 
 [Steemit](https://steemit.com): es una **red social** que combina la creación de contenido, la interacción con usuarios y el uso de una criptomoneda llamada Steem \(de Wikipedia\)
 
