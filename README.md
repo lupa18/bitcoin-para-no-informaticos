@@ -2,13 +2,13 @@
 
 ## ¿Por qué escribir estos artículos?
 
-Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que llegan con dudas y muchas ganas de aprender este nuevo universo. Amigos, conocidos, familiares, nos reguntan todo el tiempo **¿Qué es Bitcoin?** **¿Cómo compro Bitcoin?** **¿Qué es el blockchain?, etc..**
+Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que llegan con dudas y muchas ganas de aprender este nuevo universo. Amigos, conocidos, familiares, nos preguntan todo el tiempo **¿Qué es Bitcoin?** **¿Cómo compro Bitcoin?** **¿Qué es el blockchain?, etc..**
 
 Entonces la motivación principal es esa: acercar a los no informáticos o "no expertos",  una serie de conceptos y prácticas que se están extendiendo cada vez más y en el futuro pueden pasar a ser parte esencial de lo cotidiano.
 
 Las explicaciones de por qué las criptomonedas están teniendo tanto éxito pueden ser múltiples: a mí me gustaría rescatar el hecho de que de ser adoptadas de forma masiva, pondría en cuestionamiento el sistema bancario actual, que desde mi punto de vista, es una forma absolutamente nefasta de manejar y utilizar el dinero de las personas. Hay un brillante ensayo que se llama "Quiero toda la tierra más el 5%" que expone de forma fenomenal este fraudulento esquema de manejo de los ahorros y finanzas de las personas por parte de los bancos[^1] [^2].
 
-Existen quienes afirman que Bitcoin, en partícular a partir de su tecnología de **blockchain**, comenzó un cambio tan drástico como la invención de las computadoras personales, o la creación de internet, Marc Andreessen, co fundador de Netscape plantea estos **3 hitos**: "Computadoras personales en 1975,  Internet en 1993, y –creo que– Bitcoin en 2014"[^3]. A lo largo de estos artículos veremos algunos elementos que pueden apoyar esta tesis.
+Existen quienes afirman que Bitcoin, en particular a partir de su tecnología de **blockchain**, comenzó un cambio tan drástico como la invención de las computadoras personales, o la creación de Internet, Marc Andreessen, co fundador de Netscape plantea estos **3 hitos**: "Computadoras personales en 1975,  Internet en 1993, y –creo que– Bitcoin en 2014"[^3]. A lo largo de estos artículos veremos algunos elementos que pueden apoyar esta tesis.
 
 ## La velocidad del cambio
 
@@ -18,7 +18,7 @@ A lo largo del texto, te vamos a ir proponiendo fuentes de información que cree
 
 ## Pensado desde el Sur
 
-Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiariades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo.
+Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiaridades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo.
 
 ## Un comentario "final"
 
