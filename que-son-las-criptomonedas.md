@@ -42,21 +42,23 @@ La otra parte importante del sistema es que este libro contable que es el blockc
 
 ## Una red distribuida
 
-Otro de los pilares en los que se basan las criptomonedas es en su red distribuida, es decir, son nodos intecronectados, **sin un "centro" o "servidor"**, sobre el cual se **distribuye y replica** el libro contable o blockchain. 
+Otro de los pilares en los que se basan las criptomonedas es en su red distribuida, es decir, son nodos intecronectados, **sin un "centro" o "servidor"**, sobre el cual se **distribuye y replica** el libro contable o blockchain.
 
-Las topologías de red más conocidas son, las centralizadas, descentralizadas o distribuidas. En la primer topología, la **centralizada**, existe un "servidor" y un "cliente". Es decir, hay una jerarquía donde la información está en un nodo central o principal que es el servidor y luego los clientes o consumidores o nodos secundarios. Un ejemplo de esto es una página web, cual hay un nodo central \(el servidor\) que provee la información \(la página\), y un cliente \(la persona que accede desde su navegador\). Si por algún motivo el servidor falla, la web queda inaccesible \(se cae\) y el cliente no puede acceder a la información. 
+Las topologías de red más conocidas son, las centralizadas, descentralizadas o distribuidas. En la primer topología, la **centralizada**, existe un "servidor" y un "cliente". Es decir, hay una jerarquía donde la información está en un nodo central o principal que es el servidor y luego los clientes o consumidores o nodos secundarios. Un ejemplo de esto es una página web, cual hay un nodo central \(el servidor\) que provee la información \(la página\), y un cliente \(la persona que accede desde su navegador\). Si por algún motivo el servidor falla, la web queda inaccesible \(se cae\) y el cliente no puede acceder a la información.
 
-Otro tipo de red es la **descentralizada**, donde hay varios nodos centales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central.  
+Otro tipo de red es la **descentralizada**, donde hay varios nodos centales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central.
 
 Por último la **distriuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
 
-Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando. En los momentos de escribir este artículo,  
+Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando. En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución$$$$[^7].
 
 ## En resumen
 
 Una criptomoneda es una forma de creación de valor, que utiliza un registro de transacciones público basado en software libre, mantenido y utilizado por una comunidad, en una red distribuida, en la que cada transacción se replica a toda la red utilizando critptografía.
 
 _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así nos impulsas a seguir creando los próximos capítulos de la serie. _
+
+
 
 [^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde elaboro el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 
@@ -68,5 +70,7 @@ _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así n
 
 [^6]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. 
 
-[^7]: Enter footnote here.
+[^7]: Puedes ver los nodos de bitcoin en las siguientes plataformas: [https://coin.dance/nodes](https://coin.dance/nodes) o [https://bitnodes.earn.com](https://bitnodes.earn.com/)
+
+[^7]: Para entender mejor qué es la criptografía puedes ver este video: [https://youtu.be/Q8K311s7EiM](https://youtu.be/Q8K311s7EiM)
 
