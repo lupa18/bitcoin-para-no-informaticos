@@ -58,11 +58,9 @@ Una criptomoneda es una forma de creación de valor, que utiliza un registro de 
 
 _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así nos impulsas a seguir creando los próximos capítulos de la serie. _
 
-
-
 [^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde elaboro el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 
-[^3]: Malmo, C. \(2017, noviembre 1\). One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week. Motherboard. Recuperado a partir de [https://motherboard.vice.com/en\_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
+[^3]: 
 
 [^4]: Tomando como dato el análisis que hace [OpenHub ](https://www.openhub.net/p/bitcoin)para los últimos 12 meses \(básicamente para el 2017\)
 
