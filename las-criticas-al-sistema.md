@@ -28,21 +28,21 @@ Estas prácticas de transformación de dinero proveniente de **actividades delic
 
 En tiempos de ["Panama papers"](https://es.wikipedia.org/wiki/Panama_Papers) y ["Paradise papers"](https://es.wikipedia.org/wiki/Paradise_Papers) que son la punta del iceberg de la corrupción, pueden verse como prácticas intrínsecas al capitalismo: han existido desde siempre y se han exacerbado en los últimos 200 años. Se pueden decir que son propias de la organización sistémica, política, económica y social con la que funciona gran parte de la humanidad en los últimos tiempos. Las criptomonedas son un medio más en ese sistema: quienes lavan dinero en la actualidad, lo seguirán haciendo con o sin criptomonedas. Hay que atacar la raíz del problmema que es la acumulación desmedida y la falta de justicia.
 
+## Bitcoin no es realmente anónima
+
+En contraparte a la anterior, hay personas que critican a Bitcoin por no proporcionar los mecanismos adecuados para garantizar el anonimato de los usuarios. En esta red, como ya dijimos, todas las transacciones son públicas, así como el monto, la dirección de origen y la de destino. 
+
+FIXME: continuar
+
 ## La crítica ambiental
 
-La crítica que resulta más acertada es la **ambiental**.
+En el caso de Bitcoin existe una críticca muy acertada que es la **ambiental **y que algunas otras criptomonedas están tratando de resolver.  
 
-Tomemos el caso de Bitcoin: habíamos dicho que cada **cada transacción** queda registrada en el **blockchain** y cada nodo de la red tiene una copia del blockchain. Además la red funciona mejor **cuanto más nodos** o computadoras están en funcionamiento y todas estas computadoras a su vez están contínuamente **realizando cálculos algorítmicos**, exigiendo **mayor potencia de cómputo**.
+Tomemos el caso de Bitcoin: habíamos dicho que cada **cada transacción** queda registrada en el **blockchain** y cada nodo de la red tiene una copia del blockchain. Además la red funciona mejor **cuanto más nodos** o computadoras están en funcionamiento y todas estas computadoras a su vez están encendidas permanentemente **realizando cálculos algorítmicos**, exigiendo **mayor potencia de cómputo **y por lo tanto **mayor consumo energético. **Todos esos elementos provocan que la red bitcoin, sea gran consumidora de energía eléctrica[^1]y pueda calcularse el coste energético de cada transacción que es altísimo.
 
-Todos esos elementos provocan que la red bitcoin, sea gran consumidora de energía eléctrica[^1]y pueda calcularse el coste energético de cada transacción que es altísimo.
-
-Existen enfoques de otras criptomonedas que realizan cambios en sus "pruebas" algorítmicas, haciendo que el poder de cómputo no sea el elemento de prueba, sino otros como la cantidad de monedas que se posee o el espacio en disco duro disponible. Alguno de esos enfoques se discutirán en el artículo _"Las diferentes pruebas"_.
-
-
+Existen otras criptomonedas que realizan cambios en sus "pruebas" algorítmicas, logrando que el **poder de cómputo** no sea el elemento central, sino otros como la **cantidad de monedas** que se posee o el **espacio en disco** duro disponible u otros. Alguno de esos enfoques lo discutiremos en el futuro artículo _"Las diferentes pruebas"_.
 
 _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así nos impulsas a seguir creando los próximos capítulos de la serie. _
-
-
 
 [^1]: Malmo, C. \(2017, noviembre 1\). One Bitcoin Transaction Now Uses as Much Energy as Your House in a Week. Motherboard. Recuperado a partir de [https://motherboard.vice.com/en\_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
 
