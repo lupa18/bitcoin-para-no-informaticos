@@ -14,7 +14,7 @@ El papel o metales que estamos acostumbrados a utilizar, cumplen estas caracter�
 
 Las criptomonedas, también cumplen estas características, y muchas veces también corren riesgos similares. Pero hay algunas diferencias que las hacen **sustancialmente diferentes**. Veamos algunas de ellas.
 
-En el caso de la **confianza, **se basa en algoritmos y programas informáticos, liderados por empresas o comunidades, en vez de un Estado y su banco central. En nuestro caso, la confianza se establece partiendo de **un software y de los algoritmos** que lo componen, así como de su equipo de desarrollo que es el responsable de la criptomoneda. En el caso de Bitcoin tiene una comunidad actual de unos 165 programadores[^4].
+En el caso de la **confianza, **se basa en algoritmos y programas informáticos, liderados por empresas o comunidades, en vez de un Estado y su banco central. En nuestro caso, la confianza se establece partiendo de **un software y de los algoritmos** que lo componen, así como de su equipo de desarrollo que es el responsable de la criptomoneda. En el caso de Bitcoin tiene una comunidad actual de unos 165 programadores[^1].
 
 Para que esta confianza sea efectiva, son muy importantes la** forma de gobernanza** de la comunidad y de su equipo de desarrollo y la transparencia con la que estos realizan su trabajo, por ello es imprescindible que una cryptomoneda sea **software libre**. Esto lo retomaremos en breve.
 
@@ -24,7 +24,7 @@ Planteamos algunos elementos a la hora de afrontar el problema de la confianza y
 
 ## El código abierto
 
-Una de las fortalezas de este sistema de **confianza**, es que el **código fuente** de las criptomonedas suele estar abirto, y  más aún suelen ser **software libre**[^1]. Es la forma más adecuada para garantizar la posibilidad de una auditoria permanente sobre el software y por lo tanto asegurarnos de que no realice acciones fraudulentas. ¿De qué otra forma podríamos asegurarnos de auditar un programa informático y saber si realmente hace lo que promete sin tener su "diagrama" completo de instrucciones?
+Una de las fortalezas de este sistema de **confianza**, es que el **código fuente** de las criptomonedas suele estar abirto, y  más aún suelen ser **software libre**[^2]. Es la forma más adecuada para garantizar la posibilidad de una auditoria permanente sobre el software y por lo tanto asegurarnos de que no realice acciones fraudulentas. ¿De qué otra forma podríamos asegurarnos de auditar un programa informático y saber si realmente hace lo que promete sin tener su "diagrama" completo de instrucciones?
 
 No es una tarea sencilla, pero sin el software libre sería prácticamente imposible y en todo caso deberíamos depositar nuestra confianza nuevamente en terceros. Cuando el software es libre, siempre tendrás la posibilidad de descargar el código fuente, leerlo, asegurarte que no haya instrucciones maliciosas y utilizarlo. Muchas veces esta no es tarea de una persona cualquiera sino de un programador, o incluso de grupos de programadores y organizaciones que se dedican a buscar errores y posibles negligencias.
 
@@ -34,7 +34,7 @@ Otro elemento importantes en la **confianza **hacia las criptomonedas es la** cr
 
 ## ¿Pero qué es la criptografía?
 
-Son operaciones matemáticas que codifican algún tipo de información[^7]. Te permiten escribir tu contraseña o enviar un correo electrónico sin que un tercero pueda leer el contenido de tu mensaje[^5]. Hoy en día más de la mitad del tráfico web que pasa por Internet está protegido por criptografía, para evitar que gobiernos y empresas mafiosas espíen a los ciudadanos[^6].
+Son operaciones matemáticas que codifican algún tipo de información[^3]. Te permiten escribir tu contraseña o enviar un correo electrónico sin que un tercero pueda leer el contenido de tu mensaje[^4]. Hoy en día más de la mitad del tráfico web que pasa por Internet está protegido por criptografía, para evitar que gobiernos y empresas mafiosas espíen a los ciudadanos[^5].
 
 Para el caso de las criptomonedas, la criptografía permite almacenar la **transacción **en el libro contable de una forma "indeleble":  no solamente queda codificada y descirta de forma **unívoca**, sino que se encadena con la anterior. Y la próxima con la actual. De tal modo se va construyendo una "cadena" criptográfica y de allí su nombre "blockhcain".
 
@@ -50,7 +50,7 @@ Otro tipo de red es la **descentralizada**, donde hay varios nodos centales que 
 
 Por último la **distriuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
 
-Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando. En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución$$$$[^7].
+Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando. En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución [^6].
 
 ## En resumen
 
@@ -58,17 +58,16 @@ Una criptomoneda es una forma de creación de valor, que utiliza un registro de 
 
 _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así nos impulsas a seguir creando los próximos capítulos de la serie. _
 
-[^1]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde elaboro el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
+[^1]: Tomando como dato el análisis que hace [OpenHub ](https://www.openhub.net/p/bitcoin)para los últimos 12 meses \(básicamente para el 2017\)
 
-[^3]: 
+[^2]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde elaboro el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 
-[^4]: Tomando como dato el análisis que hace [OpenHub ](https://www.openhub.net/p/bitcoin)para los últimos 12 meses \(básicamente para el 2017\)
+[^3]: Para entender mejor qué es la criptografía puedes ver este video: [https://youtu.be/Q8K311s7EiM](https://youtu.be/Q8K311s7EiM)
 
-[^5]: Para ello hay que configurar correctamente tu programa de correo electrónico. 
+[^4]: Para ello hay que configurar correctamente tu programa de correo electrónico. 
 
-[^6]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. 
+[^5]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. 
 
-[^7]: Puedes ver los nodos de bitcoin en las siguientes plataformas: [https://coin.dance/nodes](https://coin.dance/nodes) o [https://bitnodes.earn.com](https://bitnodes.earn.com/)
+[^6]: Puedes ver los nodos de bitcoin en las siguientes plataformas: [https://coin.dance/nodes](https://coin.dance/nodes) o [https://bitnodes.earn.com](https://bitnodes.earn.com/)
 
-[^7]: Para entender mejor qué es la criptografía puedes ver este video: [https://youtu.be/Q8K311s7EiM](https://youtu.be/Q8K311s7EiM)
 
