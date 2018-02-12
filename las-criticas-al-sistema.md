@@ -30,17 +30,17 @@ En tiempos de ["Panama papers"](https://es.wikipedia.org/wiki/Panama_Papers) y [
 
 ## Bitcoin no es realmente anónima
 
-En contraparte a la anterior, hay personas que critican a Bitcoin por no proporcionar los mecanismos adecuados para garantizar el anonimato de los usuarios. En esta red, como ya dijimos, todas las transacciones son públicas, así como el monto, la dirección de origen y la de destino. 
+En contraparte a la anterior, hay personas que critican a Bitcoin por no proporcionar los mecanismos adecuados para garantizar el anonimato de los usuarios. En esta red, como ya dijimos, todas las transacciones son públicas, así como el monto, la dirección de origen y la de destino.
 
 FIXME: continuar
 
 ## La crítica ambiental
 
-En el caso de Bitcoin existe una críticca muy acertada que es la **ambiental **y que algunas otras criptomonedas están tratando de resolver.  
+En el caso de Bitcoin existe una críticca muy acertada que es la **ambiental **y que algunas otras criptomonedas están tratando de resolver.
 
 Tomemos el caso de Bitcoin: habíamos dicho que cada **cada transacción** queda registrada en el **blockchain** y cada nodo de la red tiene una copia del blockchain. Además la red funciona mejor **cuanto más nodos** o computadoras están en funcionamiento y todas estas computadoras a su vez están encendidas permanentemente **realizando cálculos algorítmicos**, exigiendo **mayor potencia de cómputo **y por lo tanto **mayor consumo energético. **Todos esos elementos provocan que la red bitcoin, sea gran consumidora de energía eléctrica[^1]y pueda calcularse el coste energético de cada transacción que es altísimo.
 
-Existen otras criptomonedas que realizan cambios en sus "pruebas" algorítmicas, logrando que el **poder de cómputo** no sea el elemento central, sino otros como la **cantidad de monedas** que se posee o el **espacio en disco** duro disponible u otros. Alguno de esos enfoques lo discutiremos en el futuro artículo _"Las diferentes pruebas"_.
+Como ya se mencionó, existen otras criptomonedas que han propuesto diferentes formas de crear sus "pruebas" algorítmicas, logrando que el **poder de cómputo** no sea el elemento central, sino otro tipo de pruebas como la **cantidad de monedas** que se posee o el **espacio en disco** duro disponible, u otros. Alguno de esos enfoques lo discutiremos en el futuro artículo _"Las diferentes pruebas"_.
 
 _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así nos impulsas a seguir creando los próximos capítulos de la serie. _
 
