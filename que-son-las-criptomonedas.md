@@ -46,7 +46,7 @@ Otro de los pilares en los que se basan las criptomonedas es en su red distribui
 
 Las topologías de red más conocidas son, las centralizadas, descentralizadas o distribuidas. En la primer topología, la **centralizada**, existe un "servidor" y un "cliente". Es decir, hay una jerarquía donde la información está en un nodo central o principal que es el servidor y luego los clientes o consumidores o nodos secundarios. Un ejemplo de esto es una página web, cual hay un nodo central \(el servidor\) que provee la información \(la página\), y un cliente \(la persona que accede desde su navegador\). Si por algún motivo el servidor falla, la web queda inaccesible \(se cae\) y el cliente no puede acceder a la información.
 
-Otro tipo de red es la **descentralizada**, donde hay varios nodos centales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central.
+Otro tipo de red es la **descentralizada**, donde hay varios nodos centales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central. Las redes sociales libres como [diaspora\*](https://es.wikipedia.org/wiki/Diaspora_%28red_social%29) o [mastodon](https://es.wikipedia.org/wiki/Mastodon_%28red_social%29) son un ejemplo de este tipo de red. 
 
 Por último la **distriuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
 
@@ -69,5 +69,4 @@ _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así n
 [^5]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. 
 
 [^6]: Puedes ver los nodos de bitcoin en las siguientes plataformas: [https://coin.dance/nodes](https://coin.dance/nodes) o [https://bitnodes.earn.com](https://bitnodes.earn.com/)
-
 
