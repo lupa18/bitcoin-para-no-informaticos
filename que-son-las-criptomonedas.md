@@ -22,7 +22,7 @@ Este software, este programa informático es el que se encarga de llevar el list
 
 Planteamos algunos elementos a la hora de afrontar el problema de la confianza y en general la adopción y uso de este tipo de tecnologías que desarrollaremos a continuación.
 
-![](/assets/bitcoin-cofee.jpg)_“Bitcoin and coffee”_ por Aranami licenciada con CC BY 2.0
+![](/assets/bitcoin-cofee.jpg)_Imagen:_ “Bitcoin and coffee” por Aranami licenciada con CC BY 2.0
 
 ## El código abierto
 

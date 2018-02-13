@@ -1,5 +1,9 @@
 # Introducción
 
+![](/assets/bitcoin-don-t-eat.jpg)
+
+_Imagen:_ “\#bitcoin” por Jonathan Deamer licenciado con CC BY 2.0 
+
 ## ¿Por qué escribir estos artículos?
 
 Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que llegan con dudas y muchas ganas de aprender este nuevo universo. Amigos, conocidos, familiares, nos preguntan todo el tiempo **¿Qué es Bitcoin?** **¿Cómo compro Bitcoin?** **¿Qué es el blockchain?, etc..**
