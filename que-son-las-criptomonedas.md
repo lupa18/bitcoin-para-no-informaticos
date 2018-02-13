@@ -22,6 +22,8 @@ Este software, este programa informático es el que se encarga de llevar el list
 
 Planteamos algunos elementos a la hora de afrontar el problema de la confianza y en general la adopción y uso de este tipo de tecnologías que desarrollaremos a continuación.
 
+![](/assets/bitcoin-cofee.jpg)_“Bitcoin and coffee”_ por Aranami licenciada con CC BY 2.0
+
 ## El código abierto
 
 Una de las fortalezas de este sistema de **confianza**, es que el **código fuente** de las criptomonedas suele estar abierto, y  más aún suelen ser **software libre**[^2]. Es la forma más adecuada para garantizar la posibilidad de una auditoria permanente sobre el software y por lo tanto asegurarnos de que no realice acciones fraudulentas. ¿De qué otra forma podríamos asegurarnos de auditar un programa informático y saber si realmente hace lo que promete sin tener su "diagrama" completo de instrucciones?
@@ -48,7 +50,7 @@ Las topologías de red más conocidas son, las centralizadas, descentralizadas o
 
 Otro tipo de red es la **descentralizada**, donde hay varios nodos centrales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central. Las redes sociales libres como [diaspora\*](https://es.wikipedia.org/wiki/Diaspora_%28red_social%29) o [mastodon](https://es.wikipedia.org/wiki/Mastodon_%28red_social%29) son un ejemplo de este tipo de red.
 
-Por último la **distribuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red. Un ejemplo de ello es la red [Zeronet](https://es.wikipedia.org/wiki/ZeroNet), que corre sobre Internet: una vez que se accede a un sitio web, este ya queda copiado en tu computadora y puede ser accedido por otros, así tu computadora se comporta como cliente y servidor. Otro ejemplo es la forma de intercambio de contenidos [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent), por la cual te descargas archivos y al mismo tiempo estás compartiendo desde tu computadora. 
+Por último la **distribuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red. Un ejemplo de ello es la red [Zeronet](https://es.wikipedia.org/wiki/ZeroNet), que corre sobre Internet: una vez que se accede a un sitio web, este ya queda copiado en tu computadora y puede ser accedido por otros, así tu computadora se comporta como cliente y servidor. Otro ejemplo es la forma de intercambio de contenidos [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent), por la cual te descargas archivos y al mismo tiempo estás compartiendo desde tu computadora.
 
 ![](/assets/xtopologias_de_red.gif.pagespeed.ic.aa1tLCF4ND.png)
 
