@@ -68,7 +68,7 @@ _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así n
 
 [^1]: Tomando como dato el análisis que hace [OpenHub ](https://www.openhub.net/p/bitcoin)para los últimos 12 meses \(básicamente para el 2017\)
 
-[^2]: Para entender qué es el Software Libre, te recomiendo leer mi [Monografía de Grado](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primeros capítulos donde elaboro el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
+[^2]: Para entender qué es el Software Libre, te recomiendo leer ["El movimiento del Software Libre en Uruguay"](http://wiki.lupa18.org/lib/exe/fetch.php?media=tesis:monografia-grado-2011.pdf), sobre todo los primerosa capítulos donde se elabora el concepto de forma muy detallada. También puede ser de utilidad que le eches un ojo a [este video](http://tv.uvigo.es/es/video/mm/15835.html). 
 
 [^3]: Para entender mejor qué es la criptografía puedes ver este video: [https://youtu.be/Q8K311s7EiM](https://youtu.be/Q8K311s7EiM)
 
