@@ -18,7 +18,7 @@ A lo largo del texto, te vamos a ir proponiendo fuentes de información que cree
 
 ## Pensado desde el Sur
 
-Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiaridades en la relación con los gobiernos y los bancos. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo.
+Estos artículos, si bien pueden servir para cualquier persona en el mundo, tienen consejos que en algunos casos aplican para América del Sur, que tiene sus peculiaridades en la relación con los gobiernos, los bancos, el dinero y las prácticas sociales en general. Por ejemplo, en los momentos de escribir esto, suele ser bastante sencillo comprar bictoins en Europa, no así por esta parte del globo.
 
 ## Un comentario "final"
 

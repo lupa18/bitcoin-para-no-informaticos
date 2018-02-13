@@ -1,8 +1,8 @@
 # ¿Qué son las criptomonedas?
 
-No va a ser sencillo entender qué son las criptomonedas, pero tampoco es sencillo entender **qué es el dinero: ** ¿cómo es posible que nos pongamos de acuerdo que esos trozos de papel tienen cierto valor? ¿qué son esos números que aparecen en el banco diciendo que es valor que nos pertenece? ¿Cómo es posible que compremos con un pedazo de plástico que tiene un número? Todas preguntas que parecen sencillas, pero no lo son; sin embargo convivimos con ese sistema y lo utilizamos sin tener este tipo de preguntas en mente.
+No va a ser sencillo entender ** qué son las criptomonedas**, pero tampoco es sencillo entender **qué es el dinero:** ¿cómo es posible que esos trozos de papel que llamamos dinero tengan un valor determinado? ¿qué son esos números que aparecen en el banco o en una pantalla indicando que es dinero que nos pertenece? ¿Cómo es posible que compremos con un pedazo de plástico que tiene un largo número en su frene? Todas preguntas que **parecen sencillas, pero no lo son**; sin embargo convivimos con este sistema monetario y lo utilizamos cotidianamente sin cuestionarnos estas cosas.
 
-Es decir, estamos muy acostumbrados a utilizar ese papel o esos metales emitidos por los Estados y acordamos que tienen un cierto **valor** que utilizamos para intercambiar bienes \(como un juego de sillas\), servicios \(como atenderse con un médico\) o incluso como forma de ahorro. Menos transparente y tangible se se vuelve el uso de tarjetas de crédito y cuentas bancarias.
+Es decir, estamos muy acostumbrados a utilizar ese papel o esos metales emitidos por los Estados y acordamos que tienen un cierto **valor** que utilizamos para intercambiar **bienes** \(como un juego de sillas\), **servicios** \(como atenderse con un médico\) o incluso como **forma de ahorro**. El uso de tarjetas de crédito y cuentas bancarias aún se vuelve más abstracto y menos entendible.
 
 En definitiva todo se basa en formas de almacenamiento e intercambio de valor que tomamos como válidas porque nos vienen pre establecidas y **confiamos** en ellas: confiamos en el Estado, en los bancos y en esos papeles llamados billetes.
 
@@ -50,7 +50,9 @@ Otro tipo de red es la **descentralizada**, donde hay varios nodos centrales que
 
 Por último la **distribuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
 
-Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando. En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución [^6].
+Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando[^7]. 
+
+En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución [^6].
 
 ## En resumen
 
@@ -66,7 +68,9 @@ _¿Te gustó el artículo? ¿te parece de utilidad? Haz comentarios abajo así n
 
 [^4]: Para ello hay que configurar correctamente tu programa de correo electrónico. 
 
-[^5]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. 
+[^5]: Principalmente gracias al proyecto ["Let's encrypt"](https://letsencrypt.org/) de la Electronic Frontier Foundation que proveyó una herramienta de software libre, gratuita y segura para cifrar el tráfico web. Para seguir leyendo sobre vigilancia de las comunicaciones te recomendamos leer nuestro artículo: FIXME
 
 [^6]: Puedes ver los nodos de bitcoin en las siguientes plataformas: [https://coin.dance/nodes](https://coin.dance/nodes) o [https://bitnodes.earn.com](https://bitnodes.earn.com/)
+
+[^7]: Para profundizar sobre topologías de red y sus implicaciones políticas te recomendamos el manual ["El poder de las redes"](https://lasindias.blog/el-poder-de-las-redes).
 
