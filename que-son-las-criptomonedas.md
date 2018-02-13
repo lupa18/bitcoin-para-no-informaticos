@@ -48,13 +48,13 @@ Las topologías de red más conocidas son, las centralizadas, descentralizadas o
 
 Otro tipo de red es la **descentralizada**, donde hay varios nodos centrales que proveen la información y otros nodos que la consumen. Esta es una red más fuerte y democrática, pues para poder acabar con ella hace falta atacar a varios centros y la información no está en un solo nodo central. Las redes sociales libres como [diaspora\*](https://es.wikipedia.org/wiki/Diaspora_%28red_social%29) o [mastodon](https://es.wikipedia.org/wiki/Mastodon_%28red_social%29) son un ejemplo de este tipo de red.
 
-Por último la **distribuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red.
+Por último la **distribuida** o también conocida como **peer-to-peer **\(p2p, que significa "entre pares"\) en la que todos los nodos son productores y consumidores: todos los nodos tienen toda la información. Esto hace que le red sea mucho más fuerte y democrática y para acabar con ella hace falta atacar **todos los nodos **de la red. Es decir, la la caída o compromiso de uno o algunos nodos, no ponen en peligro la integridad de la red. Un ejemplo de ello es la red [Zeronet](https://es.wikipedia.org/wiki/ZeroNet), que corre sobre Internet: una vez que se accede a un sitio web, este ya queda copiado en tu computadora y puede ser accedido por otros, así tu computadora se comporta como cliente y servidor. Otro ejemplo es la forma de intercambio de contenidos [BitTorrent](https://es.wikipedia.org/wiki/BitTorrent), por la cual te descargas archivos y al mismo tiempo estás compartiendo desde tu computadora. 
 
 ![](/assets/xtopologias_de_red.gif.pagespeed.ic.aa1tLCF4ND.png)
 
-**Imagen:** topologías de red. Tomado de: https://lasindias.blog/el-poder-de-las-redes
+_Imagen_**:** topologías de red. Tomado de: [https://lasindias.blog/el-poder-de-las-redes](https://lasindias.blog/el-poder-de-las-redes)
 
-Sobre este último tipo de red **distribuida** es que corren las criptomonedas. El **blockchain** está copiado y se sincroniza en cada uno de los nodos completos de la red. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando[^7].
+Las **criptomonedas**, funcionan construyendo una red **distribuida** de nodos a través de los cuales se copia y sincroniza el **blockchain**. Cuando instalamos una criptomoneda lo primero que ocurre es la descarga del **blockchain** y cada vez que la encendemos se sincroniza el resto de los nodos de la red. En cada momento del tiempo vamos teniendo todo el listado de transacciones que se van realizando[^7].
 
 En los momentos de escribir este artículo, hay unos 10.000 nodos completos de bitcoin en ejecución [^6].
 
