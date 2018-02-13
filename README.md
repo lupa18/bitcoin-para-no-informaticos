@@ -6,7 +6,7 @@ Dado este nuevo fenómeno de las criptomonedas, son muchas las personas que lleg
 
 Entonces la motivación principal es esa: acercar a los no informáticos o "no expertos",  una serie de conceptos y prácticas que se están extendiendo cada vez más y en el futuro pueden pasar a ser parte esencial de lo cotidiano.
 
-Las explicaciones de por qué las criptomonedas están teniendo tanto éxito pueden ser múltiples: a mí me gustaría rescatar el hecho de que de ser adoptadas de forma masiva, pondría en cuestionamiento el sistema bancario actual, que desde mi punto de vista, es una forma absolutamente nefasta de manejar y utilizar el dinero de las personas. Hay un brillante ensayo que se llama "Quiero toda la tierra más el 5%" que expone de forma fenomenal este fraudulento esquema de manejo de los ahorros y finanzas de las personas por parte de los bancos[^1] [^2].
+Las explicaciones de por qué las criptomonedas están teniendo tanto éxito pueden ser múltiples: a mí me gustaría rescatar el hecho de que de ser adoptadas de forma masiva, pondrían en cuestionamiento el sistema bancario actual, que puede verse como una forma abusiva de manejar y utilizar el dinero de las personas, sin contar las numerosas irregularidades en que habitualmente incurren Hay un brillante ensayo que se llama **"Quiero toda la tierra más el 5%"** que expone de forma fenomenal y muy didáctica este fraudulento esquema de manejo de los ahorros y finanzas de las personas por parte de los bancos[^1] [^2].
 
 Existen quienes afirman que Bitcoin, en particular a partir de su tecnología de **blockchain**, comenzó un cambio tan drástico como la invención de las computadoras personales, o la creación de Internet, Marc Andreessen, co fundador de Netscape plantea estos **3 hitos**: "Computadoras personales en 1975,  Internet en 1993, y –creo que– Bitcoin en 2014"[^3]. A lo largo de estos artículos veremos algunos elementos que pueden apoyar esta tesis.
 
@@ -14,7 +14,7 @@ Existen quienes afirman que Bitcoin, en particular a partir de su tecnología de
 
 El avance, la variedad y la velocidad de surgimiento y adopción de criptomonedas te va a obligar a verificar la fecha de estos artículos e ir con cautela tratando de ver que lo que aquí está escrito aún se corresponda con la realidad \(si es que alguna vez lo hizo\).
 
-A lo largo del texto, te vamos a ir proponiendo fuentes de información que creemos veraces y que podrás revisar cada vez para cotejar lo que aparece en el texto y continuar con tus propias investigaciones.
+A lo largo del texto, te vamos a ir proponiendo fuentes de información que creemos veraces y que deberías revisar cada vez para cotejar lo que aparece en el texto y continuar con tus propias investigaciones.
 
 ## Pensado desde el Sur
 
