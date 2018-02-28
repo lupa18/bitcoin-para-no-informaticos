@@ -60,7 +60,9 @@ En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 m
 
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
-La segunda moneda que nos interesa es Zcash que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". 
+La segunda moneda que nos interesa es Zcash que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño".
+
+Así funcionan las [transacciones blindadas.](https://z.cash/es/blog/zcash-private-transactions.html)
 
 **FIXME:** continuar con zcash
 
