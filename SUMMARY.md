@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * [¿Qué son las criptomonedas?](que-son-las-criptomonedas.md)
-* [Las críticas al sistema](las-criticas-al-sistema.md)
+* [Las críticas a Bitcoin](las-criticas-al-sistema.md)
 * [¿Hay varias criptomonedas?](hay-varias-criptomonedas.md)
 * [Pero ¿cómo funcionan?](pero-como-funcionan.md)
 * [Comienza creando una billetera](comienza-creando-tu-billetera.md)
