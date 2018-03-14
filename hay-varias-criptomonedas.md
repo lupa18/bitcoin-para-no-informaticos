@@ -70,7 +70,11 @@ Así funcionan las [transacciones blindadas.](https://z.cash/es/blog/zcash-priva
 
 ## Chia, un abordaje para proteger al ambiente
 
-[https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/)
+[Web de Chia](https://chia.network)
+
+ProofOfSpace
+
+Artículo: [https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/)
 
 ## Ethereum, más allá de las monedas
 

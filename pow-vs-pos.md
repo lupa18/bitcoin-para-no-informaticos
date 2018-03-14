@@ -18,7 +18,7 @@ PoC
 
 ## Prueba de Espacio
 
-?
+PoSpace \(Chia\)
 
 Ver: [https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/) \(ya referenciado en capítulo 3\)
 
