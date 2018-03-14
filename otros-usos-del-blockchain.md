@@ -22,7 +22,10 @@ Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 [Safecoin](https://maidsafe.net/safecoin.html) \(MaidSafe\): Safecoin is a digital token. It can be thought of as the oil in the engine of the SAFE Network, a built in way of ensuring that all users of the network are compensated for the value they provide. Let’s ﬁnd out how it works...
 
-FIXME: revisar: https://yourblock.io/
+FIXME: revisar: 
+
+* [https://yourblock.io/](https://yourblock.io/)
+* https://aragon.one/
 
 ### Publicación de contenidos
 
