@@ -22,10 +22,10 @@ Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 [Safecoin](https://maidsafe.net/safecoin.html) \(MaidSafe\): Safecoin is a digital token. It can be thought of as the oil in the engine of the SAFE Network, a built in way of ensuring that all users of the network are compensated for the value they provide. Let’s ﬁnd out how it works...
 
-FIXME: revisar: 
+FIXME: revisar:
 
 * [https://yourblock.io/](https://yourblock.io/)
-* https://aragon.one/
+* [https://aragon.one/](https://aragon.one/)
 
 ### Publicación de contenidos
 
@@ -38,4 +38,10 @@ FIXME: revisar:
 [Earn.com](https://earn.com/): "Microtasks, micropayments, blockchains, and decentralization."
 
 [Steemit](https://steemit.com): es una **red social** que combina la creación de contenido, la interacción con usuarios y el uso de una criptomoneda llamada Steem \(de Wikipedia\)
+
+### Curiosidades
+
+[Cripto-Radiador QC-1: Un radiador que calienta el ambiente mientras mina criptomonedas](https://www.neoteo.com/cripto-radiador-qc-1-un-radiador-que-calienta-el-ambiente-mientras-mina-criptomonedas/)
+
+
 
