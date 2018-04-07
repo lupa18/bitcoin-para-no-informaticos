@@ -8,3 +8,9 @@ FIXME: capítulo en desarrollo
 
 Este es un comienzo: [https://www.buybitcoinworldwide.com/](https://www.buybitcoinworldwide.com/)
 
+## Exchanges p2p
+
+[Bisq](https://bisq.network/)
+
+[BlockNet](http://blocknet.co/)
+
