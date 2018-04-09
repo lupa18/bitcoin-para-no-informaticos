@@ -2,9 +2,9 @@
 
 En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes.
 
-Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos códigos y blockchain diferentes.  
+Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **acrónimo que suele ser un código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos programas y dos blockchains totalmente diferentes.
 
-En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptomonedas que existen y que creemos que son las más importantes: por ser las más utilizadas, por alguna cuestión histórica o porque tienen alguna característica especial que las distingue de las otras. 
+En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptomonedas que existen y que creemos que son las más importantes: por ser las más utilizadas, por alguna cuestión histórica o porque tienen alguna característica especial que las distingue de las otras.
 
 Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
@@ -14,7 +14,7 @@ Entonces veamos nuestro listado **no exahustivo y totalmente arbitrario** de cri
 
 ## La primera: Bitcoin
 
-Bitcoin fue la primer criptomoneda de éxito mundial y la más adoptada **hasta el momento**, veamos una explicación del sitio web de  [Bitcoin en Español: ](https://bitcoin.org/es/faq)
+Bitcoin \(BTC\) fue la primer criptomoneda de éxito mundial y la más adoptada **hasta el momento**, veamos una explicación del sitio web de  [Bitcoin en Español: ](https://bitcoin.org/es/faq)
 
 > "Bitcoin es la primera implementación de un concepto conocido como "moneda criptográfica", la cual fue descrita por primera vez en 1998 por Wei Dai en la lista de correo electónico "cypherpunks", donde propuso la idea de un nuevo tipo de dinero que utilizara la criptografía para controlar su creación y las transacciones, en lugar de que lo hiciera una autoridad centralizada. La primera especificación del protocolo Bitcoin y la prueba del concepto la publicó Satoshi Nakamoto en el 2009 en una lista de correo electrónico. Satoshi abandonó el proyecto a finales de 2010 sin revelar mucho sobre su persona. Desde entonces, la comunidad ha crecido de forma exponencial y cuenta con [numerosos desarrolladores](https://bitcoin.org/es/desarrollo) que trabajan en el protocolo Bitcoin".
 
@@ -38,7 +38,7 @@ Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en espa�
 
 ## Litecoin, un intento de superar a Bitcoin
 
-Está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
+Litecoin \(LTC\) está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain**. Sin embargo hasta el momento, su adopción y su valorización **no se han popularizado**: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
@@ -50,7 +50,7 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 ## Faircoin, una forma "justa" de intercambio de valor
 
-En su web oficial, se plantea como una **alternativa a las criptomonedas**, que funciona a través de la cooperación en vez de la competencia y que utiliza una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
+Faircoin \(FAIR\) se plantea como una **alternativa a las criptomonedas**, que funciona a través de la cooperación en vez de la competencia y que utiliza una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2].
 
 Su versión 2 fue lanzada en diciembre de 2016 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques.
 
@@ -66,7 +66,7 @@ Hay otras 2 monedas que se disputan **mejorar la privacidad** del sistema: sus c
 
 ### Monero
 
-La primera que aparece, en 2014, es _Monero_ en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
+Monero \(XMR\) aparece en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
@@ -76,11 +76,11 @@ Puedes seguir profundizando sobre monero en su [página web](https://getmonero.o
 
 ### Zcash
 
-La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto quiere decir que no es económicamente viable minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
+Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo y de su código. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto significa que no es **económicamente viable** minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
 
-En cuanto a la privacidad de los usuarios, las transacciones pueden ser "transparentes" como las de Bitcoin, o blindadas. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
+En cuanto a la privacidad de los usuarios, las **transacciones pueden ser "transparentes" **como las de Bitcoin, o **"blindadas"**. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
 
-Sobre la cantidad de monedas \(ZEC\) será de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los verás en [Zcahin](https://explorer.zcha.in/).
+La cantidad de monedas será como máximo de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los podrás ver en [Zcahin](https://explorer.zcha.in/).
 
 Puedes seguir investigando en la [Web de Zcash](https://z.cash/) que también tiene una sección de [Preguntas Frecuentes](https://z.cash/support/faq.html).
 
@@ -94,9 +94,11 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo este es el momento de hablar de Ethereum, que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de "contratos inteligentes" \(o "smart contracts"\).
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo este es el momento de hablar de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de "contratos inteligentes" \(o "smart contracts"\).
 
-Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar el tipo de prueba criptográfica que utiliza: 
+Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar el tipo de prueba criptográfica que utiliza:
+
+FIXME
 
 ---
 
