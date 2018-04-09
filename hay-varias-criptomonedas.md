@@ -64,29 +64,43 @@ Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomoneda
 
 Hay otras 2 monedas que se disputan **mejorar la privacidad** del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** Buscan "superar" bitcoin con diversas técnicas de anonimización y ocultamiento de metadatos, pues identifican que dirección de origen, destino y montos **pueden poner en riesgo** la identidad de los usuarios.
 
+### Monero
+
 La primera que aparece, en 2014, es _Monero_ en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
+Su software, está disponible para GNU/Linux, Android, Windows, Mac y otros sistemas, con una [licencia específica](https://github.com/monero-project/monero-gui/blob/master/LICENSE).  
+
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
-La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. Utiliza el algoritmo Equihash y técnicas criptográficas de conocimiento cero[^7] para mantener los detalles de las transacciones en secreto: las transacciones que ocultan los metadatos se llaman [transacciones blindadas](https://z.cash/es/blog/zcash-private-transactions.html). En el blog de Zcash puedes leer una explicación en español de cómo funcionan: 
+### Zcash
 
-Puedes seguir investigando en la [Web de Zcash](https://z.cash/).
+La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto quiere decir que no es económicamente viable minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería. 
+
+En cuanto a la privacidad de los usuarios, las transacciones pueden ser "transparentes" como las de Bitcoin, o blindadas. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html). 
+
+Sobre la cantidad de monedas \(ZEC\) será de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los verás en [Zcahin](https://explorer.zcha.in/).
+
+Puedes seguir investigando en la [Web de Zcash](https://z.cash/) que también tiene una sección de [Preguntas Frecuentes](https://z.cash/support/faq.html). 
 
 ## Chia, un abordaje para proteger al ambiente
 
-[Web de Chia](https://chia.network)
+Chia es un proyecto de criptomoneda que en momentos de escribir este artículo aún no está en funcionamiento. Según su web y algunos [artículos de prensa](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/), buscará ser una alternativa amigable con el ambiente en contraposición con los problemas que tienen las criptomonedas estilo Bitcoin y que ya mencionamos en el artículo anterior. 
 
-ProofOfSpace
+Sus pruebas criptográficas combinarían el espacio en disco duro "ProofOfSpace" y de tiempo de uso "ProofOfTime". Explicaremos los detalles en un futuro artículo específico sobre las "pruebas criptográficas". 
 
-Artículo: [https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/)
+Puedes investigar más en la [Web de Chia](https://chia.network) y en su sección de [Preguntas Frecuentes](https://chia.net/faq/). 
 
 ## Ethereum, más allá de las monedas
 
 asdf
 
-En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/pero-como-funcionan.html) presentamos una sección "Herramientas" donde encontrarás varias formas de comparar todas estas criptomonedas
+---
+
+En futuro artículos presentaremos varias formas de adquirir estas y otras criptomonedas.
+
+---
 
 [^1]: "Nodo completo" significa tener funcionando en tu propia computadora la versión oficial del software de bitcoin y la billetera bajo tu completo control. No es necesario que esto sea así para tener tus bitcoin, pero es la forma más soberana de tenerlo. Lo seguiremos desarrollando en futuros artículos. Puedes ver el [tamaño del blockchain aquí](https://blockchain.info/es/charts/blocks-size) en "tiempo real".
 
@@ -98,7 +112,7 @@ En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-
 
 [^5]: [Tor](https://es.wikipedia.org/wiki/Tor_%28red_de_anonimato%29) es un sistema de anonimización en Internet.
 
-[^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones metereológicas, robótica y otros. Además ha hecho crecer enormemente la cantida de proyectos similares. 
+[^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones metereológicas, robótica y otras [miles de posibilidades](https://www.hackster.io/raspberry-pi). Además ha hecho crecer enormemente la cantida de proyectos similares. 
 
-[^7]: Aquí hay una definición  de las técnicas de ["conocimento cero"](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) con un ejemplo para entenderlas mejor.   
+[^7]: Para comprender mejor las pruebas de conocimiento cero, puedes ver la definición y ejemplos en el artículo de Wikipedia: ["Prueba de conocimento cero"](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero).   
 
