@@ -94,7 +94,9 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-asdf
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo este es el momento de hablar de Ethereum, que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de "contratos inteligentes" \(o "smart contracts"\).
+
+FIXME
 
 ---
 
