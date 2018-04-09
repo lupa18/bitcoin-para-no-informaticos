@@ -1,14 +1,14 @@
 # Bitcon, ethereum, faircoin ¿cuántas criptomonedas hay?
 
-En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes. 
+En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes.
 
-Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. 
+Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3].
 
-En este artículo, nos centraremos en alguna de ellas porque son las más famosas o simplemente nos parece que resultan de mayor interés, es una elección totalmente arbitraria. 
+En este artículo, nos centraremos en alguna de ellas porque son las más famosas o simplemente nos parece que resultan de mayor interés, es una elección totalmente arbitraria.
 
 Las que describimos abajo, tienen las características que desarrrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
-La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/), y veremos otras que tienen diferentes propuestas tecnológicas o políticas: cada una con diferente grado de éxito o adpoción hasta el momento. 
+La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/), y veremos otras que tienen diferentes propuestas tecnológicas o políticas: cada una con diferente grado de éxito o adpoción hasta el momento.
 
 Entonces veamos nuestro listado **no exahustivo y totalmente arbitrario** de criptomonedas:
 
@@ -24,17 +24,17 @@ En el libro _"Bitcoin, la moneda del futuro"_ se resumen estas características 
 
 > "A diferencia del dinero de curso forzoso, Bitcoin no puede ser controlado por ninguna autoridad debido a su naturaleza descentralizada. La expansión de la base monetaria está predeterminada por el software de Bitcoin y es conocida por todos, de modo que no es posible afectar el poder adquisitivo de los usuarios manipulando la cantidad de bitcoins en circulación".
 
-Veremos más adelante de que estas afirmaciones sobre la "gobernanza" del sistema, como por ejemplo "no es controlado" y "conocida por todos" se ha expresado recientemente en algunos cambios y bifurcaciones, conocidos como **"hardforks"** con diversas implicaciones políticas y económicas. Lo retomaremos en futuras entregas.   
+Veremos más adelante de que estas afirmaciones sobre la "gobernanza" del sistema, como por ejemplo "no es controlado" y "conocida por todos" se ha expresado recientemente en algunos cambios y bifurcaciones, conocidos como **"hardforks"** con diversas implicaciones políticas y económicas. Lo retomaremos en futuras entregas.
 
 Por último, cabe mencionar algunos elementos que se adelantaron en la sección de "críticas", que esta criptomoneda debería mejorar:
 
-1. La cuestión de la** privacidad,** ya que los metadatos de la transacción son públicos: fecha, hora, monto y otros. Así como la dirección IP en caso que no se use en conjunto con Tor[^5].
-2. El **tamaño del blockchain**: para correr un "nodo completo" de Bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 160 GB[^1]. 
-3. El **consumo** de recursos informáticos y por lo tanto energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-of-Work e implica un gran poder de cómputo. Esto ya lo mencionamos en un artículo anterior y lo veremos nuevamente más adelante. 
+1. La cuestión de la** privacidad,** ya que los metadatos de la transacción son públicos: fecha, hora, monto y otros. También existen métodos de asociar dirección IP con usuarios, en caso que no se use en conjunto con Tor[^5]
+2. El **tamaño del blockchain**: para correr un "nodo completo" de Bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 160 GB[^1]
+3. El **consumo** de recursos informáticos y energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-of-Work e implica un gran poder de cómputo. 
 
-El software de Bitcoin está disponible para GNU/Linux, Android, Windows y Mac,  con una [licencia MIT/X11](https://es.wikipedia.org/wiki/Licencia_MIT) y veremos cómo instalarlo en siguientes artíclos.
+El software de Bitcoin está disponible para GNU/Linux, Android, Windows y Mac,  con una [licencia MIT/X11](https://es.wikipedia.org/wiki/Licencia_MIT) y veremos cómo instalarlo en siguientes artículos.
 
-Te recomendamos que leas todas las [preguntas frecuentes en español](https://bitcoin.org/es/faq): no tienen desperdicios.
+Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en español](https://bitcoin.org/es/faq): no tienen desperdicios.
 
 ## Litecoin, un intento de superar a Bitcoin
 
