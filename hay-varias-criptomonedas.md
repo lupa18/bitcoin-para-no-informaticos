@@ -38,7 +38,7 @@ Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en espa�
 
 ## Litecoin, un intento de superar a Bitcoin
 
-Está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el procesamiento de bloques de forma más rápida, **ii\)** el total de unidades en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función "scrypt" en su mecanismo de Proof-of-Work que hace el minado más sencillo.
+Está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain**. Sin embargo hasta el momento, su adopción y su valorización **no se han popularizado**: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
@@ -54,7 +54,7 @@ En su web oficial, se plantea como una **alternativa a las criptomonedas**, que 
 
 Su versión 2 fue lanzada en diciembre de 2016 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques.
 
-Para compensar el esfuerzo de correr un Nodo Colaborativo y Validado \(CVN\) se utiliza una pequeña comisión por cada transacción que se efectiviza en la creación de un bloque. El consumo de un CVN es tan bajo que puede correr en una RaspberryPi.
+Para compensar el esfuerzo de correr un **Nodo Colaborativo y Validado** \(CVN\) se utiliza una pequeña comisión por cada transacción que se efectiviza en la creación de un bloque. El consumo de un CVN es tan bajo que puede correr en una RaspberryPi[^6].
 
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT).
 
@@ -62,21 +62,19 @@ Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomoneda
 
 ## La privacidad por diseño: Zcash y Monero
 
-Hay 2 monedas que se disputan mejorar la privacidad del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** En este sentido, buscan "mejorar" bitcoin en la cual dirección de origen, destino y montos śon públios y por lo tanto podrían poner en riesgo la identidad de los usuarios.
+Hay otras 2 monedas que se disputan **mejorar la privacidad** del sistema: sus creadores han aplicado el principio de** "privacidad por diseño".** Buscan "superar" bitcoin con diversas técnicas de anonimización y ocultamiento de metadatos, pues identifican que dirección de origen, destino y montos **pueden poner en riesgo** la identidad de los usuarios.
 
-La primera que aparece, en 2014, es Monero en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ Además tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información sobre quién envía, montos y quien recibe, queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
+La primera que aparece, en 2014, es _Monero_ en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
-La segunda moneda que nos interesa es Zcash que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño".
+La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. Utiliza el algoritmo Equihash y técnicas criptográficas de conocimiento cero[^7] para mantener los detalles de las transacciones en secreto.
 
 Así funcionan las [transacciones blindadas.](https://z.cash/es/blog/zcash-private-transactions.html)
 
-**FIXME:** continuar con zcash
-
-[Web de Zcash](https://z.cash/)
+Puedes seguir investigando en la [Web de Zcash](https://z.cash/).
 
 ## Chia, un abordaje para proteger al ambiente
 
@@ -101,4 +99,8 @@ En el artículo ["Pero, ¿cómo funcionan?"](https://lupa18.gitbooks.io/bitcoin-
 [^4]: Aquí puedes ver un [cuadro comparativo](https://docs.google.com/spreadsheets/d/1qXi7zUSIh7F6UuSuhOryyFbHEy_LJuym3I3neAga_2s/edit?pli=1#gid=239466694) de las existencias, porcentaje de minado y otros guarismos entre bitcoin y monero. 
 
 [^5]: [Tor](https://es.wikipedia.org/wiki/Tor_%28red_de_anonimato%29) es un sistema de anonimización en Internet.
+
+[^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones metereológicas, robótica y otros. Además ha hecho crecer enormemente la cantida de proyectos similares. 
+
+[^7]: Aquí hay una definición  de las técnicas de ["conocimento cero"](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) con un ejemplo para entenderlas mejor.   
 
