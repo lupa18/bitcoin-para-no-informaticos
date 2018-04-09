@@ -70,9 +70,7 @@ En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 m
 
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
-La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. Utiliza el algoritmo Equihash y técnicas criptográficas de conocimiento cero[^7] para mantener los detalles de las transacciones en secreto.
-
-Así funcionan las [transacciones blindadas.](https://z.cash/es/blog/zcash-private-transactions.html)
+La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. Utiliza el algoritmo Equihash y técnicas criptográficas de conocimiento cero[^7] para mantener los detalles de las transacciones en secreto: las transacciones que ocultan los metadatos se llaman [transacciones blindadas](https://z.cash/es/blog/zcash-private-transactions.html). En el blog de Zcash puedes leer una explicación en español de cómo funcionan: 
 
 Puedes seguir investigando en la [Web de Zcash](https://z.cash/).
 
