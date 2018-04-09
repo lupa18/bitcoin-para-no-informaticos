@@ -102,7 +102,16 @@ En al último de los artículos discutiremos otros usos de las tecnologías de b
 
 Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar el tipo de prueba criptográfica que utiliza:
 
-[Web de Ethereum](https://ethereum.org/) 
+[Web de Ethereum](https://ethereum.org/)
+
+## Otras
+
+Otras monedas que te recomendamos revisar:
+
+* [Dash](https://www.dash.org/) \(DASH\): con privacidad por diseño \(no confundir con dashcoin\)
+* [Gridcoin](https://www.gridcoin.us/) \(GRC\): pon tu poder de computo al servicio de la investigación científica
+* [CreativeCoin](https://www.creativechain.org/) \(CREA\): para el intercambio de bienes creativos
+* Revisa los hardforks de Bitcoin [aquí](https://coincentral.com/the-upcoming-bitcoin-hard-forks-what-you-need-to-know/) o [aquí](http://list.wiki/Bitcoin_Hard_Forks) \(sobre todo si compraste bitcoin antes de 2017\)
 
 ---
 
