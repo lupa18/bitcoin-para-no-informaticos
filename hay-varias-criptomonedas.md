@@ -70,27 +70,27 @@ La primera que aparece, en 2014, es _Monero_ en 2014 y no es una "derivada de bi
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
-Su software, está disponible para GNU/Linux, Android, Windows, Mac y otros sistemas, con una [licencia específica](https://github.com/monero-project/monero-gui/blob/master/LICENSE).  
+Su software, está disponible para GNU/Linux, Android, Windows, Mac y otros sistemas, con una [licencia específica](https://github.com/monero-project/monero-gui/blob/master/LICENSE).
 
 Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
 ### Zcash
 
-La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto quiere decir que no es económicamente viable minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería. 
+La segunda moneda que nos interesa aquí es _Zcash_ que surge en 2016 y de la misma forma, aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto quiere decir que no es económicamente viable minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
 
-En cuanto a la privacidad de los usuarios, las transacciones pueden ser "transparentes" como las de Bitcoin, o blindadas. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html). 
+En cuanto a la privacidad de los usuarios, las transacciones pueden ser "transparentes" como las de Bitcoin, o blindadas. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
 
 Sobre la cantidad de monedas \(ZEC\) será de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los verás en [Zcahin](https://explorer.zcha.in/).
 
-Puedes seguir investigando en la [Web de Zcash](https://z.cash/) que también tiene una sección de [Preguntas Frecuentes](https://z.cash/support/faq.html). 
+Puedes seguir investigando en la [Web de Zcash](https://z.cash/) que también tiene una sección de [Preguntas Frecuentes](https://z.cash/support/faq.html).
 
 ## Chia, un abordaje para proteger al ambiente
 
-Chia es un proyecto de criptomoneda que en momentos de escribir este artículo aún no está en funcionamiento. Según su web y algunos [artículos de prensa](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/), buscará ser una alternativa amigable con el ambiente en contraposición con los problemas que tienen las criptomonedas estilo Bitcoin y que ya mencionamos en el artículo anterior. 
+Chia es un proyecto de criptomoneda que en momentos de escribir este artículo aún no está en funcionamiento. Según su web y algunos [artículos de prensa](https://techcrunch.com/2017/11/08/chia-network-cryptocurrency/), buscará ser una alternativa amigable con el ambiente en contraposición con los problemas que tienen las criptomonedas estilo Bitcoin y que ya mencionamos en el artículo anterior.
 
-Sus pruebas criptográficas combinarían el espacio en disco duro "ProofOfSpace" y de tiempo de uso "ProofOfTime". Explicaremos los detalles en un futuro artículo específico sobre las "pruebas criptográficas". 
+Sus pruebas criptográficas combinarían el espacio en disco duro "ProofOfSpace" y de tiempo de uso "ProofOfTime". Explicaremos los detalles en un futuro artículo específico sobre las "pruebas criptográficas".
 
-Puedes investigar más en la [Web de Chia](https://chia.network) y en su sección de [Preguntas Frecuentes](https://chia.net/faq/). 
+Puedes investigar más en la [Web de Chia](https://chia.network) y en su sección de [Preguntas Frecuentes](https://chia.net/faq/).
 
 ## Ethereum, más allá de las monedas
 
@@ -98,7 +98,7 @@ asdf
 
 ---
 
-En futuro artículos presentaremos varias formas de adquirir estas y otras criptomonedas.
+**En futuro artículos presentaremos varias formas de adquirir estas y otras criptomonedas.**
 
 ---
 
