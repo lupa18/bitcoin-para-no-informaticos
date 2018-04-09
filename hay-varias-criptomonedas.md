@@ -2,11 +2,11 @@
 
 En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes.
 
-Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3].
+Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos códigos y blockchain diferentes.  
 
-En este artículo, nos centraremos en alguna de ellas porque son las más famosas o simplemente nos parece que resultan de mayor interés, es una elección totalmente arbitraria.
+En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptomonedas que existen y que creemos que son las más importantes: por ser las más utilizadas, por alguna cuestión histórica o porque tienen alguna característica especial que las distingue de las otras. 
 
-Las que describimos abajo, tienen las características que desarrrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
+Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
 La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/), y veremos otras que tienen diferentes propuestas tecnológicas o políticas: cada una con diferente grado de éxito o adpoción hasta el momento.
 
@@ -96,7 +96,7 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo este es el momento de hablar de Ethereum, que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de "contratos inteligentes" \(o "smart contracts"\).
 
-FIXME
+Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar el tipo de prueba criptográfica que utiliza: 
 
 ---
 
