@@ -52,13 +52,13 @@ Puedes seguir investigando en la [Web Oficial de Litecoin.](https://litecoin.org
 
 Faircoin \(FAIR\) se plantea como una **alternativa a las criptomonedas**, que funciona a través de la cooperación en vez de la competencia y que utiliza una prueba llamada Prueba-de-Cooperación \(Proof-of-Cooperation\)[^2]. Según su página web esto la hace más democrática que el resto además de más amigable con el ambiente.
 
-Su versión 2 fue lanzada en diciembre de 2016 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques.
+Su versión 2 fue lanzada en julio de 2017 y desde entonces existen unas **53 millones** de _fair. _ A diferencia de las otras, la existencia de monedas _fair_ no varía por la creación de nuevos bloques.
 
 Para compensar el esfuerzo de correr un **Nodo Colaborativo y Validado** \(CVN\) se utiliza una pequeña comisión por cada transacción que se efectiviza en la creación de un bloque. El consumo de un CVN es tan bajo que puede correr en una RaspberryPi[^6].
 
 A diferencia de las otras que presentamos, esta es la única en que el **precio de la moneda es fijo**, y está fijado por una asamblea de miembros de su comunidad cooperativa \([FairCoop](https://fair.coop)\). Además se ha generado un ecosistema, principalmente en Europa, de [tiendas tanto físicas](https://use.fair-coin.org/) como [online](https://market.fair.coop) para el intercambio de valores y servicios utilizando FAIR. En este [video promocional](https://vimeo.com/253953965) se muestra a través de un ejemplo real, cómo una persona [pagar un taxi con FAIRs](https://use.fair-coin.org/listings/taxi-en-valencia/).
 
-El precio actual de faircoin es de **1,2 €** y probablmente sea muy similar cuando leas este artícuulo ya que no varía demasiado en el tiempo a diferencia de las monedas que se manejan a precio de mercado.
+El **precio actual de faircoin es de 1,2 €** y probablmente sea muy similar cuando leas este artícuulo ya que no varía demasiado en el tiempo a diferencia de las monedas que se manejan a precio de mercado.
 
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT](https://github.com/faircoin/faircoin/blob/master/COPYING).
 
@@ -98,9 +98,9 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo este es el momento de hablar de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora los conceptos de **aplicaciones distribuidas** y **contratos inteligentes** \(o "smart contracts"\).
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora los conceptos de **aplicaciones distribuidas** y **contratos inteligentes** \(o "smart contracts"\).
 
-Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar el tipo de prueba criptográfica que utiliza:
+Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar que utiliza una prueba criptográfica FIXME 
 
 [Web de Ethereum](https://ethereum.org/)
 
