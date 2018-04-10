@@ -100,11 +100,13 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de **contratos inteligentes **ente pares \(o "smart contracts"\).
 
-El proyecto comienza a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding". A pesar de tener ya 3 años de desarrollo, la plataforma aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork, se supone que cambiará a ProofOfStake \(prueba de participación\). 
+El proyecto comenzó a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding". A pesar de tener ya 3 años de desarrollo, la plataforma aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que cambiará a ProofOfStake \(PoS, prueba de participación\).
 
+El total de monedas en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9]. 
 
+En cuanto a los contratos inteligentes, FIXME
 
-Puedes seguir leyendo [Web de Ethereum](https://ethereum.org/)
+Es importante aclarar que para comprender y utilizar esta plataforma sí requiere de conocimientos en informática y probablemente algo de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
 
 ## Otras
 
@@ -134,4 +136,8 @@ Otras monedas que te recomendamos revisar:
 [^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones metereológicas, robótica y otras [miles de posibilidades](https://www.hackster.io/raspberry-pi). Además ha hecho crecer enormemente la cantida de proyectos similares. 
 
 [^7]: Para comprender mejor las pruebas de conocimiento cero, puedes ver la definición y ejemplos en el artículo de Wikipedia: ["Prueba de conocimento cero"](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero).   
+
+[^8]: Puedes verlo [aquí: https://etherscan.io/stat/supply](https://etherscan.io/stat/supply)
+
+[^9]: Puedes leer interesante hilo de discusión en el [foro de ethereum: https://forum.ethereum.org/discussion/46/total-supply-of-eth](https://forum.ethereum.org/discussion/46/total-supply-of-eth)
 
