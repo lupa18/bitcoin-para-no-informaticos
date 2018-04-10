@@ -104,9 +104,9 @@ El proyecto comenzó a funcionar en 2015 y se financió a través de financiaci�
 
 El total de monedas en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9].
 
-En cuanto a los contratos inteligentes, FIXME
+En cuanto a los **contratos inteligentes**, aseguran que dadas ciertas condiciones iniciales, en el momento que se cumplen, se ececuta una transacción y todo esto utilizando el blockchain. Esto hace que sea un sistema altamente confiable y eficiente.  
 
-Es importante aclarar que para comprender y utilizar esta plataforma sí requiere de conocimientos en informática y probablemente algo de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
+Es importante aclarar que para comprender y utilizar esta plataforma sí se requieren conocimientos en informática y probablemente algo de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
 
 ## Otras
 
