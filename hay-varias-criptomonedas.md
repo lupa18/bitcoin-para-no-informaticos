@@ -98,11 +98,13 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora los conceptos de **aplicaciones distribuidas** y **contratos inteligentes** \(o "smart contracts"\).
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una criptomoneda que además de intercambio y almacenamiento de valor incorpora el concepto de **contratos inteligentes **ente pares \(o "smart contracts"\).
 
-Comencemos primero con la parte de criptomoneda, tal como en el resto, cabe señalar que utiliza una prueba criptográfica FIXME 
+El proyecto comienza a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding". A pesar de tener ya 3 años de desarrollo, la plataforma aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork, se supone que cambiará a ProofOfStake \(prueba de participación\). 
 
-[Web de Ethereum](https://ethereum.org/)
+
+
+Puedes seguir leyendo [Web de Ethereum](https://ethereum.org/)
 
 ## Otras
 
