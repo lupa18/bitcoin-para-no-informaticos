@@ -8,8 +8,6 @@ En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptom
 
 Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
-La primera y la más famosa hasta el momento es [Bitcoin](https://bitcoin.org/es/), y veremos otras que tienen diferentes propuestas tecnológicas o políticas: cada una con diferente grado de éxito o adpoción hasta el momento.
-
 Entonces veamos nuestro listado **no exahustivo y totalmente arbitrario** de criptomonedas:
 
 ## La primera: Bitcoin
