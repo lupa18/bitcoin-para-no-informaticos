@@ -92,7 +92,7 @@ Chia es un proyecto de criptomoneda que en momentos de escribir este artículo a
 
 Sus pruebas criptográficas combinarían el espacio en disco duro "ProofOfSpace" y de tiempo de uso "ProofOfTime". Explicaremos los detalles en un futuro artículo específico sobre las "pruebas criptográficas".
 
-Puedes investigar más en la [Web de Chia](https://chia.network) y en su sección de [Preguntas Frecuentes](https://chia.net/faq/).
+Puedes investigar más en la [web de Chia](https://chia.network) y en su sección de [preguntas frecuentes](https://chia.net/faq/).
 
 ## Ethereum, más allá de las monedas
 
