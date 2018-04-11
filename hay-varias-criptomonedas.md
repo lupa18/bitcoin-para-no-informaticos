@@ -1,4 +1,4 @@
-# Bitcon, ethereum, faircoin ¿cuántas criptomonedas hay?
+# Bitcon, Zcash, Faircoin ¿cuántas criptomonedas hay?
 
 En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes.
 
@@ -104,7 +104,7 @@ El proyecto comenzó a funcionar en 2015 y se financió a través de financiaci�
 
 El **total de monedas** en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9].
 
-En cuanto a los **contratos inteligentes**, estos son unidades programables en la red ethereum en las que dadas ciertas condiciones iniciales, aseguran que al cumplirse, se ececuta cierta transacción, y todo esto utilizando el blockchain. Estos contratos pueden interactuar con otros, para ejecutar aplicaciones más complejas. 
+En cuanto a los **contratos inteligentes**, estos son unidades programables en la red ethereum en las que dadas ciertas condiciones iniciales, aseguran que al cumplirse, se ececuta cierta transacción, y todo esto utilizando el blockchain. Estos contratos pueden interactuar con otros, para ejecutar aplicaciones más complejas.
 
 Es importante aclarar que para comprender y utilizar esta plataforma en todo su potencial, sí se requieren conocimientos en informática y probablemente de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
 
