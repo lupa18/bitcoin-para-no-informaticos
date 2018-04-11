@@ -36,7 +36,7 @@ Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en espa�
 
 ## Litecoin, un intento de superar a Bitcoin
 
-Litecoin \(LTC\) está inspirada en Bitcoin y es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
+Litecoin \(LTC\) surgió en 2011 inspirada en Bitcoin y como intento de superarla. Ess técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain**. Sin embargo hasta el momento, su adopción y su valorización **no se han popularizado**: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
