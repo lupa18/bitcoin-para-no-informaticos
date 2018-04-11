@@ -60,7 +60,9 @@ El **precio actual de faircoin es de 1,2 €** y probablemente sea muy similar c
 
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT](https://github.com/faircoin/faircoin/blob/master/COPYING).
 
-Te recomendamos [esta comparativa entre bitcoin y faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin) y además puedes profundizar en [su página web](https://fair-coin.org).
+Te recomendamos esta comparativa [entre bitcoin y faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin), y esta otra entre [bitcoin, faircoin y el dólar](https://fair-coin.org/en/comparing-currencies). Además puedes profundizar en [su página web](https://fair-coin.org).
+
+.
 
 ## La privacidad por diseño: Zcash y Monero
 
