@@ -6,7 +6,7 @@ Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? H
 
 En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptomonedas que existen y que creemos que son las más importantes: por ser las más utilizadas, por alguna cuestión histórica o porque tienen alguna característica especial que las distingue de las otras.
 
-Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuída** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
+Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuida** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
 Entonces veamos nuestro listado **no exahustivo y totalmente arbitrario** de criptomonedas:
 
