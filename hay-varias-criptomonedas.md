@@ -115,9 +115,11 @@ Otras monedas que te recomendamos revisar:
 * [CreativeCoin](https://www.creativechain.org/) \(CREA\): para el intercambio de bienes creativos
 * Revisa los hardforks de Bitcoin [aquí](https://coincentral.com/the-upcoming-bitcoin-hard-forks-what-you-need-to-know/) o [aquí](http://list.wiki/Bitcoin_Hard_Forks) \(sobre todo si compraste bitcoin antes de 2017\)
 
+Esperemos que te haya gustado el artículo, y que te sea de utilidad para comprender estos procesos que serán de vital importancia en el futuro. No dudes en comentar abajo o escribirnos en nuestro formulario de contacto.
+
 ---
 
-**En futuro artículos presentaremos varias formas de adquirir y utilizar estas y otras criptomonedas.**
+**En próximos artículos presentaremos varias formas de adquirir y utilizar estas y otras criptomonedas.**
 
 ---
 
