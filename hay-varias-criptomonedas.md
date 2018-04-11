@@ -133,7 +133,7 @@ Esperemos que te haya gustado el artículo, y que te sea de utilidad para compre
 
 [^5]: [Tor](https://es.wikipedia.org/wiki/Tor_%28red_de_anonimato%29) es un sistema de anonimización en Internet.
 
-[^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones metereológicas, robótica y otras [miles de posibilidades](https://www.hackster.io/raspberry-pi). Además ha hecho crecer enormemente la cantida de proyectos similares. 
+[^6]: [RaspberryPi](https://www.raspberrypi.org/) es un "computador de placa simple" de bajo coste que surgió como un proyecto educativo y que se ha generalizado para diversos usos: domótica, estaciones meteoreológicas, robótica y otras [miles de posibilidades](https://www.hackster.io/raspberry-pi). Además ha hecho crecer enormemente la cantida de proyectos similares. 
 
 [^7]: Para comprender mejor las pruebas de conocimiento cero, puedes ver la definición y ejemplos en el artículo de Wikipedia: ["Prueba de conocimento cero"](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero).   
 
