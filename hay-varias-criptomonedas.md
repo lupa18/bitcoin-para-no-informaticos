@@ -28,7 +28,7 @@ Por último, cabe mencionar algunos elementos que se adelantaron en la sección 
 
 1. La cuestión de la** privacidad,** ya que los metadatos de la transacción son públicos: fecha, hora, monto y otros. También existen métodos de asociar dirección IP con usuarios, en caso que no se use en conjunto con Tor[^5]
 2. El **tamaño del blockchain**: para correr un "nodo completo" de Bitcoin es necesario descargar el blockchain completo que al momento de escribir este texto pesa 160 GB[^1]
-3. El **consumo** de recursos informáticos y energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-of-Work e implica un gran poder de cómputo. 
+3. El **consumo** de recursos informáticos y energéticos que no suele ser amigable con el ambiente. La forma como valida las transacciones se denomina Proof-of-Work \(PoW\) e impulsa la creación y puesta en funcionamiento de computadoras más poderosas con mayor consumo energético. 
 
 El software de Bitcoin está disponible para GNU/Linux, Android, Windows y Mac,  con una [licencia MIT/X11](https://es.wikipedia.org/wiki/Licencia_MIT) y veremos cómo instalarlo en siguientes artículos.
 
