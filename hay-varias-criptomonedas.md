@@ -1,6 +1,6 @@
 # Bitcon, Zcash, Faircoin ¿cuántas criptomonedas hay?
 
-En las dos entregas anteriores, hablamos de forma general de las criptomonedas \[FIXME:enlace\], y vimos alguna de las críticas al sistema\[FIXME:enlace\]. Esta vez veremos algunos ejemplos que nos parecen más relevantes.
+En las dos entregas anteriores, hablamos de [forma general de las criptomonedas](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-1-que-son-las-criptomonedas/), y vimos alguna de las [críticas al sistema](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-2-las-criticas-al-sistema/). Esta vez veremos algunas criptomonedas que nos parecen relevantes.
 
 Comencemos respondiendo la pregunta del título, ¿cuántes criptomonedas hay? Hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **acrónimo que suele ser un código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos programas y dos blockchains totalmente diferentes.
 
