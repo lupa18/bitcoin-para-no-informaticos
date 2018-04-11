@@ -36,7 +36,7 @@ Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en espa�
 
 ## Litecoin, un intento de superar a Bitcoin
 
-Litecoin \(LTC\) surgió en 2011 inspirada en Bitcoin y como intento de superarla. Es tecnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
+Litecoin \(LTC\) surgió en 2011 inspirada en Bitcoin y como intento de superarla. Es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain**. Sin embargo hasta el momento, su adopción y su valorización **no se han popularizado**: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
@@ -70,7 +70,7 @@ Hay otras 2 monedas que se disputan **mejorar la privacidad** del sistema: sus c
 
 Monero \(XMR\) aparece en 2014 y no es una "derivada de bitcoin" sino que utiliza un código completamente diferente y un protocolo llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
-En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
+En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatinamente[^4].
 
 Su software, está disponible para GNU/Linux, Android, Windows, Mac y otros sistemas, con una [licencia específica](https://github.com/monero-project/monero-gui/blob/master/LICENSE).
 
