@@ -82,9 +82,9 @@ Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "pri
 
 En cuanto a la privacidad de los usuarios, las **transacciones pueden ser "transparentes" **como las de Bitcoin, o **"blindadas"**. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs[^10] que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
 
-La cantidad de monedas será como máximo de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los podrás ver en [Zcahin](https://explorer.zcha.in/).
+La cantidad de monedas será como máximo de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los podrás ver en [Zchain](https://explorer.zcha.in/).
 
-Puedes seguir investigando en la [Web de Zcash](https://z.cash/) que también tiene una sección de [Preguntas Frecuentes](https://z.cash/support/faq.html).
+Puedes seguir investigando en la [web de Zcash](https://z.cash/) que también tiene una sección de [preguntas frecuentes](https://z.cash/support/faq.html).
 
 ## Chia, un abordaje para proteger al ambiente
 
