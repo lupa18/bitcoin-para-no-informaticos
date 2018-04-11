@@ -98,15 +98,15 @@ Puedes investigar más en la [Web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una plataforma que combina una **criptomoneda** \(ether\) ara el intercambio y almacenamiento de valor, con un innovador concepto de **contratos inteligentes **ente pares \(o "smart contracts"\).
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una plataforma que combina una **criptomoneda** \(ether\) ara el intercambio y almacenamiento de valor, con un innovador concepto de **contratos inteligentes **ente pares \(o "smart contracts"\). Esto sumado a su lenguage de programación permite la creación de aplicaciones descentralizadas \(Daps\). Por lo tanto Ethereum es una criptomoneda, un protocolo, un lenguaje de programación y una plataforma de aplicaciones.
 
-El proyecto comenzó a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding". A pesar de tener ya 3 años de desarrollo, la plataforma aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que cambiará a ProofOfStake \(PoS, prueba de participación\).
+El proyecto comenzó a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding", obteniendo unos 15 millones de dólares en 2014. A pesar de tener ya 3 años de desarrollo, el proyecto aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que pronto cambiará a ProofOfStake \(PoS, prueba de participación\).
 
-El total de monedas en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9].
+El **total de monedas** en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9].
 
-En cuanto a los **contratos inteligentes**, aseguran que dadas ciertas condiciones iniciales, en el momento que se cumplen, se ececuta una transacción y todo esto utilizando el blockchain. Esto hace que sea un sistema altamente confiable y eficiente.  
+En cuanto a los **contratos inteligentes**, estos son unidades programables en la red ethereum en las que dadas ciertas condiciones iniciales, aseguran que al cumplirse, se ececuta cierta transacción, y todo esto utilizando el blockchain. Estos contratos pueden interactuar con otros, para ejecutar aplicaciones más complejas. 
 
-Es importante aclarar que para comprender y utilizar esta plataforma sí se requieren conocimientos en informática y probablemente algo de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
+Es importante aclarar que para comprender y utilizar esta plataforma en todo su potencial, sí se requieren conocimientos en informática y probablemente de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
 
 ## Otras
 
@@ -119,7 +119,7 @@ Otras monedas que te recomendamos revisar:
 
 ---
 
-**En futuro artículos presentaremos varias formas de adquirir estas y otras criptomonedas.**
+**En futuro artículos presentaremos varias formas de adquirir y utilizar estas y otras criptomonedas.**
 
 ---
 
