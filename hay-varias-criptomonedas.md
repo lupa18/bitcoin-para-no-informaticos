@@ -78,9 +78,9 @@ Puedes seguir profundizando sobre Monero en su [página web](https://getmonero.o
 
 ### Zcash
 
-Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "privacidad por diseño". El surgimiento tardío le dio el beneficio de aprender de los errores del pasado, presentándose como una mejora de bitcoin, que utiliza parte de su protocolo y de su código, pero con mucha innovación y nuevas funcionalidades. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto significa que no es **económicamente viable** minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
+Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "privacidad por diseño". El surgimiento tardío le dio el beneficio de aprender de los errores del pasado, presentándose como una mejora de bitcoin, que utiliza parte de su protocolo y de su código, pero con mucha innovación y nuevas funcionalidades. El algoritmo de Zcash se llama [Equihash](https://blog.z.cash/es/why-equihash/) y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto significa que no es **económicamente viable** minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
 
-En cuanto a la privacidad de los usuarios, las **transacciones pueden ser "transparentes" **como las de Bitcoin, o **"blindadas"**. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
+En cuanto a la privacidad de los usuarios, las **transacciones pueden ser "transparentes" **como las de Bitcoin, o **"blindadas"**. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs[^10] que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
 
 La cantidad de monedas será como máximo de **21 millones** y la generación de un bloque se da en promedio cada 2 minutos y medio. Los detalles del blockchain de Zcash los podrás ver en [Zcahin](https://explorer.zcha.in/).
 
@@ -138,4 +138,6 @@ Otras monedas que te recomendamos revisar:
 [^8]: Puedes verlo [aquí: https://etherscan.io/stat/supply](https://etherscan.io/stat/supply)
 
 [^9]: Puedes leer interesante hilo de discusión en el [foro de ethereum: https://forum.ethereum.org/discussion/46/total-supply-of-eth](https://forum.ethereum.org/discussion/46/total-supply-of-eth)
+
+[^10]:  Este protocolo ha sido adoptado recientemente por Ethereum: [https://z.cash/es/blog/ethereum-snarks.html](https://z.cash/es/blog/ethereum-snarks.html)
 
