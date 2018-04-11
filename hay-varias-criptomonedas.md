@@ -8,13 +8,13 @@ En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptom
 
 Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuida** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
 
-Entonces veamos nuestro listado **no exahustivo y totalmente arbitrario** de criptomonedas:
+Entonces veamos nuestro listado **no exhaustivo y totalmente arbitrario** de criptomonedas:
 
 ## La primera: Bitcoin
 
 Bitcoin \(BTC\) fue la primer criptomoneda de éxito mundial y la más adoptada **hasta el momento**, veamos una explicación del sitio web de  [Bitcoin en Español: ](https://bitcoin.org/es/faq)
 
-> "Bitcoin es la primera implementación de un concepto conocido como "moneda criptográfica", la cual fue descrita por primera vez en 1998 por Wei Dai en la lista de correo electónico "cypherpunks", donde propuso la idea de un nuevo tipo de dinero que utilizara la criptografía para controlar su creación y las transacciones, en lugar de que lo hiciera una autoridad centralizada. La primera especificación del protocolo Bitcoin y la prueba del concepto la publicó Satoshi Nakamoto en el 2009 en una lista de correo electrónico. Satoshi abandonó el proyecto a finales de 2010 sin revelar mucho sobre su persona. Desde entonces, la comunidad ha crecido de forma exponencial y cuenta con [numerosos desarrolladores](https://bitcoin.org/es/desarrollo) que trabajan en el protocolo Bitcoin".
+> "Bitcoin es la primera implementación de un concepto conocido como "moneda criptográfica", la cual fue descrita por primera vez en 1998 por Wei Dai en la lista de correo electrónico "cypherpunks", donde propuso la idea de un nuevo tipo de dinero que utilizara la criptografía para controlar su creación y las transacciones, en lugar de que lo hiciera una autoridad centralizada. La primera especificación del protocolo Bitcoin y la prueba del concepto la publicó Satoshi Nakamoto en el 2009 en una lista de correo electrónico. Satoshi abandonó el proyecto a finales de 2010 sin revelar mucho sobre su persona. Desde entonces, la comunidad ha crecido de forma exponencial y cuenta con [numerosos desarrolladores](https://bitcoin.org/es/desarrollo) que trabajan en el protocolo Bitcoin".
 
 Como ya se mencionó las criptomonedas deben ser un **"bien" escaso**, por eso existe un número limitado de bitcoins, que se ha fijado de forma arbitraria en **21 millones de unidades**. Lo mismo aplica para la amplia mayoría de las criptomonedas.
 
@@ -36,7 +36,7 @@ Te recomendamos que leas **todas** las [preguntas frecuentes de Bitcoin en espa�
 
 ## Litecoin, un intento de superar a Bitcoin
 
-Litecoin \(LTC\) surgió en 2011 inspirada en Bitcoin y como intento de superarla. Es técnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
+Litecoin \(LTC\) surgió en 2011 inspirada en Bitcoin y como intento de superarla. Es tecnicamente muy similar, con **3 diferencias principales**: **i\)** realiza el **procesamiento de bloques** de forma más rápida, **ii\)** el total de **unidades** en la red será 4 veces mayor que Bitcoin y **iii\)** usa la función **"scrypt"** en su mecanismo de Proof-of-Work \(PoW\) que hace el minado más sencillo.
 
 Un tema interesante a tener en cuenta, que se desprende de esas 3 diferencias planteadas y que impacta en la [instalación de "nodo completo"](https://lupa18.gitbooks.io/bitcoin-para-no-informaticos/crear-un-nodo-completo-de-bitcoin.html) por parte de los usuarios, es el** tamaño del blockhain**. Sin embargo hasta el momento, su adopción y su valorización **no se han popularizado**: tiene unas 8 veces menos transacciones diarias que Bitcoin o Ethereum.
 
@@ -56,7 +56,7 @@ Para compensar el esfuerzo de correr un **Nodo Colaborativo y Validado** \(CVN\)
 
 A diferencia de las otras que presentamos, esta es la única en que el **precio de la moneda es fijo**, y está fijado por una asamblea de miembros de su comunidad cooperativa \([FairCoop](https://fair.coop)\). Además se ha generado un ecosistema, principalmente en Europa, de [tiendas tanto físicas](https://use.fair-coin.org/) como [online](https://market.fair.coop) para el intercambio de valores y servicios utilizando FAIR. En este [video promocional](https://vimeo.com/253953965) se muestra a través de un ejemplo real, cómo una persona [pagar un taxi con FAIRs](https://use.fair-coin.org/listings/taxi-en-valencia/).
 
-El **precio actual de faircoin es de 1,2 €** y probablmente sea muy similar cuando leas este artícuulo ya que no varía demasiado en el tiempo a diferencia de las monedas que se manejan a precio de mercado.
+El **precio actual de faircoin es de 1,2 €** y probablemente sea muy similar cuando leas este artículo ya que no varía demasiado en el tiempo a diferencia de las monedas que se manejan a precio de mercado.
 
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT](https://github.com/faircoin/faircoin/blob/master/COPYING).
 
@@ -68,17 +68,17 @@ Hay otras 2 monedas que se disputan **mejorar la privacidad** del sistema: sus c
 
 ### Monero
 
-Monero \(XMR\) aparece en 2014 y no es una "derivada de bitcoin" sino que utiliza un protocolo diferente llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
+Monero \(XMR\) aparece en 2014 y no es una "derivada de bitcoin" sino que utiliza un código completamente diferente y un protocolo llamado [CryptoNote](https://en.wikipedia.org/wiki/CryptoNote), además de un algoritmo de minado llamado _CryptoNight._ A su vez tiene 3 componentes tecnológicos que permiten **mantener las transacciones confidenciales**:_ ring signatures,_ _ring confidential transactions_ \(RingCT\) y _stealth address_. Como resultado la información acerca de quién envía, quien recibe y los montos de cada transacción queda oculta, es decir, todas las transacciones de la red son privadas "por mandato" y no hay forma de hacer una transacción transparente.
 
 En cuanto a las existencias, en mayo de 2024, se llegará a un total de **18,4 millones **de monedas y luego tendrá una inflación de 1% anual que irá reduciéndose paulatínamente[^4].
 
 Su software, está disponible para GNU/Linux, Android, Windows, Mac y otros sistemas, con una [licencia específica](https://github.com/monero-project/monero-gui/blob/master/LICENSE).
 
-Puedes seguir profundizando sobre monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
+Puedes seguir profundizando sobre Monero en su [página web](https://getmonero.org/) que también tiene una sección de [preguntas frecuentes](https://getmonero.org/get-started/faq/).
 
 ### Zcash
 
-Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "privacidad por diseño". En este caso, surge como una mejora de bitcoin, utilizando parte de su protocolo y de su código. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto significa que no es **económicamente viable** minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
+Zcash \(ZEC\) por su parte, surge en 2016 y también aplica el principio de "privacidad por diseño". El surgimiento tardío le dio el beneficio de aprender de los errores del pasado, presentándose como una mejora de bitcoin, que utiliza parte de su protocolo y de su código, pero con mucha innovación y nuevas funcionalidades. El algoritmo de Zcash se llama Equihash y es resistente al minado con "ASIC" \(es hardware diseñado específicamente para minar Bitcoin u otra crypto\). Esto significa que no es **económicamente viable** minar Zcash con este tipo de tecnologías. Las implicaciones políticas de esto las discutiremos en un futuro artículo sobre minería.
 
 En cuanto a la privacidad de los usuarios, las **transacciones pueden ser "transparentes" **como las de Bitcoin, o **"blindadas"**. En este último caso, Zcash utiliza un algoritmo de ocultamiento llamado zk-SNARKs que es una "prueba de conocimiento cero"[^7]. De esta forma se ocultan los detalles de las transacciones como monto, remitente y destinatario. En el blog de Zcash puedes leer una explicación en español acerca de [Cómo Funcionan Las Transacciones Entre Direcciones Blindadas](https://z.cash/es/blog/zcash-private-transactions.html).
 
