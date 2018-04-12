@@ -2,6 +2,8 @@
 
 ![](/assets/22995486509_37e64b26d9_o.jpg)
 
+_Cryptocurrency Art Gallery - CC - Zero - https://www.flickr.com/photos/namecoin/_
+
 En las dos entregas anteriores, hablamos de [forma general de las criptomonedas](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-1-que-son-las-criptomonedas/), y vimos alguna de las [críticas al sistema](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-2-las-criticas-al-sistema/). Esta vez veremos algunas criptomonedas que nos parecen relevantes.
 
 Comencemos respondiendo la pregunta del título, ¿cuántas criptomonedas hay? La pregunta no refiere a las existencias de una criptomonedas, sino a los diferentes sistemas de criptomonedas. En este sentido, hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **acrónimo que suele ser un código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos programas y dos blockchains totalmente diferentes.
@@ -9,6 +11,8 @@ Comencemos respondiendo la pregunta del título, ¿cuántas criptomonedas hay? L
 En este artículo, nos centraremos en solamente 3 o 4 de las centenas de criptomonedas que existen y que creemos que son las más importantes: por ser las más utilizadas, por alguna cuestión histórica o porque tienen alguna característica especial que las distingue de las otras.
 
 Las que describimos abajo, tienen "las características" que desarrollamos en el capítulo anterior \[FIXME:enlace\]: son **software libre**, funcionan como una **red distribuida** \(p2p\), generan una **cantidad finita** de unidades monetarias y se basan en un registro o libro contable llamado **blockchain**.
+
+![](/assets/Selección_463.png)_Captura de pantalla de Cryptocompare: https://www.cryptocompare.com_
 
 Entonces veamos nuestro listado **no exhaustivo y totalmente arbitrario** de criptomonedas:
 
@@ -25,6 +29,8 @@ En el libro _"Bitcoin, la moneda del futuro"_ se resumen estas características 
 > "A diferencia del dinero de curso forzoso, Bitcoin no puede ser controlado por ninguna autoridad debido a su naturaleza descentralizada. La expansión de la base monetaria está predeterminada por el software de Bitcoin y es conocida por todos, de modo que no es posible afectar el poder adquisitivo de los usuarios manipulando la cantidad de bitcoins en circulación".
 
 Veremos más adelante de que estas afirmaciones sobre la "gobernanza" del sistema, como por ejemplo "no es controlado" y "conocida por todos" se ha expresado recientemente en algunos cambios y bifurcaciones, conocidos como **"hardforks"** con diversas implicaciones políticas y económicas. Lo retomaremos en futuras entregas.
+
+![](/assets/7297820998_d94789a144_b.jpg)_Bitcoin Magazine – CC BY-SA: https://www.flickr.com/photos/zcopley/_
 
 Por último, cabe mencionar algunos elementos que se adelantaron en la sección de "críticas", que esta criptomoneda debería mejorar:
 
@@ -56,6 +62,10 @@ Su versión 2 fue lanzada en julio de 2017 y desde entonces existen unas **53 mi
 
 Para compensar el esfuerzo de correr un **Nodo Colaborativo y Validado** \(CVN\) se utiliza una pequeña comisión por cada transacción que se efectiviza en la creación de un bloque. El consumo de un CVN es tan bajo que puede correr en una RaspberryPi[^6].
 
+![](/assets/diagramm-768x1011.jpg)
+
+_Diagrama de la Asamblea de FairCoop_
+
 A diferencia de las otras que presentamos, esta es la única en que el **precio de la moneda es fijo**, y está fijado por una asamblea de miembros de su comunidad cooperativa \([FairCoop](https://fair.coop)\). Además se ha generado un ecosistema, principalmente en Europa, de [tiendas tanto físicas](https://use.fair-coin.org/) como [online](https://market.fair.coop) para el intercambio de valores y servicios utilizando FAIR. En este [video promocional](https://vimeo.com/253953965) se muestra a través de un ejemplo real, cómo una persona [pagar un taxi con FAIRs](https://use.fair-coin.org/listings/taxi-en-valencia/).
 
 El **precio actual de faircoin es de 1,2 €** y probablemente sea muy similar cuando leas este artículo ya que no varía demasiado en el tiempo a diferencia de las monedas que se manejan a precio de mercado.
@@ -63,8 +73,6 @@ El **precio actual de faircoin es de 1,2 €** y probablemente sea muy similar c
 Su software, está disponible para GNU/Linux, Android, Windows y Mac, con una [licencia MIT](https://github.com/faircoin/faircoin/blob/master/COPYING).
 
 Te recomendamos esta comparativa [entre bitcoin y faircoin](https://criptomonedasfavoritas.tumblr.com/post/165550463544/comparativa-bitcoin-faircoin), y esta otra entre [bitcoin, faircoin y el dólar](https://fair-coin.org/en/comparing-currencies). Además puedes profundizar en [su página web](https://fair-coin.org).
-
-.
 
 ## La privacidad por diseño: Zcash y Monero
 
@@ -101,6 +109,8 @@ Puedes investigar más en la [web de Chia](https://chia.network) y en su secció
 ## Ethereum, más allá de las monedas
 
 En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una plataforma que combina una **criptomoneda** \(ether\) para el intercambio y almacenamiento de valor, con un innovador concepto de **contratos inteligentes **entre pares \(o "smart contracts"\). Esto sumado a su lenguaje de programación permite la creación de aplicaciones descentralizadas \(Daps\). Por lo tanto Ethereum es una criptomoneda, un protocolo, un lenguaje de programación y una plataforma de aplicaciones.
+
+![](/assets/24737254288_e496916895_h.jpg)_CC Zero – https://www.flickr.com/photos/ethereumclassic/_
 
 El proyecto comenzó a funcionar en 2015 y se financió utilizando "crowdfunding"[^11], obteniendo unos 15 millones de dólares en 2014. A pesar de tener 3 años de desarrollo, el proyecto aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que pronto cambiará a ProofOfStake \(PoS, prueba de participación\).
 
