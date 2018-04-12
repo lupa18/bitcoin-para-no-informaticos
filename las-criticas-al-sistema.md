@@ -1,5 +1,7 @@
 # Las críticas a Bitcoin
 
+![](/assets/MaxPixel.freegreatpicture.com-Technology-Blockchain-Crypto-Digital-Dark-3123582-e1519791309763.jpg)_MaxPixel.freegreatpicture.com-Technology-Blockchain-Crypto-Digital-Dark-3123582 - Foto de MaxPixel con licencia CC0_
+
 En el artículo anterior, desarrollamos conceptualmente Bitcoin y las criptomonedas en general y vimos algunas de sus características generales.
 
 Como para refrescar la memoria, recordemos que el **Blockchain** es una **base de datos distribuida** y que en el caso de las criptomonedas funciona como un **libro contable** sobre el que se escriben todas las transacciones del sistema.
@@ -16,17 +18,17 @@ Al respecto, vale la pena echar un ojo al mapa de nodos de bitcoin y ver que los
 
 El mapa muestra que son las zonas del planeta "más democráticas" y más "desarrolladas" donde se encuentran los servidores que soportan la red de Bitcoin.
 
-Este tema del uso potencialmente malicioso de una tecnología, merece que la pensemos clave de futuro y trascender más allá de sus riesgos: de ser así, la humanidad no habría avanzado en ninguna tecnología. 
+Este tema del uso potencialmente malicioso de una tecnología, merece que la pensemos clave de futuro y trascender más allá de sus riesgos: de ser así, la humanidad no habría avanzado en ninguna tecnología.
 
 En cambio, valdría la pena pensar en sus potencialidades y en particular del potencial democrático que implica una _red distribuida_ de intercambio de bienes y servicios. De alguna forma es el ideal de libre circulación que prometía la globalización.
 
 ## La regularización
 
-Por otra parte, están quienes afirman que las criptomonedas suelen ser muy **complejos de regular** y les preocupa fuertemente la incapacidad del Estado para captar impuestos \(que luego serían revertidos a la sociedad\). Los que tienen esta preocupación, suelen ver al Estado como un agente re-distribuidor de riquezas y a las criptomonedas como un debilitador de esta función, y en última instancias como un profundizador de las desigualdades. 
+Por otra parte, están quienes afirman que las criptomonedas suelen ser muy **complejos de regular** y les preocupa fuertemente la incapacidad del Estado para captar impuestos \(que luego serían revertidos a la sociedad\). Los que tienen esta preocupación, suelen ver al Estado como un agente re-distribuidor de riquezas y a las criptomonedas como un debilitador de esta función, y en última instancias como un profundizador de las desigualdades.
 
-Más allá de la posible pertinencia de la preocupación, sería más fructífero pensar en nuevas formas de recaudación y re-distribución de las riquezas en un escenario de generalización del uso de las TIC y de profundización de la globalización, incluso más allá de los Estados-Nación. 
+Más allá de la posible pertinencia de la preocupación, sería más fructífero pensar en nuevas formas de recaudación y re-distribución de las riquezas en un escenario de generalización del uso de las TIC y de profundización de la globalización, incluso más allá de los Estados-Nación.
 
-Es que los Estados deberán adaptarse a los nuevos caminos en que se está desarrollando estas tecnologías  y buscar esos nuevos mecanismos, pero potenciando el ideal democrático y no aplicando censura y más control sobre Internet como viene ocurriendo en muchos casos.
+Es que los Estados deberán adaptarse a los nuevos caminos en que se está desarrollando estas tecnologías  y buscar esos nuevos mecanismos, pero potenciando el ideal democrático y no aplicando censura y más control sobre Internet como viene ocurriendo en muchos casos.
 
 Existen plataformas como [Airbnb](https://www.airbnb.com.py/), [Uber](https://www.uber.com/), [AgoraPy](https://www.redagorapy.com) u otras, que que en eliminan los intermediarios, eluden los controles y son de gran utilidad para toda la población: **Internet** ha permitido el surgimiento de **nuevas formas de relacionamiento e intercambio** que muchas veces provocan el derrumbamiento de viejos privilegios y reconfiguran el escenario político-social.
 
