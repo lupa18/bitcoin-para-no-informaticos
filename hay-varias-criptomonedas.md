@@ -1,5 +1,7 @@
 # Bitcon, Zcash, Faircoin ¿cuántas criptomonedas hay?
 
+![](/assets/22995486509_37e64b26d9_o.jpg)
+
 En las dos entregas anteriores, hablamos de [forma general de las criptomonedas](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-1-que-son-las-criptomonedas/), y vimos alguna de las [críticas al sistema](https://www.tedic.org/bitcoin-para-no-informaticos-entrega-2-las-criticas-al-sistema/). Esta vez veremos algunas criptomonedas que nos parecen relevantes.
 
 Comencemos respondiendo la pregunta del título, ¿cuántas criptomonedas hay? La pregunta no refiere a las existencias de una criptomonedas, sino a los diferentes sistemas de criptomonedas. En este sentido, hay **cientos de criptomonedas diferentes**: bitcoin fue solo la primera[^3]. De hecho deberás tener cuidado pues hay monedas con nombres muy similares: para evitar dudas, chequea dos veces que la moneda que vas a comprar sea la adecuada así como su **acrónimo que suele ser un código de 3 letras**, por ejemplo, **Bitcoin es BTC**, mientras que **Bitocoin Cash es BCH** y si bien tienen un origen común, hoy son dos programas y dos blockchains totalmente diferentes.
@@ -98,13 +100,13 @@ Puedes investigar más en la [web de Chia](https://chia.network) y en su secció
 
 ## Ethereum, más allá de las monedas
 
-En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una plataforma que combina una **criptomoneda** \(ether\) ara el intercambio y almacenamiento de valor, con un innovador concepto de **contratos inteligentes **ente pares \(o "smart contracts"\). Esto sumado a su lenguaje de programación permite la creación de aplicaciones descentralizadas \(Daps\). Por lo tanto Ethereum es una criptomoneda, un protocolo, un lenguaje de programación y una plataforma de aplicaciones.
+En al último de los artículos discutiremos otros usos de las tecnologías de blockchain, más allá de las criptomonedas, sin embargo adelantaremos algo hablando de Ethereum \(ETH\), que es una plataforma que combina una **criptomoneda** \(ether\) para el intercambio y almacenamiento de valor, con un innovador concepto de **contratos inteligentes **entre pares \(o "smart contracts"\). Esto sumado a su lenguaje de programación permite la creación de aplicaciones descentralizadas \(Daps\). Por lo tanto Ethereum es una criptomoneda, un protocolo, un lenguaje de programación y una plataforma de aplicaciones.
 
-El proyecto comenzó a funcionar en 2015 y se financió a través de financiación colectiva o "crowdfunding", obteniendo unos 15 millones de dólares en 2014. A pesar de tener ya 3 años de desarrollo, el proyecto aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que pronto cambiará a ProofOfStake \(PoS, prueba de participación\).
+El proyecto comenzó a funcionar en 2015 y se financió utilizando "crowdfunding"[^11], obteniendo unos 15 millones de dólares en 2014. A pesar de tener 3 años de desarrollo, el proyecto aún se considera en fase beta. Si bien su prueba algorítmica utiliza ProofOfWork \(PoW\), se supone que pronto cambiará a ProofOfStake \(PoS, prueba de participación\).
 
 El **total de monedas** en momentos de escribir este artículo es de unas **100 millones**[^8], que irá creciendo cada año en una especie de inflación controlada decreciente[^9].
 
-En cuanto a los **contratos inteligentes**, estos son unidades programables en la red ethereum en las que dadas ciertas condiciones iniciales, aseguran que al cumplirse, se ececuta cierta transacción, y todo esto utilizando el blockchain. Estos contratos pueden interactuar con otros, para ejecutar aplicaciones más complejas.
+En cuanto a los **contratos inteligentes**, estos son unidades programables en la red ethereum en las que dadas ciertas condiciones iniciales, aseguran que al cumplirse, se ejecuta cierta transacción, y todo esto utilizando el blockchain. Estos contratos pueden interactuar con otros, para ejecutar aplicaciones más complejas.
 
 Es importante aclarar que para comprender y utilizar esta plataforma en todo su potencial, sí se requieren conocimientos en informática y probablemente de programación. Puedes seguir leyendo en la [Web de Ethereum](https://ethereum.org/) y sobre todo en sus [Preguntas Frecuentes](https://www.ethereum.org/ether).
 
@@ -144,4 +146,6 @@ Esperemos que te haya gustado el artículo, y que te sea de utilidad para compre
 [^9]: Puedes leer interesante hilo de discusión en el [foro de ethereum: https://forum.ethereum.org/discussion/46/total-supply-of-eth](https://forum.ethereum.org/discussion/46/total-supply-of-eth)
 
 [^10]:  Este protocolo ha sido adoptado recientemente por Ethereum: [https://z.cash/es/blog/ethereum-snarks.html](https://z.cash/es/blog/ethereum-snarks.html)
+
+[^11]: Crowdfunding o micromecenazgo es un mecanismo colaborativo de de financiación de proyectos. 
 
