@@ -16,6 +16,8 @@ Puedes seguir investigando en el sitio web de [Namecoin](https://namecoin.org/).
 
 ### Variadas
 
+[Nube p2p](https://subutai.io)
+
 [Blockchain y salud](https://futurism.com/blockchain-ready-completely-transform-healthcare-industry/)
 
 [Blockstat](https://blockstack.org): "nueva Internet para aplicaciones descentralizadas"
@@ -42,6 +44,4 @@ FIXME: revisar:
 ### Curiosidades
 
 [Cripto-Radiador QC-1: Un radiador que calienta el ambiente mientras mina criptomonedas](https://www.neoteo.com/cripto-radiador-qc-1-un-radiador-que-calienta-el-ambiente-mientras-mina-criptomonedas/)
-
-
 
