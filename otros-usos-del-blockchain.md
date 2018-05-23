@@ -4,6 +4,8 @@ FIXME: capítulo en desarrollo
 
 FIXME: la idea de este capítulo es presentar los usos más innovadores del Blockchain
 
+FIXME: poner esto en algún lado [Glosario Blockchain](https://www.technologyreview.es/s/10178/glosario-blockchain-tecnicismos-de-cadena-de-bloques-de-la-la-z)
+
 ## La emancipación de los dominios: Namecoin
 
 Existe una moneda cuya función principal no es el intercambio de valor por sí mismo, sino..
