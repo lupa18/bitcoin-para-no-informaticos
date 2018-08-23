@@ -34,50 +34,49 @@ De nuevo, una forma de intercambiar cripto es **persona-a-persona**. Le pides a 
 
 Una forma más impersonal es a través de las **casas de cambio** o **exchanges. ** Esto implica algunos pasos extra. Pero de forma simplificada, tu depositas allí los dólares y la casa de cambio envía los bitcoins a tu dirección, según la cotización **"de mercado"**. Muchas veces esas propias casas de cambio te ofrecen guardar tus criptos, pero es una práctica no muy recomendable, dada la cantidad de robos que han ocurrido. Así que si usas una casa de cambio, saca tus criptos de allí. Estas también permiten colocar **órdenes de compra** \(condicionales\) de forma tal que estableces lo siguiente: comprar 0,1 bitcoin siempre que el precio baje 4.000 dólares[^3]. Si esa condición se cumple, entonces se ejecuta la transferencia a tu billetera obteniendo 0,1 btc al precio de 400 dólares.
 
-También existen otras formas como **cajeros automáticos **que funcionan en algunos países de Europa. En este caso depositas tus dólares en la máquina y esta transfiere a la dirección que le indiques. 
+También existen otras formas como **cajeros automáticos **que funcionan en algunos países de Europa. En este caso depositas tus dólares en la máquina y esta transfiere a la dirección que le indiques.
 
-Otros métodos con otras monedas podrían ser el **intercambio de bienes y servicios** a través de redes cooperativas como ocurre con [Faircoin](https://fair-coin.org/) y la red [Faircoop](https://fair.coop) que ya mencionamos en una entrega anterior. 
+Otros métodos con otras monedas podrían ser el **intercambio de bienes y servicios** a través de redes cooperativas como ocurre con [Faircoin](https://fair-coin.org/) y la red [Faircoop](https://fair.coop) que ya mencionamos en una entrega anterior.
 
-También hay redes sociales como [Minds](https://www.minds.com) que están utilizando la tecnología de Blockchain y criptomoneda para pagar por el uso y promoción de tu información y comportamientos. De este modo, obtendrías los "Tokens" de Minds, simplemente por utilizar la red.   
+También hay redes sociales como [Minds](https://www.minds.com) que están utilizando la tecnología de Blockchain y criptomoneda para pagar por el uso y promoción de tu información y comportamientos. De este modo, obtendrías los "Tokens" de Minds, simplemente por utilizar la red.
 
-Más adelante veremos paso a paso algunas técnicas para comprar criptomonedas adaptadas a la región sur de América. 
+Más adelante veremos paso a paso algunas técnicas para comprar criptomonedas adaptadas a la región sur de América.
 
 ## El precio de mercado
 
-A diferencia del dinero de curso forzoso, **la mayoría de las criptomonedas rigen su precio por el "mercado"**, es decir, por la oferta y la demanda. En los últimos meses los precios de bitcoin y similares \(Zcash, Dash, LiteCoin, BitcoinGold, \) están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa. En el futuro se espera que el sistema se haga más resiliente, los precios se estabilicen y alguna de las monedas pueda funcionar en la práctica tal como hoy se utiliza el dinero físico. 
+A diferencia del dinero de curso forzoso, **la mayoría de las criptomonedas rigen su precio por el "mercado"**, es decir, por la oferta y la demanda. En los últimos meses los precios de bitcoin y similares \(Zcash, Dash, LiteCoin, BitcoinGold, \) están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa. En el futuro se espera que el sistema se haga más resiliente, los precios se estabilicen y alguna de las monedas pueda funcionar en la práctica tal como hoy se utiliza el dinero físico.
 
 Veamos la **explicación del precio** tomada de la [web de Bitcoin en español](https://bitcoin.org/es/faq#que-determina-el-precio-del-bitcoin):
 
 > "El precio del bitcoin se determina por la oferta y la demanda. Cuando se incrementa la demanda de bitcoin, el precio sube, y cuando cae la demanda, cae el precio. Hay un número limitado de bitcoins en circulación y los nuevos bitcoins son creados a una velocidad predecible y decreciente, esto significa que la demanda debe seguir este nivel de inflación para mantener un precio estable. Debido a que Bitcoin es todavía un mercado relativamente pequeño comparado con lo que podrá llegar a ser, no es necesaria una significativa cantidad de dinero para mover el precio del mercado arriba o abajo, es por eso que el precio del bitcoin es todavía muy volatil"
 
-Son muchas las plataformas de compra y venta de criptomonedas y es apartir de esas plataformas que se van colocando órdenes de compra y venta que van haciendo variar los precios. 
+Los precios se van estableciendo en función de las miles de transacciones que van ocurriendo en las plataformas de compra y venta, o exchanges [^2]. Cada una tiene mecanismos de validación de usuarios, de compra y de venta, de condiciones de depósito, comisiones, etc, etc.. Además no todas manejan las mismas monedas, recuerda que hay centenas de criptos. Como resultado de toda esta variada configuración hay gente que prefiere una u otra plataforma.
 
-En el ejemplo de que alguna persona conocida te venda critpomonedas, pueden acordar también un precio diferente al de mercado, nada lo imprediría ¿no? Porque al final, ¿qué es lo que da el valor a las cosas?
+En esta plataforma llamada [BitInfoCharts](https://bitinfocharts.com) tienes un listado de varias criptomonedas, sus caraterísticas y también sus precios en diferentes casas de cambio. [Cryptowatch](https://cryptowat.ch/) es una plataforma similar, aunque más orientada al precio y a su variación. 
 
-Sobre las pltaformas de intercambio, alguna de las que se pueden listar son [Coinbase](https://www.coinbase.com/), [Poloniex](https://poloniex.com/), [Cex.io](https://cex.io/), [Coinmama](https://www.coinmama.com), [LocalBitcoins](https://localbitcoins.com/), [Kraken](https://www.kraken.com/), [Bitfinex](https://www.bitfinex.com/), [SatohiTango](https://satoshitango.com),  [Bisq](https://bisq.network/), etc.[^2], y cada una tiene mecanismos, precios y condiciones: no todas tienen los mismos precios o comisiones, no todas manejan todas las monedas, no todas permiten colocar fondos de la misma forma, etc.. En otro apartado veremos cómo realizar transacciones con criptomonedas de forma práctica.
+Todo lo antedicho no evita que vos y tu contraparte decidan un **precio diferente** al de "mercado". Después de todo ¿qué es lo que da el valor a las cosas? Digamos que el precio de mercado del zcash es 200 dólares pero encuentras a una persona cercana que te los vende a 205, puede ser un buen negocio ya que te evitas todo el trámite de enviar tus dólares a un exchange y las posibles comisiones. 
 
-## ¿Comisiones?
+## Los precios fijos o anclados
 
-Ya se nombró algunas veces el concepto de comisión. Efectivamente, para sostener la red, debe haber un incentivo.
+Pero ya menciomamos que existen otras criptomonedas que no necesariamente se rigen por un precio de "mercado" \(mercado de casas cambiarias\) sino que establecen sus precios por otros mecanismos.
+
+Un ejemplo de esas es Faircoin que fija su precio por asamblea. En momentos de escribir este texto, el precio de 1 FAIR equivale a 1,2 euros \(decidido en la [asamblea del 15 de enero de 2018](https://board.net/p/r.c834302f8c713b3a7073bf9827d3d3fb)\). Esto tiene por detrás una postura política que no cree en los precios del mercado y que argumenta que los mismos suelen estar manipulados por actores poderososo, de tal forma que se observan grandes fluctuaciones y los pequeños siempre pierden. En cambio la confianza en una gobernanza horizontal y asamblearia es lo que determina su precio, que va en consonancia con su organización cooperativa y su apuesta por un comercio justo. El precio de FAIR está siempre visible en su web: [https://fair-coin.org/](https://fair-coin.org/) y también allí se explica cuál es la estrategia al respecto: [https://fair-coin.org/en/create-value](https://fair-coin.org/en/create-value) \(en inglés\). 
+
+Otro caso de anclaje fijo es el [Petro](https://es.wikipedia.org/wiki/Petro_%28criptomoneda%29), la criptomoneda venezolana, es la primera en ser creada y respaldada por un Estado Nacional. El valor de la misma **no es fijo**, pero tampoco se mueve según los precios de mercado de los exchanges, sino del valor del barril de petróleo: un petro equivale al precio de **1 barril de petróleo en el mercado internacional**. Este es un proyecto muy nuevo con una billetera que no tiene su código disponible al público hasta el momento. Si te interesa, puedes encontrar más información en su página web: [https://www.petromoneda.net](https://www.petromoneda.net)
+
+## ¿Qué son las comisiones?
+
+Toda transacción de criptomoneda implica una comisión que varía en cada caso, es decir, cada cripto establece cómo serán las comisiones y cómo se repartiran. En general se utilizan para dar recompensas a los mineros y así hacer que la red tenga más nodos y por lo tanto sea más segura y resiliente. 
 
 FIXME: continuar
 
-¿Qué es la minería de criptomonedas?
+## ¿Qué es la minería de criptomonedas?
 
 FIXME: continuar
 
-## Herramientas
-
-Aquí presentamos algunas herramientas que te pueden resultar de gran utilidad.
-
-* [https://bitinfocharts.com](https://bitinfocharts.com) - Una comparativa de diferentes aspectos de las criptomonedas: precio, capitalización de mercado, cantidad de transacciones, tamaño del blockhain, etc.. 
-* [https://cryptowat.ch/](https://cryptowat.ch/)
-
----
+ 
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión
-
-
 
 [^1]: En realidad la donación que realicé fue a un solo nodo de la red Diaspora\* denominado [diasp.org](https://diasp.org/)
 
