@@ -37,11 +37,19 @@ FIXME: revisar:
 
 [Flixxo](http://www.flixxo.com/): Video y Blockchain \| [Artículo](https://torrentfreak.com/popcorn-time-creator-readies-bittorrent-blockchain-powered-youtube-competitor-171012/)
 
+Comprobación de propiedad? [https://bitmark.com/](https://bitmark.com/)
+
 ### Redes Sociales
 
 [Earn.com](https://earn.com/): "Microtasks, micropayments, blockchains, and decentralization."
 
 [Steemit](https://steemit.com): es una **red social** que combina la creación de contenido, la interacción con usuarios y el uso de una criptomoneda llamada Steem \(de Wikipedia\)
+
+Yours: [https://www.yours.org/](https://www.yours.org/)
+
+## Prospectiva de cryptoeconomía
+
+[https://viz.envisioning.io/cryptonomy](https://viz.envisioning.io/cryptonomy)
 
 ### Curiosidades
 
