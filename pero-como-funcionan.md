@@ -52,29 +52,29 @@ Veamos la **explicación del precio** tomada de la [web de Bitcoin en español](
 
 Los precios se van estableciendo en función de las miles de transacciones que van ocurriendo en las plataformas de compra y venta, o exchanges [^2]. Cada una tiene mecanismos de validación de usuarios, de compra y de venta, de condiciones de depósito, comisiones, etc, etc.. Además no todas manejan las mismas monedas, recuerda que hay centenas de criptos. Como resultado de toda esta variada configuración hay gente que prefiere una u otra plataforma.
 
-En esta plataforma llamada [BitInfoCharts](https://bitinfocharts.com) tienes un listado de varias criptomonedas, sus caraterísticas y también sus precios en diferentes casas de cambio. [Cryptowatch](https://cryptowat.ch/) es una plataforma similar, aunque más orientada al precio y a su variación. 
+En esta plataforma llamada [BitInfoCharts](https://bitinfocharts.com) tienes un listado de varias criptomonedas, sus caraterísticas y también sus precios en diferentes casas de cambio. [Cryptowatch](https://cryptowat.ch/) es una plataforma similar, aunque más orientada al precio y a su variación.
 
-Todo lo antedicho no evita que vos y tu contraparte decidan un **precio diferente** al de "mercado". Después de todo ¿qué es lo que da el valor a las cosas? Digamos que el precio de mercado del zcash es 200 dólares pero encuentras a una persona cercana que te los vende a 205, puede ser un buen negocio ya que te evitas todo el trámite de enviar tus dólares a un exchange y las posibles comisiones. 
+Todo lo antedicho no evita que vos y tu contraparte decidan un **precio diferente** al de "mercado". Después de todo ¿qué es lo que da el valor a las cosas? Digamos que el precio de mercado del zcash es 200 dólares pero encuentras a una persona cercana que te los vende a 205, puede ser un buen negocio ya que te evitas todo el trámite de enviar tus dólares a un exchange y las posibles comisiones.
 
 ## Los precios fijos o anclados
 
 Pero ya menciomamos que existen otras criptomonedas que no necesariamente se rigen por un precio de "mercado" \(mercado de casas cambiarias\) sino que establecen sus precios por otros mecanismos.
 
-Un ejemplo de esas es Faircoin que fija su precio por asamblea. En momentos de escribir este texto, el precio de 1 FAIR equivale a 1,2 euros \(decidido en la [asamblea del 15 de enero de 2018](https://board.net/p/r.c834302f8c713b3a7073bf9827d3d3fb)\). Esto tiene por detrás una postura política que no cree en los precios del mercado y que argumenta que los mismos suelen estar manipulados por actores poderososo, de tal forma que se observan grandes fluctuaciones y los pequeños siempre pierden. En cambio la confianza en una gobernanza horizontal y asamblearia es lo que determina su precio, que va en consonancia con su organización cooperativa y su apuesta por un comercio justo. El precio de FAIR está siempre visible en su web: [https://fair-coin.org/](https://fair-coin.org/) y también allí se explica cuál es la estrategia al respecto: [https://fair-coin.org/en/create-value](https://fair-coin.org/en/create-value) \(en inglés\). 
+Un ejemplo de esas es Faircoin que fija su precio por asamblea. En momentos de escribir este texto, el precio de 1 FAIR equivale a 1,2 euros \(decidido en la [asamblea del 15 de enero de 2018](https://board.net/p/r.c834302f8c713b3a7073bf9827d3d3fb)\). Esto tiene por detrás una postura política que no cree en los precios del mercado y que argumenta que los mismos suelen estar manipulados por actores poderososo, de tal forma que se observan grandes fluctuaciones y los pequeños siempre pierden. En cambio la confianza en una gobernanza horizontal y asamblearia es lo que determina su precio, que va en consonancia con su organización cooperativa y su apuesta por un comercio justo. El precio de FAIR está siempre visible en su web: [https://fair-coin.org/](https://fair-coin.org/) y también allí se explica cuál es la estrategia al respecto: [https://fair-coin.org/en/create-value](https://fair-coin.org/en/create-value) \(en inglés\).
 
 Otro caso de anclaje fijo es el [Petro](https://es.wikipedia.org/wiki/Petro_%28criptomoneda%29), la criptomoneda venezolana, es la primera en ser creada y respaldada por un Estado Nacional. El valor de la misma **no es fijo**, pero tampoco se mueve según los precios de mercado de los exchanges, sino del valor del barril de petróleo: un petro equivale al precio de **1 barril de petróleo en el mercado internacional**. Este es un proyecto muy nuevo con una billetera que no tiene su código disponible al público hasta el momento. Si te interesa, puedes encontrar más información en su página web: [https://www.petromoneda.net](https://www.petromoneda.net)
 
 ## ¿Qué son las comisiones?
 
-Toda transacción de criptomoneda implica una comisión que varía en cada caso, es decir, cada cripto establece cómo serán las comisiones y cómo se repartiran. En general se utilizan para dar recompensas a los mineros y así hacer que la red tenga más nodos y por lo tanto sea más segura y resiliente. 
+En general las criptomonedas tienen un mecanismo de pequeñas** comisiones** para el sostenimiento de la red. Cada cripto establece cómo serán las comisiones y cómo se repartiran. Estas comisiones se utilizan para recompensar a quienes ponen _poder de cómputo_ u otro bien \(como _espacio en disco_\) a disposición de la red. 
 
-FIXME: continuar
+Esta posibilidad de ganar monedas poniendo ciertos bienes a disposición de la red es muy beneficioso para particulares, que es lo que se conoce como **minería**.  A su vez, la puesta en funcionamiento de más nodos, hace que la red de dicha criptomoneda sea más segura y resiliente.
+
+Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión
 
 ## ¿Qué es la minería de criptomonedas?
 
 FIXME: continuar
-
- 
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión
 
