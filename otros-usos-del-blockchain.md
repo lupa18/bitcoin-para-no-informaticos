@@ -31,6 +31,8 @@ FIXME: revisar:
 * [https://yourblock.io/](https://yourblock.io/)
 * [https://aragon.one/](https://aragon.one/)
 
+[SIA](https://sia.tech/), respaldos descentralizados. 
+
 ### Publicación de contenidos
 
 [Creative Chain](https://www.creativechain.org): Obras creativas
