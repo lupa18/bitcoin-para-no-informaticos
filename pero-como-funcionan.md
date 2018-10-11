@@ -68,6 +68,8 @@ Otro caso de anclaje fijo es el [Petro](https://es.wikipedia.org/wiki/Petro_%28c
 
 ## ¿Qué es la minería de criptomonedas?
 
+![](/assets/farm-2852025_1280_2.jpg)
+
 La **minería** es el proceso de **validación** nuevos bloques, que se agregan al blockchain. Por lo tanto, cuanto nodos haya realizando este trabajo, mejor será la validación y más confiable y potente será la red. Esto consiste en pruebas algorítmicas que cada nodo realiza automáticamente y que varía según cada criptomoneda. Bitcoin utiliza una prueba conocida como **Prueba de Trabajo** o **ProofOfWork \(PoW\)** que requiere la utilización de gran cantidad de tiempo y poder de cómputo.
 
 Desde tu punto de vista, esto puede significar dejar tu computadora prendida y que se recaliente, y que consumas mucha energía \(al menos en el caso de Bitcoin\). También puede ser utilizar una parte importante de tu disco duro u otro bien cada criptomoneda utilice como prueba. Entonces, **¿para qué pondrías tu equipo a minar?**
@@ -80,7 +82,7 @@ Un mecanismo posible es que se vayan **generando paulatinamente **y a la vez sir
 
 Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque validado, luego pasó a 25 y actualmente está en 12.5 bitcoin por bloque \(se reduce a la mitad cada 4 años aproximadamente\). Al principio obtener bitcoins por minería era una tarea relativamente sencilla pero a medida que la recompensa se redujo y la complejidad del sistema aumentó se vuelve cada vez más difícil hacerlo. Además para esta moneda en particular, minar hoy en día requiere muchísimo poder de cómputo, tanto que se suelen diseñar grandes cantidades de computadoras trabajando juntas para lograrlo. A esto se le denomina **pool de minería**: si quieres ver algo impresionante, revisa este video de cripto minería en China: [https://youtu.be/K8kua5B5K3I](https://youtu.be/K8kua5B5K3I)
 
-El hecho de que necesites enormes equipos informáticos para hacer minería puede ser visto como un elemento negativo, ya que el objetivo inicial es obtener un sistema lo más distribuido posible y este problema de la ProofOfWork ha llevado a grandes concentraciones de poder de cómputo. Por ello hay muchas cripto intentan mejorar el sistema PoW, que se blindan contra la posibilidad de hardware específico de minería, como para que no se genere una competencia desleal con el "usuario común". Incluso otras cripto que realizan pruebas algorítmicas totalmente diferentes en la que la minería no dependa del poder de cómputo. En otro capítulo discutiremos esto. 
+El hecho de que necesites enormes equipos informáticos para hacer minería puede ser visto como un elemento negativo, ya que el objetivo inicial es obtener un sistema lo más distribuido posible y este problema de la ProofOfWork ha llevado a grandes concentraciones de poder de cómputo. Por ello hay muchas cripto intentan mejorar el sistema PoW, que se blindan contra la posibilidad de hardware específico de minería, como para que no se genere una competencia desleal con el "usuario común". Incluso otras cripto que realizan pruebas algorítmicas totalmente diferentes en la que la minería no dependa del poder de cómputo. En otro capítulo discutiremos esto.
 
 ## Las comisiones
 
