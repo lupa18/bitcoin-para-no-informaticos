@@ -80,6 +80,8 @@ Un mecanismo posible es que se vayan **generando paulatinamente **y a la vez sir
 
 Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque validado, luego pasó a 25 y actualmente está en 12.5 bitcoin por bloque \(se reduce a la mitad cada 4 años aproximadamente\). Al principio obtener bitcoins por minería era una tarea relativamente sencilla pero a medida que la recompensa se redujo y la complejidad del sistema aumentó se vuelve cada vez más difícil hacerlo. Además para esta moneda en particular, minar hoy en día requiere muchísimo poder de cómputo, tanto que se suelen diseñar grandes cantidades de computadoras trabajando juntas para lograrlo. A esto se le denomina **pool de minería**: si quieres ver algo impresionante, revisa este video de cripto minería en China: [https://youtu.be/K8kua5B5K3I](https://youtu.be/K8kua5B5K3I)
 
+El hecho de que necesites enormes equipos informáticos para hacer minería puede ser visto como un elemento negativo, ya que el objetivo inicial es obtener un sistema lo más distribuido posible y este problema de la ProofOfWork ha llevado a grandes concentraciones de poder de cómputo. Por ello hay muchas cripto intentan mejorar el sistema PoW, que se blindan contra la posibilidad de hardware específico de minería, como para que no se genere una competencia desleal con el "usuario común". Incluso otras cripto que realizan pruebas algorítmicas totalmente diferentes en la que la minería no dependa del poder de cómputo. En otro capítulo discutiremos esto. 
+
 ## Las comisiones
 
 Pero qué ocurre ahora que es tan difícil obtener nuevos bitcoins o peor aún ¿qué ocurrirá cuando ya todos los bitcoins estén generados?
