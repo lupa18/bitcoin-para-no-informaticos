@@ -1,18 +1,18 @@
 # Pero ¿cómo funcionan?
 
-¿Cómo puedo comenzar a utilizar el sistema? Primero es importante entender algunos **conceptos** y usaremos Bitcoin como ejemplo; más adelante podrás intentar aplicar lo aprendido para otras criptomonedas
+Muy bien, en capítulos anteriores vimos qué son las criptomonedas, las críticas y la variedad de propuestas que hay. Ahora quizás de preguntes, ¿cómo puedo comenzar a utilizarlas? Primero es importante entender algunos **otros conceptos** \(utilizaremos Bitcoin como ejemplo y más adelante podrás intentar aplicar lo aprendido para otras criptomonedas\).
 
 Repasemos cómo funciona, tomando un párrafo del libro "Bitcoin: La moneda del futuro"[^4]:
 
 > Cuando un usuario A transfiere bitcoins a un usuario B, el usuario A renuncia a su posesión de un determinado número de bitcoins, agregándoles la llave pública de B y firmando la combinación resultante con su llave privada \(gracias al empleo de la criptografía asimétrica, la llave privada no puede ser deducida de la firma que de ella deriva\). Esta información se transmite a toda la red P2P como una nueva transacción. Entonces, el resto de los nodos de la red verifican el número de bitcoins involucrados y la autenticidad de las firmas criptográficas, antes de aceptar la transacción como válida.
 
-Es decir, que para comenzar, es necesario crear una **billetera**, que puede ser "online", o puede estar en tu computadora, o incluso en tu celular --esto lo retomaremos en el siguiente artículo. A partir de ella, puedes generar **direcciones públicas** que servirán para establecer el punto de recibida de una transacción. Estas direcciones públicas pueden ser una o varias y depende de la criptomoneda, pero podría lucir así: 1k9B1wWZoJLcdYMg3vTrWYNfynbSCNDfs. En algunos casos, como al utilizar el celular, se codifica con un código QR, por lo que podría lucir así:
+Es decir, que para comenzar, es necesario crear una **billetera**, que puede ser "online", o puede estar en tu computadora, o incluso en tu celular —esto lo retomaremos en el siguiente artículo. A partir de ella, puedes generar **direcciones públicas** que servirán para establecer el punto de recibida de una transacción. Estas direcciones públicas pueden ser una o varias y depende de la criptomoneda; en el caso de bitcoin, luce algo así: 1k9B1wWZoJLcdYMg3vTrWYNfynbSCNDfs. En algunos casos, como por ejemplo cuando utilices tu celular, está la opción de codificar esa dirección como un QR:
 
 ![](/assets/Bitcoin_TEDIC.jpg)
 
-Entonces, utilizando este tipo de direcciones, que **se generan desde tu billetera**,  es que se reciben los bitcoins. La dirección que se tomó como ejemplo, pertenece a una billetera de la [ONG TEDIC](https://www.tedic.org) por lo que si alguien envía Bitcoins hacia allí, la billetera de Tedic verá aumentar su cantidad de bitcoins.
+Entonces, una dirección de este tipo, que **se genera desde tu billetera**, es que vas a recibir los bitcoins u otra moneda. La dirección que se tomó como ejemplo, pertenece a una billetera de la [ONG TEDIC](https://www.tedic.org), por lo que si alguien envía Bitcoins hacia allí, la billetera de Tedic verá aumentar su cantidad de bitcoins.
 
-Como se puede apreciar las **direcciones públicas** de Bitcoin, no tienen información del usuario. Por otro lado, recordemos que en esta criptomoneda todas **las transacciones y sus metadatos son públicos **y esto podrían servir para identificar a los usuarios.
+Como se puede apreciar las **direcciones públicas** de Bitcoin, no tienen información del usuario, sino que son simplemente un código. Sin embargo cabe recordar que en esta criptomoneda todas **las transacciones y sus metadatos son públicos,** lo que podría servir para identificar a los usuarios.
 
 Veamos el ejemplo de una transacción de fines de 2016 en la que se realizó [una donación](https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e) a la red social Diaspora\*[^1]. Se puede acceder en el siguiente enlace: [https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e](https://blockchain.info/tx/dce48ad9632b213e37c7c100f340d12ce11f99f55b2dc7478cea3ece4558f32e)
 
@@ -20,19 +20,19 @@ Y así es como se ve la información completa de la transacción y sus metadatos
 
 ![](/assets/transaccion_diaspora.png)En este ejemplo, se ven las **dos direcciones implicadas** en la transacción así como otra información sobre la misma: monto, comisión, fecha y hora, y otra serie de datos importantes.
 
-También puedes hacer clic en "Ver gráfico de árbol" para explorar el camino futuro que siguieron esos bicoins transaccionados hacia subsiguientes direcciones públicas.
+También puedes hacer clic en "Ver gráfico de árbol" para explorar el camino futuro que siguieron esos bicoins que luego se fraccionaron y enviaron hacia otras personas \(hacia otras direcciones\). 
 
-Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas critpográficas para no exponer partes de la transacción, ni sus metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir dinero.
+Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas critpográficas para no exponer partes de la transacción, ni sus metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir valor.
 
 Volviendo al tema de las **direcciones**, decíamos que puedes generar tantas **direcciones públicas **como quieas: incluso hay quienes recomiendan generar una por cada transacción.
 
-Una vez que tienes la billetera y las direcciones, debes lograr que alguien **transfiera bitcoins** a tu billetera, enviándole tu dirección —como por ejemplo la de TEDIC— y entregándole dinero o servicios a cambio, o simplemente pidiéndole una donación.
+Una vez que tienes la billetera y las direcciones, debes lograr que alguien **transfiera bitcoins** a tu billetera, enviándole tu dirección —como por ejemplo la de TEDIC— e intercambiarlos por dinero o servicios a cambio, o simplemente pidiéndole una donación.
 
-No es necesario transferir 1 bitcoin, pues como ya mencionamos, las criptomonedas son** divisibles,** por lo que se puede trabajar con fracciones, por ejemplo 0,01 btc sería una parte en cien de 1 bitcoin. En el caso de esta moneda, se puede dividir hasta 0.00000001 btc, lo que se denomina 1 Satoshi \(en honor a su creador [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto)\).
+**No es necesario** transferir 1 bitcoin, pues como ya mencionamos, las criptomonedas son** divisibles,** por lo que se puede trabajar con fracciones, por ejemplo 0,01 btc sería una parte en cien de 1 bitcoin. En el caso de esta moneda, se puede dividir hasta 0.00000001 btc, lo que se denomina 1 Satoshi \(en honor a su creador [Satoshi Nakamoto](https://es.wikipedia.org/wiki/Satoshi_Nakamoto)\).
 
-De nuevo, una forma de intercambiar cripto es **persona-a-persona**. Le pides a alguien que te envíe cierta cantidad y a cambio le  entregas algunos billetes de curso legal \(dólares, pesos, soles o lo que fuere\). Incluso podrías intercambiar algún servicio como la  limpieza de un dormitorio, el cuidado de su hija, un corte de césped o un corte de cabello. Entonces una vez entregado el dinero o realizado el servicio, esta persona te enviaría los bitcoins a tu billetera. Esto no está exento de riesgos, ya que podrías ser víctima de robo o estafa, tal como puede ocurrir en cualquier transacción si no conoces a tu contraparte.
+De nuevo, una forma de intercambiar cripto es **persona-a-persona**. Le pides a alguien que te envíe cierta cantidad y a cambio le  entregas algunos billetes de curso legal \(dólares, pesos, soles o lo que fuere\). Incluso podrías intercambiar algún servicio como la  limpieza de un dormitorio, el cuidado de su hija, un corte de césped o un corte de cabello. Entonces una vez entregado el dinero o realizado el servicio, esta persona te enviaría los bitcoins a tu billetera. Esto puede implicar riesgos, ya que podrías ser víctima de robo o estafa, tal como puede ocurrir con dólares o cualquier otro intercambio.
 
-Una forma más impersonal es a través de las **casas de cambio** o **exchanges. ** Esto implica algunos pasos extra. Pero de forma simplificada, tu depositas allí los dólares y la casa de cambio envía los bitcoins a tu dirección, según la cotización **"de mercado"**. Muchas veces esas propias casas de cambio te ofrecen guardar tus criptos, pero es una práctica no muy recomendable, dada la cantidad de robos que han ocurrido. Así que si usas una casa de cambio, saca tus criptos de allí. Estas también permiten colocar **órdenes de compra** \(condicionales\) de forma tal que estableces lo siguiente: comprar 0,1 bitcoin siempre que el precio baje 4.000 dólares[^3]. Si esa condición se cumple, entonces se ejecuta la transferencia a tu billetera obteniendo 0,1 btc al precio de 400 dólares.
+Una forma más impersonal es a través de las **casas de cambio** o **exchanges. ** Esto implica algunos pasos extra. Pero de forma simplificada, tu depositas allí los dólares y la casa de cambio envía los bitcoins a tu dirección, según la cotización **"de mercado"**. Muchas veces esas propias casas de cambio te ofrecen guardar tus criptos, pero es una práctica no muy recomendable, dada la cantidad de robos que han ocurrido. Así que si usas una casa de cambio, una vez que transformas los dólares en crypto, sácalos a tu computadora \(ojo, que si no tienes respaldos de tu billetera, esto puede ser muy riesgoso, ya que podrías perder tu computadora y con ella tus monedas\). Las casas de cambio también permiten colocar **órdenes de compra** de forma tal que estableces condiciones para realizar la transacción. Por ejemplo: comprar 0,1 bitcoin siempre que el precio baje a 4.000 dólares[^3]. Si esa condición se cumple, entonces se ejecuta la transferencia a tu billetera obteniendo 0,1 btc al precio de 400 dólares.
 
 También existen otras formas como **cajeros automáticos **que funcionan en algunos países de Europa. En este caso depositas tus dólares en la máquina y esta transfiere a la dirección que le indiques.
 
@@ -44,45 +44,71 @@ Más adelante veremos paso a paso algunas técnicas para comprar criptomonedas a
 
 ## El precio de mercado
 
-A diferencia del dinero de curso forzoso, **la mayoría de las criptomonedas rigen su precio por el "mercado"**, es decir, por la oferta y la demanda. En los últimos meses los precios de bitcoin y similares \(Zcash, Dash, LiteCoin, BitcoinGold, \) están fluctuando más de lo deseado y seguramente existen quienes las utilizan de forma especulativa. En el futuro se espera que el sistema se haga más resiliente, los precios se estabilicen y alguna de las monedas pueda funcionar en la práctica tal como hoy se utiliza el dinero físico.
+A diferencia del dinero de curso forzoso, **la mayoría de las criptomonedas rigen su precio por el "mercado"**, es decir, por la oferta y la demanda. En los últimos meses los precios de bitcoin y similares \(Zcash, Dash, LiteCoin, BitcoinGold, \) están fluctuando más de lo deseado y hay poderosos especuladores en torno a ellas. En el futuro se espera que el sistema se haga más resiliente, los precios se estabilicen y alguna de las monedas pueda funcionar en la práctica tal como hoy se utiliza el dinero físico.
 
 Veamos la **explicación del precio** tomada de la [web de Bitcoin en español](https://bitcoin.org/es/faq#que-determina-el-precio-del-bitcoin):
 
 > "El precio del bitcoin se determina por la oferta y la demanda. Cuando se incrementa la demanda de bitcoin, el precio sube, y cuando cae la demanda, cae el precio. Hay un número limitado de bitcoins en circulación y los nuevos bitcoins son creados a una velocidad predecible y decreciente, esto significa que la demanda debe seguir este nivel de inflación para mantener un precio estable. Debido a que Bitcoin es todavía un mercado relativamente pequeño comparado con lo que podrá llegar a ser, no es necesaria una significativa cantidad de dinero para mover el precio del mercado arriba o abajo, es por eso que el precio del bitcoin es todavía muy volatil"
 
-Los precios se van estableciendo en función de las miles de transacciones que van ocurriendo en las plataformas de compra y venta, o exchanges [^2]. Cada una tiene mecanismos de validación de usuarios, de compra y de venta, de condiciones de depósito, comisiones, etc, etc.. Además no todas manejan las mismas monedas, recuerda que hay centenas de criptos. Como resultado de toda esta variada configuración hay gente que prefiere una u otra plataforma.
+Los precios se van estableciendo en función de las miles de transacciones que van ocurriendo en las plataformas de compra y venta, o **exchanges**[^2]. Cada una tiene mecanismos de validación de usuarios, de compra y de venta, de condiciones de depósito, comisiones, etc.. Además no todas manejan las mismas monedas, recuerda que hay centenas de criptos. Como resultado de toda esta variada configuración hay gente que prefiere una u otra plataforma.
 
-En esta plataforma llamada [BitInfoCharts](https://bitinfocharts.com) tienes un listado de varias criptomonedas, sus caraterísticas y también sus precios en diferentes casas de cambio. [Cryptowatch](https://cryptowat.ch/) es una plataforma similar, aunque más orientada al precio y a su variación.
+En la plataforma llamada [CryptoCompare](https://www.cryptocompare.com/) tienes un listado de varias criptomonedas, sus caraterísticas y también sus precios en diferentes casas de cambio. [Cryptowatch](https://cryptowat.ch/) es una plataforma similar, aunque más orientada al precio y a su variación.
 
-Todo lo antedicho no evita que vos y tu contraparte decidan un **precio diferente** al de "mercado". Después de todo ¿qué es lo que da el valor a las cosas? Digamos que el precio de mercado del zcash es 200 dólares pero encuentras a una persona cercana que te los vende a 205, puede ser un buen negocio ya que te evitas todo el trámite de enviar tus dólares a un exchange y las posibles comisiones.
+Todo esto que mencionamos, no prohibe que vos y tu contraparte decidan un **precio diferente** al de "mercado". Después de todo ¿qué es lo que da el valor a las cosas? Digamos que el precio de mercado del zcash es 200 dólares pero encuentras a una persona cercana que te los vende a 210, puede ser un buen negocio ya que te evitas todo el trámite de enviar tus dólares a un exchange y las posibles comisiones.
 
 ## Los precios fijos o anclados
 
-Pero ya menciomamos que existen otras criptomonedas que no necesariamente se rigen por un precio de "mercado" \(mercado de casas cambiarias\) sino que establecen sus precios por otros mecanismos.
+Ya menciomamos que existen otras criptomonedas que no necesariamente se rigen por un precio de "mercado" \(mercado de casas cambiarias\) sino que **establecen sus precios por otros mecanismos.**
 
-Un ejemplo de esas es Faircoin que fija su precio por asamblea. En momentos de escribir este texto, el precio de 1 FAIR equivale a 1,2 euros \(decidido en la [asamblea del 15 de enero de 2018](https://board.net/p/r.c834302f8c713b3a7073bf9827d3d3fb)\). Esto tiene por detrás una postura política que no cree en los precios del mercado y que argumenta que los mismos suelen estar manipulados por actores poderososo, de tal forma que se observan grandes fluctuaciones y los pequeños siempre pierden. En cambio la confianza en una gobernanza horizontal y asamblearia es lo que determina su precio, que va en consonancia con su organización cooperativa y su apuesta por un comercio justo. El precio de FAIR está siempre visible en su web: [https://fair-coin.org/](https://fair-coin.org/) y también allí se explica cuál es la estrategia al respecto: [https://fair-coin.org/en/create-value](https://fair-coin.org/en/create-value) \(en inglés\).
+Un ejemplo de esas es **Faircoin** que fija su precio** por asamblea**. En momentos de escribir este texto, el precio de 1 FAIR equivale a 1,2 euros \(decidido en la [asamblea del 15 de enero de 2018](https://board.net/p/r.c834302f8c713b3a7073bf9827d3d3fb)\). Esto tiene por detrás una postura política que **no cree en los precios del mercado** y que argumenta que los mismos suelen estar manipulados por actores poderososo, de tal forma que se observan grandes fluctuaciones y los pequeños siempre pierden. Según esta perspectiva, lo más importante es la confianza basada en la horizontalidad, que va en consonancia con su organización cooperativa y su apuesta por un comercio justo. El precio de FAIR está siempre visible en su web: [https://fair-coin.org/](https://fair-coin.org/) y también allí se explica cuál es la estrategia al respecto: [https://fair-coin.org/en/create-value](https://fair-coin.org/en/create-value) \(en inglés\).
 
 Otro caso de anclaje fijo es el [Petro](https://es.wikipedia.org/wiki/Petro_%28criptomoneda%29), la criptomoneda venezolana, es la primera en ser creada y respaldada por un Estado Nacional. El valor de la misma **no es fijo**, pero tampoco se mueve según los precios de mercado de los exchanges, sino del valor del barril de petróleo: un petro equivale al precio de **1 barril de petróleo en el mercado internacional**. Este es un proyecto muy nuevo con una billetera que no tiene su código disponible al público hasta el momento. Si te interesa, puedes encontrar más información en su página web: [https://www.petromoneda.net](https://www.petromoneda.net)
 
+## ¿Qué es la minería de criptomonedas?
+
+La **minería** es el proceso de **validación** nuevos bloques, que se agregan al blockchain. Por lo tanto, cuanto nodos haya realizando este trabajo, mejor será la validación y más confiable y potente será la red. Esto consiste en pruebas algorítmicas que cada nodo realiza automáticamente y que varía según cada criptomoneda. Bitcoin utiliza una prueba conocida como **Prueba de Trabajo** o **ProofOfWork \(PoW\)** que requiere la utilización de gran cantidad de tiempo y poder de cómputo.
+
+Desde tu punto de vista, esto puede significar dejar tu computadora prendida y que se recaliente, y que consumas mucha energía \(al menos en el caso de Bitcoin\). O privarte de utilizar una parte importante de tu disco duro. O lo que sea que la moneda utilice como prueba. Entonces, **¿para qué pondrías tu equipo a minar?**
+
+Para responder la pregunta debemos comenzar a entender cómo se generan y distribuyen las monedas. Pongamos como ejemplo bitcoin. Desde su **diseño** se especificó que la máxima cantidad de btc en el mercado sería de 21 millones[^5]. Esto es así para evitar la inflación desproporcionada y hacer una distribución confiable y equilibrada. Pero ¿cómo lograrlo?
+
+Un mecanismo posible es que se vayan **generando paulatinamente ** y a la vez sirvan para **recompensar** a quienes colaboran con poder de cómputo para la red. De ahí el nombre de minería: "si pones tu máquina a resolver algoritmos y robustecer la red, serás recompensado con las nuevas monedas que se van creando a lo largo del tiempo". 
+
+Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque generado y este monto se fue reduciendo hasta la actualidad que  
+
+Veamos primero las **comisiones**. Es un pequeño costo porcentual asociado a cada transacción en la red que se configura al momento de enviar la misma. Cuando un minero es el primero en verificar un bloque, se queda con la comisión asociada, por lo que los mineros suelen priorizar las transacciones con mayor comisión.
+
+El proceso de aumento de las existencias fue controlado con el paso de los años y la minería también fue el mecanismo para que esto ocurra.  
+
+Muchos de estos proyectos, comienzan su trabajo con un número pequeño de monedas en el mercado, y el Para alentar a las personas y grupos a correr nodos completos, existen las recompensas que se otorgan cada vez que un minero tiene éxito en los cálculos de generación de nuevo bloque. Esto es lo que en bitcoin se conoce como Prueba de Trabajo \(ProofOfWork\).  que pueden estar generadas a partir de las pequeñas **comisiones por cada transacción.** que es una pequeña suma que se cobra al emisor y que 
+
+En **bitcoin**, como ya mencionamos, la existencia total de monedas está fijo en  la puesta en funcionamiento de las monedas ha sido paulatino con el paso del tiempo.
+
+Como suele implicar costos de cómputo u otro bien, suele recompensarse con monedasPara alentar a que más gente instale y corra nodos en la red, y que la red se vuelva más fuerte y resiliente, existe un mecanismo que se llama **minería**. Es el proceso de validación de la incorporación de nuevos bloques al blockchain. 
+
 ## ¿Qué son las comisiones?
 
-En general las criptomonedas tienen un mecanismo de pequeñas** comisiones** para el sostenimiento de la red. Cada cripto establece cómo serán las comisiones y cómo se repartiran. Estas comisiones se utilizan para recompensar a quienes ponen _poder de cómputo_ u otro bien \(como _espacio en disco_\) a disposición de la red. 
+Para alentar 
 
-Esta posibilidad de ganar monedas poniendo ciertos bienes a disposición de la red es muy beneficioso para particulares, que es lo que se conoce como **minería**.  A su vez, la puesta en funcionamiento de más nodos, hace que la red de dicha criptomoneda sea más segura y resiliente.
+En general las criptomonedas tienen un mecanismo de pequeñas** comisiones** para el sostenimiento de la red. Cada cripto establece cómo serán las comisiones y cómo se repartiran. Estas comisiones se utilizan para recompensar a quienes ponen _poder de cómputo_ u otro bien \(como _espacio en disco_\) a disposición de la red.
+
+Entonces suele ser conveniente colaborar con poder de cómputo, o espacio en disco, ya que existe la posibilidad de ganar  monedas a la vez de fortalecer la red de la criptomoneda. 
+
+Desde el punto de vista de la red, o A su vez, la puesta en funcionamiento de más nodos, hace que la red de dicha criptomoneda sea más segura y resiliente.
 
 Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión
 
-## ¿Qué es la minería de criptomonedas?
+## 
 
-FIXME: continuar
-
-**Palabras clave:** transacción, dirección, metadato, billetera, comisión
+**Palabras clave:** transacción, dirección, metadato, billetera, comisión, minería
 
 [^1]: En realidad la donación que realicé fue a un solo nodo de la red Diaspora\* denominado [diasp.org](https://diasp.org/)
 
 [^2]: Aquí hay un [listado y tabla comparativa](https://www.bestbitcoinexchange.io/) que te puede ser de utilidad. Y aquí un listado de los 80 exchanges más importante por su volumen de transacciones: [https://cryptocoincharts.info/markets/info](https://cryptocoincharts.info/markets/info)
 
-[^3]: Al momento de escribir estos artículos el precio de mercado de Bitcoin había superado los 10 mil dólares por unidad.
+[^3]: Al momento de escribir estos artículos el precio de mercado de Bitcoin estaba en torno a 6500 dólares.
 
 [^4]: González Otero, J. M., & Moreno de la Cova, F. \(2013\). Bitcoin: la moneda del futuro : qué es, cómo funciona y porqué cambiará el mundo. Madrid: Unión Editorial.
+
+[^5]: Actualmente hay unos 17 millones de bitcoin en circulación y se calcula que en 2020 se habrán generado los 21 millones. Fuente: [https://www.bitcoinblockhalf.com](https://www.bitcoinblockhalf.com/)
 
