@@ -1,6 +1,6 @@
 # Pero ¿cómo funcionan?
 
-Muy bien, en capítulos anteriores vimos qué son las criptomonedas, las críticas y la variedad de propuestas que hay. Ahora quizás de preguntes, ¿cómo puedo comenzar a utilizarlas? 
+Muy bien, en capítulos anteriores vimos qué son las criptomonedas, las críticas y la variedad de propuestas que hay. Ahora quizás te preguntes, ¿cómo puedo comenzar a utilizarlas?
 
 Primero es importante entender algunos **otros conceptos** por lo que este capítulo también lo dedicaremos a brindar algunos conceptos más prácticos. Además utilizaremos Bitcoin como ejemplo, y más adelante podrás intentar aplicar lo aprendido para otras criptomonedas.
 
@@ -12,7 +12,7 @@ Es decir, que para comenzar, es necesario crear una **billetera**, que puede ser
 
 ![](/assets/Bitcoin_TEDIC.jpg)
 
-Entonces, una dirección de este tipo, que **se genera desde tu billetera**, es que vas a recibir los bitcoins u otra moneda. La dirección que se tomó como ejemplo, pertenece a una billetera de la [ONG TEDIC](https://www.tedic.org), por lo que si alguien envía Bitcoins hacia allí, la billetera de Tedic verá aumentar su cantidad de bitcoins.
+Entonces **desde tu billetera **, vas a generar una dirección de ese tipo y allí es donde podrás recibir los bitcoins u otra moneda. La dirección que se tomó como ejemplo, pertenece a una billetera de la [ONG TEDIC](https://www.tedic.org), por lo que si alguien envía Bitcoins hacia allí, la billetera de Tedic verá aumentar su cantidad de bitcoins.
 
 Como se puede apreciar las **direcciones públicas** de Bitcoin, no tienen información del usuario, sino que son simplemente un código. Sin embargo cabe recordar que en esta criptomoneda todas **las transacciones y sus metadatos son públicos,** lo que podría servir para identificar a los usuarios.
 
