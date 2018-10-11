@@ -24,7 +24,7 @@ Y así es como se ve la información completa de la transacción y sus metadatos
 
 También puedes hacer clic en "Ver gráfico de árbol" para explorar el camino futuro que siguieron esos bicoins que luego se fraccionaron y enviaron hacia otras personas \(hacia otras direcciones\).
 
-Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas critpográficas para no exponer partes de la transacción, ni sus metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir valor.
+Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas criptográficas para no exponer partes de la transacción, ni sus metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir valor.
 
 Volviendo al tema de las **direcciones**, decíamos que puedes generar tantas **direcciones públicas **como quieas: incluso hay quienes recomiendan generar una por cada transacción.
 
