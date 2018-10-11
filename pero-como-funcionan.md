@@ -20,7 +20,7 @@ Y así es como se ve la información completa de la transacción y sus metadatos
 
 ![](/assets/transaccion_diaspora.png)En este ejemplo, se ven las **dos direcciones implicadas** en la transacción así como otra información sobre la misma: monto, comisión, fecha y hora, y otra serie de datos importantes.
 
-También puedes hacer clic en "Ver gráfico de árbol" para explorar el camino futuro que siguieron esos bicoins que luego se fraccionaron y enviaron hacia otras personas \(hacia otras direcciones\). 
+También puedes hacer clic en "Ver gráfico de árbol" para explorar el camino futuro que siguieron esos bicoins que luego se fraccionaron y enviaron hacia otras personas \(hacia otras direcciones\).
 
 Más adelante veremos que algunas monedas aplican lo que se conoce como ["privacidad por diseño"](https://karisma.org.co/que-es-la-privacidad-por-diseno-y-por-que-deberia-importarle/) y utilizan nuevas técnicas critpográficas para no exponer partes de la transacción, ni sus metadatos. Un ejemplo de esto es Zcash que utiliza [pruebas de conocimiento-cero](https://es.wikipedia.org/wiki/Prueba_de_conocimiento_cero) \(zero-knowledge\) para ocultar los metadatos y convertirse una de las formas más seguras y anónimas de transferir valor.
 
@@ -68,37 +68,27 @@ Otro caso de anclaje fijo es el [Petro](https://es.wikipedia.org/wiki/Petro_%28c
 
 La **minería** es el proceso de **validación** nuevos bloques, que se agregan al blockchain. Por lo tanto, cuanto nodos haya realizando este trabajo, mejor será la validación y más confiable y potente será la red. Esto consiste en pruebas algorítmicas que cada nodo realiza automáticamente y que varía según cada criptomoneda. Bitcoin utiliza una prueba conocida como **Prueba de Trabajo** o **ProofOfWork \(PoW\)** que requiere la utilización de gran cantidad de tiempo y poder de cómputo.
 
-Desde tu punto de vista, esto puede significar dejar tu computadora prendida y que se recaliente, y que consumas mucha energía \(al menos en el caso de Bitcoin\). O privarte de utilizar una parte importante de tu disco duro. O lo que sea que la moneda utilice como prueba. Entonces, **¿para qué pondrías tu equipo a minar?**
+Desde tu punto de vista, esto puede significar dejar tu computadora prendida y que se recaliente, y que consumas mucha energía \(al menos en el caso de Bitcoin\). También puede ser utilizar una parte importante de tu disco duro u otro bien cada criptomoneda utilice como prueba. Entonces, **¿para qué pondrías tu equipo a minar?**
 
-Para responder la pregunta debemos comenzar a entender cómo se generan y distribuyen las monedas. Pongamos como ejemplo bitcoin. Desde su **diseño** se especificó que la máxima cantidad de btc en el mercado sería de 21 millones[^5]. Esto es así para evitar la inflación desproporcionada y hacer una distribución confiable y equilibrada. Pero ¿cómo lograrlo?
+Una primer respuesta es simplemente porque crees en el sistema y quieres apoyarlo con uno o varios nodos, pero para algunas personas no es suficiente. Entonces se buscan otros incentivos, **¿qué otros incentivos hay?**
 
-Un mecanismo posible es que se vayan **generando paulatinamente ** y a la vez sirvan para **recompensar** a quienes colaboran con poder de cómputo para la red. De ahí el nombre de minería: "si pones tu máquina a resolver algoritmos y robustecer la red, serás recompensado con las nuevas monedas que se van creando a lo largo del tiempo". 
+Para responder la pregunta debemos comenzar a entender cómo se generan y distribuyen algunas monedas. Pongamos como ejemplo bitcoin. Desde su **diseño** se especificó que la máxima cantidad de btc en el mercado sería de 21 millones[^5]. Esto llama existencia controlada y se realiza para evitar la inflación desproporcionada. Es decir, se comienza de 0 y se llega a este tope, pero ¿cómo puedo resolver la distribución de estas monedas?
 
-Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque generado y este monto se fue reduciendo hasta la actualidad que  
+Un mecanismo posible es que se vayan **generando paulatinamente **y a la vez sirvan para **recompensar** a quienes colaboran con poder de cómputo para la red. De ahí el nombre de **minería**: _"si pones tu máquina a resolver algoritmos y robustecer la red, serás recompensado con las nuevas monedas que se van creando a lo largo del tiempo"_.
 
-Veamos primero las **comisiones**. Es un pequeño costo porcentual asociado a cada transacción en la red que se configura al momento de enviar la misma. Cuando un minero es el primero en verificar un bloque, se queda con la comisión asociada, por lo que los mineros suelen priorizar las transacciones con mayor comisión.
+Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque validado, luego pasó a 25 y actualmente está en 12.5 bitcoin por bloque. El problema que obtener bitcoins por este mecanismo de minería, se ha vuelto cada vez más dificil y requiere muchísimo poder de cómputo. Si quieres ver algo impresionante, revisa este video de cripto minería en China: [https://youtu.be/K8kua5B5K3I](https://youtu.be/K8kua5B5K3I)
 
-El proceso de aumento de las existencias fue controlado con el paso de los años y la minería también fue el mecanismo para que esto ocurra.  
+## Las comisiones
 
-Muchos de estos proyectos, comienzan su trabajo con un número pequeño de monedas en el mercado, y el Para alentar a las personas y grupos a correr nodos completos, existen las recompensas que se otorgan cada vez que un minero tiene éxito en los cálculos de generación de nuevo bloque. Esto es lo que en bitcoin se conoce como Prueba de Trabajo \(ProofOfWork\).  que pueden estar generadas a partir de las pequeñas **comisiones por cada transacción.** que es una pequeña suma que se cobra al emisor y que 
+Pero qué ocurre ahora que es tan difícil obtener nuevos bitcoins o peor aún ¿qué ocurrirá cuando ya todos los bitcoins estén generados?
 
-En **bitcoin**, como ya mencionamos, la existencia total de monedas está fijo en  la puesta en funcionamiento de las monedas ha sido paulatino con el paso del tiempo.
+Allí es donde entran las las **comisiones **de transacción que son un pequeño monto porcentual que se cobra a quien emite una nueva transacción. Este monto es la la **recompensa** para los mineros que colaboran en validar las transacciones del blockchian. 
 
-Como suele implicar costos de cómputo u otro bien, suele recompensarse con monedasPara alentar a que más gente instale y corra nodos en la red, y que la red se vuelva más fuerte y resiliente, existe un mecanismo que se llama **minería**. Es el proceso de validación de la incorporación de nuevos bloques al blockchain. 
+Ya hablando de otras criptomonedas, cada una establece cómo es su existencia y sus mecanismos de generación de nuevas monedas, además de **cómo serán las comisiones**. Todo eso provoca que la minería sea diferente para cada cripto. 
 
-## ¿Qué son las comisiones?
+Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión.
 
-Para alentar 
 
-En general las criptomonedas tienen un mecanismo de pequeñas** comisiones** para el sostenimiento de la red. Cada cripto establece cómo serán las comisiones y cómo se repartiran. Estas comisiones se utilizan para recompensar a quienes ponen _poder de cómputo_ u otro bien \(como _espacio en disco_\) a disposición de la red.
-
-Entonces suele ser conveniente colaborar con poder de cómputo, o espacio en disco, ya que existe la posibilidad de ganar  monedas a la vez de fortalecer la red de la criptomoneda. 
-
-Desde el punto de vista de la red, o A su vez, la puesta en funcionamiento de más nodos, hace que la red de dicha criptomoneda sea más segura y resiliente.
-
-Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión
-
-## 
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión, minería
 
@@ -108,7 +98,7 @@ Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(f
 
 [^3]: Al momento de escribir estos artículos el precio de mercado de Bitcoin estaba en torno a 6500 dólares.
 
-[^4]: González Otero, J. M., & Moreno de la Cova, F. \(2013\). Bitcoin: la moneda del futuro : qué es, cómo funciona y porqué cambiará el mundo. Madrid: Unión Editorial.
+[^4]: González Otero, J. M., & Moreno de la Cova, F. \(2013\). Bitcoin: la moneda del futuro: qué es, cómo funciona y porqué cambiará el mundo. Madrid: Unión Editorial.
 
 [^5]: Actualmente hay unos 17 millones de bitcoin en circulación y se calcula que en 2020 se habrán generado los 21 millones. Fuente: [https://www.bitcoinblockhalf.com](https://www.bitcoinblockhalf.com/)
 
