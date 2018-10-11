@@ -76,19 +76,17 @@ Para responder la pregunta debemos comenzar a entender cómo se generan y distri
 
 Un mecanismo posible es que se vayan **generando paulatinamente **y a la vez sirvan para **recompensar** a quienes colaboran con poder de cómputo para la red. De ahí el nombre de **minería**: _"si pones tu máquina a resolver algoritmos y robustecer la red, serás recompensado con las nuevas monedas que se van creando a lo largo del tiempo"_.
 
-Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque validado, luego pasó a 25 y actualmente está en 12.5 bitcoin por bloque. El problema que obtener bitcoins por este mecanismo de minería, se ha vuelto cada vez más dificil y requiere muchísimo poder de cómputo. Si quieres ver algo impresionante, revisa este video de cripto minería en China: [https://youtu.be/K8kua5B5K3I](https://youtu.be/K8kua5B5K3I)
+Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque validado, luego pasó a 25 y actualmente está en 12.5 bitcoin por bloque \(se reduce a la mitad cada 4 años aproximadamente\). Al principio obtener bitcoins por minería era una tarea relativamente sencilla pero a medida que la recompensa se redujo y la complejidad del sistema aumentó se vuelve cada vez más difícil hacerlo. Además para esta moneda en particular, minar hoy en día requiere muchísimo poder de cómputo: si quieres ver algo impresionante, revisa este video de cripto minería en China: [https://youtu.be/K8kua5B5K3I](https://youtu.be/K8kua5B5K3I)
 
 ## Las comisiones
 
 Pero qué ocurre ahora que es tan difícil obtener nuevos bitcoins o peor aún ¿qué ocurrirá cuando ya todos los bitcoins estén generados?
 
-Allí es donde entran las las **comisiones **de transacción que son un pequeño monto porcentual que se cobra a quien emite una nueva transacción. Este monto es la la **recompensa** para los mineros que colaboran en validar las transacciones del blockchian. 
+Allí es donde entran las las **comisiones **de transacción que son un pequeño monto porcentual que se cobra a quien emite una nueva transacción. Este monto es la la **recompensa** para los mineros que colaboran en validar las transacciones del blockchian.
 
-Ya hablando de otras criptomonedas, cada una establece cómo es su existencia y sus mecanismos de generación de nuevas monedas, además de **cómo serán las comisiones**. Todo eso provoca que la minería sea diferente para cada cripto. 
+Ya hablando de otras criptomonedas, cada una establece cómo es su existencia y sus mecanismos de generación de nuevas monedas, además de **cómo serán las comisiones**. Todo eso provoca que la minería sea diferente para cada cripto.
 
 Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión.
-
-
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión, minería
 
