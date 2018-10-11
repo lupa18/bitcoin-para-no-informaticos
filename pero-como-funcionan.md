@@ -1,6 +1,8 @@
 # Pero ¿cómo funcionan?
 
-Muy bien, en capítulos anteriores vimos qué son las criptomonedas, las críticas y la variedad de propuestas que hay. Ahora quizás de preguntes, ¿cómo puedo comenzar a utilizarlas? Primero es importante entender algunos **otros conceptos** \(utilizaremos Bitcoin como ejemplo y más adelante podrás intentar aplicar lo aprendido para otras criptomonedas\).
+Muy bien, en capítulos anteriores vimos qué son las criptomonedas, las críticas y la variedad de propuestas que hay. Ahora quizás de preguntes, ¿cómo puedo comenzar a utilizarlas? 
+
+Primero es importante entender algunos **otros conceptos** por lo que este capítulo también lo dedicaremos a brindar algunos conceptos más prácticos. Además utilizaremos Bitcoin como ejemplo, y más adelante podrás intentar aplicar lo aprendido para otras criptomonedas.
 
 Repasemos cómo funciona, tomando un párrafo del libro "Bitcoin: La moneda del futuro"[^4]:
 
@@ -82,19 +84,15 @@ Así en sus inicios, se generaban y distribuían unos 50 btc por cada bloque val
 
 Pero qué ocurre ahora que es tan difícil obtener nuevos bitcoins o peor aún ¿qué ocurrirá cuando ya todos los bitcoins estén generados?
 
-Allí es donde entran las las **comisiones **de transacción que son un pequeño monto porcentual que se cobra a quien emite una nueva transacción. Este monto es la la **recompensa** para los mineros que colaboran en validar las transacciones del blockchian. Entonce si bien la recompensa de nuevos bitcoins se reduce, la recompensa por comisiones equilibra ya que cada vez hay más y más transacciones en la red. 
+Allí es donde entran las las **comisiones **de transacción que son un pequeño monto porcentual que se cobra a quien emite una nueva transacción. Este monto es la la **recompensa** para los mineros que colaboran en validar las transacciones del blockchian. Entonce si bien la recompensa de nuevos bitcoins se reduce, la recompensa por comisiones equilibra ya que cada vez hay más y más transacciones en la red.
 
 Ahora, hablando de otras criptomonedas, cada una establece cómo es su existencia y sus mecanismos de generación de nuevas monedas, además de **cómo serán las comisiones**. Todo eso provoca que la minería sea diferente para cada cripto.
 
 Como un ejemplo, al momento de escribir este artículo, al enviar **5 FAIR** \(faircoin\) la **comisión aproximada** es de 0,001808 es decir 0,036% un valor bastante interesante como comisión.
 
-
-
-Una **conclusión** de este capítulo es la siguiente: si bien la minería podría haber sido un negocio interesante desde el punto de vista económico para quienes apoyaron al sistema inicialmente, hoy en día no está al alcance de las personas individuales ganar cripto minando \(al menos para el caso de bitcoin\). 
+Una **conclusión** de este capítulo es la siguiente: si bien la minería podría haber sido un negocio interesante desde el punto de vista económico para quienes apoyaron al sistema inicialmente, hoy en día no está al alcance de las personas individuales ganar cripto minando \(al menos para el caso de bitcoin\).
 
 Ya tienes un panorama de cómo es una transacción, cómo se determinan los precios, qué es la minería y qué son las comisiones. Esperamos te sea de utilidad y quieras leer nuestro futuro artículo sobre "Cómo crear una billetera".
-
-
 
 **Palabras clave:** transacción, dirección, metadato, billetera, comisión, minería
 
